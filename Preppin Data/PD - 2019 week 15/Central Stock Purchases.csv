@@ -1,0 +1,1001 @@
+Customer ID,First Name,Last Name,Sales,Order Date,Stock
+1,Berny,Robjant,6087.89,01/08/2018,Park Sterling Corporation
+2,Fanni,Ackenhead,6294.87,08/01/2018,"Titan International, Inc."
+3,Keelby,Northcote,5768.85,20/01/2019,Brookfield Real Assets Income Fund Inc.
+4,Riva,Rosenhaupt,4073.2,22/03/2018,AllianzGI Equity & Convertible Income Fund
+5,Shoshanna,Jeacop,4586.99,10/07/2017,"Aratana Therapeutics, Inc."
+6,Bonnibelle,Bourdon,5877.19,20/04/2017,"RCM Technologies, Inc."
+7,Dyna,Christol,1574.96,19/05/2017,Electrum Special Acquisition Corporation
+8,Gusta,Mahmood,304.99,07/01/2017,"Fusion Telecommunications International, Inc."
+9,Delores,Nieass,7798.91,03/03/2018,Panhandle Royalty Company
+10,Pansy,Newbury,508.47,05/01/2019,La Jolla Pharmaceutical Company
+11,Clemente,McKelloch,8181.08,13/09/2017,Xenon Pharmaceuticals Inc.
+12,Marge,Wearden,6563.08,26/03/2018,"Whole Foods Market, Inc."
+13,Adelle,Drane,1264.59,04/04/2019,Agenus Inc.
+14,Dido,Kosel,2144.33,17/10/2017,S&P Global Inc.
+15,Albina,Vivash,9077.38,10/08/2016,Virco Manufacturing Corporation
+16,Timothy,Trussman,5118.17,15/07/2016,ORBCOMM Inc.
+17,Shandee,Crothers,8103.25,20/02/2017,Glu Mobile Inc.
+18,Roxy,Lermit,7550.47,19/01/2019,TravelCenters of America LLC
+19,Kinny,Hughesdon,2761.8,20/10/2018,American Homes 4 Rent
+20,Gerta,MacIver,8780.92,14/09/2017,"ICC Holdings, Inc."
+21,Caterina,Gohn,2298.93,22/08/2016,Mobile TeleSystems OJSC
+22,Jaine,Renault,3419.24,19/07/2017,"Hallmark Financial Services, Inc."
+23,Kenton,Mayor,6760.7,03/12/2017,Almost Family Inc
+24,Stanislaus,Sabbatier,4171.19,13/06/2018,"Fogo de Chao, Inc."
+25,Karolina,Deal,7778.73,09/03/2018,Vicor Corporation
+26,Idalia,Grzegorczyk,3579.37,25/03/2017,iShares MSCI ACWI ex US Index Fund
+27,Ellswerth,Jacqueminot,9707.1,26/09/2016,Main Street Capital Corporation
+28,Annabel,Koeppke,4236.09,08/05/2017,"Olympic Steel, Inc."
+29,Hamid,Goodrich,2730.97,27/07/2016,"RealNetworks, Inc."
+30,Alix,Rugieri,8931.27,30/10/2018,iShares Fallen Angels USD Bond ETF
+31,Nobe,Betke,2209.03,27/11/2017,"AvalonBay Communities, Inc."
+32,Deonne,Benadette,9755.21,08/09/2016,Nuveen Intermediate Duration Municipal Term Fund
+33,Carlyn,Rawle,8058.95,23/02/2019,"Colony NorthStar, Inc."
+34,Zed,Vearnals,8100.81,04/04/2017,"New York REIT, Inc."
+35,Reube,Grayley,3657.12,04/07/2016,"Delta Air Lines, Inc."
+36,Early,Jimes,8673.82,17/02/2017,"SiteOne Landscape Supply, Inc."
+37,Ashly,Hellmore,8347.24,27/11/2016,"Bankwell Financial Group, Inc."
+38,Estella,Tease,651.97,08/01/2017,"Applied Materials, Inc."
+39,Chaim,Garrelts,8659.01,04/08/2016,Nuveen Quality Municipal Income Fund
+40,Dion,Webber,2487.51,29/11/2018,Silgan Holdings Inc.
+41,Penelopa,Weigh,1854.51,08/12/2017,"Voyager Therapeutics, Inc."
+42,Valentine,Crauford,9442.09,01/03/2018,"Duff & Phelps Utilities Tax-Free Income, Inc."
+43,Aimee,de Tocqueville,8285.18,13/12/2018,Morgan Stanley
+44,Basile,Dommett,6742.8,27/11/2017,PowerShares KBW Bank Portfolio
+45,Siouxie,Gilardoni,4915.4,08/09/2018,Dataram Corporation
+46,Courtnay,Cregg,9427.9,27/11/2016,Arlington Asset Investment Corp
+47,Gregg,Werrit,1138.24,25/03/2018,Lazard Global Total Return and Income Fund
+48,Erich,Abeau,4327.57,20/07/2017,Global X NASDAQ China Technology ETF
+49,Masha,Gaunt,5456.05,25/06/2016,Eaton Vance Tax-Managed Diversified Equity Income Fund
+50,Andreana,Childrens,5200.69,13/01/2019,Mountain Province Diamonds Inc.
+51,Auberta,Conrart,5906.7,03/05/2019,"LTC Properties, Inc."
+52,Neilla,Flanigan,4173.13,06/03/2019,The Long-Term Care ETF
+53,Reggie,Le Houx,4187.55,12/12/2016,iStar Financial Inc.
+54,Darleen,Gealle,6669.5,13/03/2018,Lions Gate Entertainment Corporation
+55,Yorke,Pray,342.07,11/01/2019,Eldorado Gold Corporation
+56,Sigismond,Orchart,4791.23,22/07/2016,"Ventas Realty, Limited Partnership // Ventas Capital Corporati"
+57,Aleen,Edmundson,1163.18,08/02/2017,Alphabet Inc.
+58,Sully,Rappa,3377.0,12/12/2016,Novelion Therapeutics Inc. 
+59,Marisa,Allonby,4581.96,29/09/2018,CPI Card Group Inc.
+60,Aurore,Litt,6833.82,01/05/2018,Natural Resource Partners LP
+61,Kay,Rodenborch,8716.09,08/05/2019,"Nicholas Financial, Inc."
+62,Leicester,Josipovic,128.02,20/02/2019,"Digiliti Money Group, Inc."
+63,Ellissa,Mundall,164.95,26/09/2016,Capital Southwest Corporation
+64,Elisha,Wellen,5405.01,08/12/2017,Petroleo Brasileiro S.A.- Petrobras
+65,Glendon,Woltman,6986.25,08/11/2018,Molina Healthcare Inc
+66,Elvis,Plinck,779.86,11/09/2017,Grupo Supervielle S.A.
+67,Andriette,Rosenvasser,3930.59,03/04/2017,"Essex Property Trust, Inc."
+68,Wolf,Olner,2896.6,17/09/2018,E*TRADE Financial Corporation
+69,Pepi,Wroath,5077.39,06/11/2017,"Group 1 Automotive, Inc."
+70,Minetta,Frears,6431.17,23/12/2018,"MFA Financial, Inc."
+71,Fallon,Ruf,1766.34,22/07/2016,Stone Energy Corporation
+72,Danell,Lodovichi,1523.4,06/03/2019,"TerraForm Global, Inc."
+73,Nancey,Mattielli,8919.3,05/05/2017,"LMI Aerospace, Inc."
+74,Cary,Abramamov,4352.41,05/05/2017,"Superior Industries International, Inc."
+75,Maxy,Royste,425.69,29/10/2018,LMP Capital and Income Fund Inc.
+76,Lavina,Mattocks,5825.66,08/05/2018,Novadaq Technologies Inc
+77,Nicky,De Freyne,4173.42,09/03/2018,Quidel Corporation
+78,Kettie,McCaskill,9972.24,11/10/2017,Verizon Communications Inc.
+79,Junie,Stansall,2164.33,23/01/2018,"AxoGen, Inc."
+80,Hector,Meineking,6753.59,25/11/2018,GGP Inc.
+81,Tammy,Kleszinski,7171.11,31/03/2017,J P Morgan Chase & Co
+82,Nigel,Collocott,7481.79,04/11/2018,Huntington Bancshares Incorporated
+83,Hamilton,Shardlow,7900.25,18/12/2018,Verizon Communications Inc.
+84,Auberta,Casely,1342.15,26/10/2016,8point3 Energy Partners LP
+85,Morna,Mushawe,621.26,12/09/2016,Abercrombie & Fitch Company
+86,Lyell,Belding,5332.57,30/01/2018,"CSW Industrials, Inc."
+87,Peterus,Snooks,6538.32,19/07/2018,"Guaranty Federal Bancshares, Inc."
+88,Duane,Ruf,2472.07,07/03/2017,Exterran Corporation
+89,Grata,Digan,4679.59,01/10/2016,Air Lease Corporation
+90,Mela,Cardon,5744.96,08/04/2019,Ingevity Corporation
+91,Jessalin,Huckel,6196.67,02/09/2017,Coty Inc.
+92,Zacharie,Schapiro,603.49,29/04/2017,CIM Commercial Trust Corporation
+93,Gisela,Masey,7786.58,09/09/2018,Willis Lease Finance Corporation
+94,Bliss,Kedslie,3122.31,20/03/2019,OceanFirst Financial Corp.
+95,Delilah,Collecott,4156.48,23/01/2017,"Exelixis, Inc."
+96,Estella,Beardwell,1692.59,11/12/2016,Stantec Inc
+97,Garrek,Mc Cahey,2919.74,05/04/2019,Vericel Corporation
+98,Roland,Brundill,9312.76,14/10/2018,Vanguard Russell 2000 Value ETF
+99,Markos,Margram,6088.4,18/05/2017,iShares S&P/Citigroup International Treasury Bond Fund
+100,Elfrida,Rookledge,2435.07,06/07/2018,Meridian Bioscience Inc.
+101,Shea,Lapenna,5320.23,04/09/2017,Reading International Inc
+102,Ludvig,Knobell,8542.05,23/10/2016,"Winnebago Industries, Inc."
+103,Donia,Dearlove,4907.58,28/02/2019,Cellectis S.A.
+104,Gris,Etherington,8557.56,22/07/2017,Vipshop Holdings Limited
+105,Brewster,Felder,8893.02,20/03/2019,Cabela's Inc
+106,Nanine,Trinke,2049.7,22/06/2018,M&T Bank Corporation
+107,Hermy,Nicholas,8847.7,28/08/2018,Emmis Communications Corporation
+108,Betsey,Abdie,4187.71,04/05/2017,"ConforMIS, Inc."
+109,Agace,Richarz,1483.48,09/02/2018,Ares Capital Corporation
+110,Dino,Kettridge,3177.59,12/11/2018,Star Bulk Carriers Corp.
+111,Fifine,Onion,9537.12,27/05/2018,Hi-Crush Partners LP
+112,Swen,Druitt,8174.47,02/09/2016,ProAssurance Corporation
+113,Nettie,Tilio,7844.52,20/07/2016,CHS Inc
+114,Noni,Lofts,7392.35,24/06/2016,"Westell Technologies, Inc."
+115,Emogene,Wyborn,5064.12,26/08/2017,"athenahealth, Inc."
+116,Guido,Edler,9134.59,02/01/2019,"Kandi Technologies Group, Inc."
+117,Abigail,Kobisch,3634.3,27/02/2018,Corporate Office Properties Trust
+118,Guglielma,McInulty,5026.27,07/09/2016,Tsakos Energy Navigation Ltd
+119,Katinka,Murrhaupt,5488.33,23/09/2017,"NetApp, Inc."
+120,Sorcha,Mandell,8595.4,16/04/2019,Nomad Foods Limited
+121,Errol,Bounde,6220.18,17/07/2018,Select Income REIT
+122,Imelda,McVeagh,7982.96,22/05/2017,Quorum Health Corporation
+123,Wynnie,Wyke,9034.35,05/10/2016,DryShips Inc.
+124,Tedi,Critch,7620.65,05/02/2018,SP Plus Corporation
+125,Maximilian,Bridson,486.45,28/11/2016,Appian Corporation
+126,Reidar,Padbery,3474.64,03/12/2016,Bank of Commerce Holdings (CA)
+127,Danna,Sidey,4016.12,26/11/2016,"Lazard World Dividend & Income Fund, Inc."
+128,Hadleigh,Humbee,5351.42,15/04/2017,Macquarie/First Trust Global
+129,Dall,Barfield,4406.14,17/05/2019,"RealPage, Inc."
+130,Thorsten,Laffan,6722.81,05/01/2019,"Source Capital, Inc."
+131,Phylys,Probate,6793.32,12/04/2018,China Distance Education Holdings Limited
+132,Sadella,Saladino,6904.61,15/09/2016,Express Scripts Holding Company
+133,Spenser,Gammons,5391.86,11/05/2019,First Trust Low Beta Income ETF
+134,Joy,Cauldfield,7703.3,15/11/2018,LivaNova PLC
+135,Patrizius,Armytage,3827.64,29/04/2019,Ivy High Income Opportunities Fund
+136,Daron,Tomczykowski,5869.85,26/12/2017,NASDAQ TEST STOCK
+137,Edwina,Orteaux,4612.67,09/07/2017,"Saia, Inc."
+138,Birk,Castellaccio,2610.38,27/04/2019,"Sunstone Hotel Investors, Inc."
+139,Rurik,Montier,9043.1,20/10/2017,"Dillard's, Inc."
+140,Isac,Abbott,7359.66,16/07/2016,ProShares UltraShort Nasdaq Biotechnology
+141,Cathi,Deny,5721.52,13/12/2016,"Hercules Capital, Inc."
+142,Bobbie,Esterbrook,4787.39,30/07/2016,Houghton Mifflin Harcourt Company
+143,Wittie,Duffree,963.64,02/02/2017,CONMED Corporation
+144,Aila,Prettyjohn,7422.85,07/05/2018,Deutsche Bank AG
+145,Shayla,Riddich,2065.46,04/12/2018,JM Global Holding Company
+146,Shelagh,Louca,8651.85,01/07/2018,Pimco Municipal Income Fund II
+147,Dorri,Bamsey,1101.56,07/09/2018,"Smith & Nephew SNATS, Inc."
+148,Clim,Casford,2620.8,24/12/2018,"Harvard Bioscience, Inc."
+149,Renault,Allkins,6364.91,06/01/2017,SP Plus Corporation
+150,Trevar,Charters,141.68,10/12/2016,Scorpio Bulkers Inc.
+151,Stinky,Barabisch,9131.81,27/09/2018,Gladstone Investment Corporation
+152,Neddy,Happs,9492.02,05/08/2017,Drive Shack Inc.
+153,Mellisent,Barford,6476.67,22/07/2018,"Weyco Group, Inc."
+154,Hiram,Hinken,7302.12,10/02/2018,"Esperion Therapeutics, Inc."
+155,Suzette,Thing,840.39,13/11/2016,FlexShares Credit-Scored US Long Corporate Bond Index Fund
+156,Dara,Cleiment,4617.01,25/11/2016,Vanguard Mortgage-Backed Securities ETF
+157,Ignace,Blaksley,5390.35,11/01/2017,"Ascent Capital Group, Inc."
+158,Erika,Sellers,9489.66,30/03/2018,"Templeton Global Income Fund, Inc."
+159,Marys,Tax,1139.65,06/10/2017,Xplore Technologies Corp
+160,Shoshanna,Kobierra,4101.44,22/12/2018,TopBuild Corp.
+161,Melvyn,Banasiak,2417.64,05/09/2018,"Korea Fund, Inc. (The)"
+162,Romola,Easman,553.85,02/09/2016,Neonode Inc.
+163,Caressa,Carrington,7809.27,25/09/2018,"NetEase, Inc."
+164,Clarisse,Dmitrovic,1066.22,26/04/2019,"MIDSTATES PETROLEUM COMPANY, INC."
+165,Corinna,Flipek,8430.03,05/01/2018,Vipshop Holdings Limited
+166,Boyd,Godber,9966.04,14/04/2017,BB&T Corporation
+167,Keefe,Dowbekin,5686.78,09/02/2019,"Versartis, Inc."
+168,Ailene,Dawney,9253.99,11/12/2018,"American Software, Inc."
+169,Robinson,Vautin,932.16,14/07/2018,Grupo Financiero Galicia S.A.
+170,Arnold,Chastang,3484.84,15/05/2018,Voya International High Dividend Equity Income Fund
+171,Jacklyn,Duck,2490.58,02/03/2017,National Fuel Gas Company
+172,Kania,Narey,8281.63,06/01/2018,"India Fund, Inc. (The)"
+173,Ashlee,Swindon,1529.18,08/08/2017,"Alteryx, Inc."
+174,Nanny,Found,9271.47,06/05/2019,"Energy Recovery, Inc."
+175,Violet,Zanni,7757.63,27/01/2018,Archer-Daniels-Midland Company
+176,Bethany,Attoc,1914.41,19/10/2018,"OpGen, Inc."
+177,Tiffi,Arthurs,5208.94,20/10/2016,Pangaea Logistics Solutions Ltd.
+178,Tymon,Sweetzer,4745.05,24/02/2017,"Nuance Communications, Inc."
+179,Grier,Brisson,3491.02,23/02/2017,"SK Telecom Co., Ltd."
+180,Brian,Inglis,2627.98,17/04/2018,"Alliance One International, Inc."
+181,Lorene,Pelerin,7746.39,17/05/2019,Comerica Incorporated
+182,Carol,Juszczyk,7033.29,24/11/2016,"Veritone, Inc."
+183,Booth,Lode,8267.04,01/06/2017,1st Source Corporation
+184,Brigham,Letten,656.86,03/10/2017,"Cytokinetics, Incorporated"
+185,Mohandas,Hurdiss,5755.48,23/01/2018,"Sprouts Farmers Market, Inc."
+186,Baudoin,Walden,2733.12,30/11/2017,Teekay Tankers Ltd.
+187,Moina,Burbudge,6481.72,27/09/2018,"Tortoise Pipeline & Energy Fund, Inc."
+188,Joellen,Wittier,4373.11,04/10/2017,"TESARO, Inc."
+189,Averil,Gentry,5192.5,24/01/2017,TiGenix
+190,Dene,Skegg,5773.06,31/10/2017,Embotelladora Andina S.A.
+191,Sam,Glantz,316.56,28/07/2018,St. Joe Company (The)
+192,Mischa,Serchwell,159.11,20/06/2017,"iKang Healthcare Group, Inc."
+193,Oran,Watts,9838.38,23/12/2018,Capella Education Company
+194,Elwyn,McConaghy,3961.59,14/12/2016,Citigroup Inc.
+195,Harland,Pieroni,6122.59,27/02/2019,Hi-Crush Partners LP
+196,Dorthy,Hilldrup,1103.1,01/02/2019,"Pro-Dex, Inc."
+197,Thebault,Texton,4305.03,29/06/2016,Scudder Strategic Income Trust
+198,Georgi,Clurow,4315.18,15/08/2018,"America Movil, S.A.B. de C.V."
+199,Wit,Vashchenko,8598.38,16/08/2016,Delta Technology Holdings Limited
+200,Elfie,Cregg,7253.91,08/03/2017,Liberty Global plc
+201,Arleta,McGillecole,794.87,30/05/2017,TCF Financial Corporation
+202,Kippy,Flippini,5136.79,08/12/2018,"Helmerich & Payne, Inc."
+203,Jarred,Leavesley,2957.52,06/06/2018,"CVR Refining, LP"
+204,Giordano,Geibel,7753.71,12/07/2016,"Nu Skin Enterprises, Inc."
+205,Pammy,Seccombe,2230.68,05/11/2018,Eastman Chemical Company
+206,Letta,Dines,9814.15,15/04/2017,First Trust SSI Strategic Convertible Securities ETF
+207,Raoul,Lorey,156.71,23/03/2018,New Home Company Inc. (The)
+208,Corrie,Hasling,1246.28,14/06/2016,"Bravo Brio Restaurant Group, Inc."
+209,Vi,Pleavin,3248.23,08/03/2017,"Patrick Industries, Inc."
+210,Dredi,Dugan,8349.52,02/09/2016,United Therapeutics Corporation
+211,Jamaal,Crocken,9917.32,29/11/2017,"Bonso Electronics International, Inc."
+212,Caralie,Gooddy,3108.03,15/03/2017,Strattec Security Corporation
+213,Jaquenetta,Boocock,7705.73,19/02/2018,General Finance Corporation
+214,Baxy,Rosgen,8292.06,31/07/2018,"AMC Entertainment Holdings, Inc."
+215,Constantine,Burdett,4717.89,25/03/2017,"Micron Technology, Inc."
+216,Vivian,Dalman,1742.3,05/09/2016,"Shake Shack, Inc."
+217,Elijah,Mourant,6257.58,21/06/2016,"PowerShares QQQ Trust, Series 1"
+218,Lazaro,Goodredge,9940.59,12/10/2016,"Commercial Vehicle Group, Inc."
+219,Rockie,Zettoi,9966.42,18/03/2018,"America Movil, S.A.B. de C.V."
+220,Denys,Esherwood,7146.3,28/11/2018,Purefunds Solactive FinTech ETF
+221,Lindy,Tredgold,9164.25,15/04/2017,Geron Corporation
+222,Inger,Butner,774.59,03/07/2017,Silver Run Acquisition Corporation II
+223,Rhodie,Beales,1302.35,25/12/2017,Apollo Senior Floating Rate Fund Inc.
+224,Knox,Troy,148.05,08/06/2017,Unisys Corporation
+225,Amble,McKellen,284.44,16/12/2018,InfoSonics Corp
+226,Eimile,Tombs,9852.74,17/06/2016,"Boston Beer Company, Inc. (The)"
+227,Marci,Inskipp,2643.08,15/11/2018,"PhotoMedex, Inc."
+228,Renate,Marham,6616.32,24/11/2018,Select Comfort Corporation
+229,Joell,Martinez,1143.41,27/03/2018,"Proofpoint, Inc."
+230,Richy,Juhruke,8734.9,21/09/2018,SL Green Realty Corporation
+231,Norine,Wadie,1285.04,03/11/2016,"Enzo Biochem, Inc."
+232,Ignacius,McBeth,5718.17,07/11/2018,"Impinj, Inc."
+233,Deb,Wheelan,6384.97,10/08/2018,Washington Real Estate Investment Trust
+234,Mirabelle,Gibberd,7444.35,07/04/2017,"Templeton Dragon Fund, Inc."
+235,Palm,Pittwood,1020.29,27/05/2018,SecureWorks Corp.
+236,Barbara,Dobie,2040.16,04/12/2018,"Sientra, Inc."
+237,Andie,Killock,4559.97,06/10/2016,"Validus Holdings, Ltd."
+238,Teirtza,Eck,2936.98,24/12/2018,QAD Inc.
+239,Hope,Kasperski,2533.47,12/03/2018,"Del Frisco's Restaurant Group, Inc."
+240,Karmen,Blaik,2212.83,22/03/2018,"Bancorp 34, Inc."
+241,Karla,Gutowska,6700.58,21/07/2017,"Oclaro, Inc."
+242,Jeniece,Blare,4503.68,18/12/2016,Gladstone Land Corporation
+243,Aland,Synke,326.54,23/05/2018,"Civista Bancshares, Inc. "
+244,Rosaline,Preshaw,2577.83,05/07/2018,Chemed Corp.
+245,Brien,Kissick,3747.31,27/04/2018,Astrotech Corporation
+246,Verge,Draysey,4511.87,10/08/2017,"Interactive Brokers Group, Inc."
+247,Antonin,Sausman,5829.27,18/01/2019,"Standard Motor Products, Inc."
+248,Arther,Guerrin,5090.77,21/06/2017,Petroleo Brasileiro S.A.- Petrobras
+249,Judd,Eadmead,1311.46,22/03/2017,Blackrock New York Municipal 2018 Term Trust
+250,Jeff,Darnody,4006.68,20/11/2016,National Holdings Corporation
+251,Drusilla,Roller,3020.33,17/07/2016,"Ebix, Inc."
+252,Hugo,Keogh,3236.73,09/12/2016,Accuray Incorporated
+253,Cirilo,Meiklejohn,9524.04,18/05/2017,Lindblad Expeditions Holdings Inc. 
+254,John,Clemonts,2266.03,10/10/2017,"Lithia Motors, Inc."
+255,Mariellen,Chalker,8435.11,26/09/2016,BullMark LatAm Select Leaders ETF
+256,Malissia,Harbottle,4506.01,29/03/2018,"Western Asset Municipal Partners Fund, Inc."
+257,Bernelle,Elphinstone,491.48,17/04/2017,Chemical Financial Corporation
+258,Jerry,Baumadier,5431.82,08/12/2016,PowerShares DWA Momentum & Low Volatility Rotation Portfolio
+259,Daffi,Ledrane,6209.43,22/05/2016,Noble Energy Inc.
+260,Felipe,Dye,2790.26,17/01/2018,Toll Brothers Inc.
+261,Melissa,Piegrome,2335.68,07/02/2019,Greif Bros. Corporation
+262,Julianna,Threadgall,1003.35,03/07/2017,Gulfport Energy Corporation
+263,Albertina,Linwood,2038.17,17/10/2018,"Maui Land & Pineapple Company, Inc."
+264,Aube,Graves,6545.51,06/08/2018,U.S. Bancorp
+265,Niall,Potte,1458.11,19/01/2018,"Gevo, Inc."
+266,Rahel,Rymill,1695.08,01/12/2017,Universal Electronics Inc.
+267,Rollo,Gorner,7472.89,23/07/2018,"SharpSpring, Inc."
+268,Vernice,Dalton,2304.81,17/07/2016,Brookfield Renewable Partners L.P.
+269,Alexandr,Porte,5727.37,27/04/2018,Delta Technology Holdings Limited
+270,Dayna,Huortic,6944.9,10/05/2018,Yirendai Ltd.
+271,Zeb,Licciardiello,8084.18,11/10/2018,Corporate Asset Backed Corp CABCO
+272,Danell,Wildt,7695.58,03/09/2017,"Leidos Holdings, Inc."
+273,Josie,Weerdenburg,476.41,09/02/2019,"Cal-Maine Foods, Inc."
+274,Percy,Coleridge,3886.46,28/10/2016,Materion Corporation
+275,Flem,Espine,5060.59,03/10/2018,First Trust Senior Floating Rate 2022 Target Term Fund
+276,Odette,Orneblow,6316.85,16/07/2018,"THL Credit, Inc."
+277,Georas,Lethby,2400.38,11/04/2018,Cyanotech Corporation
+278,La verne,Gillian,2532.76,03/07/2017,"Dynex Capital, Inc."
+279,Janeen,Joy,132.1,29/05/2016,"Jounce Therapeutics, Inc."
+280,Dunstan,Wilacot,5433.6,22/08/2018,Invesco California Value Municipal Income Trust
+281,Garvey,Gorini,6074.68,19/09/2017,Yintech Investment Holdings Limited
+282,Theressa,Laver,2785.45,07/11/2016,"Marsh & McLennan Companies, Inc."
+283,Camella,Jursch,2697.24,08/03/2018,Pope Resources
+284,Harv,Lacy,4927.87,26/09/2016,"Pinnacle Entertainment, Inc."
+285,Elsa,Label,9754.35,25/08/2018,"Netlist, Inc."
+286,Kaela,Ausiello,561.73,23/02/2017,Mylan N.V.
+287,Sylvia,Stemp,4399.51,29/01/2019,Sotherly Hotels LP
+288,Tiphanie,Grishkov,8024.6,04/05/2018,Biglari Holdings Inc.
+289,Dani,Jeal,297.02,06/10/2016,"Dorchester Minerals, L.P."
+290,Gal,Sogg,8043.99,20/10/2018,"Adams Diversified Equity Fund, Inc."
+291,Franky,Schonfeld,3217.33,27/06/2018,iShares MSCI Emerging Markets Asia Index Fund
+292,Emelyne,Davidoff,2455.37,26/10/2016,Capstead Mortgage Corporation
+293,Hedvige,Florio,2549.42,06/12/2018,"Heritage Insurance Holdings, Inc."
+294,Rochell,Cantera,8312.49,01/08/2018,Prudential Public Limited Company
+295,Reagan,Andrey,6933.51,13/12/2016,Alliance National Municipal Income Fund Inc
+296,Cele,Morilla,1128.91,03/09/2018,"Hawaiian Electric Industries, Inc."
+297,Langsdon,Tatam,4576.48,22/04/2017,Nordson Corporation
+298,Kinnie,Slimming,4531.52,16/11/2016,"Sturm, Ruger & Company, Inc."
+299,Maje,Studdeard,3288.48,03/04/2018,Newtek Business Services Corp.
+300,Alaric,Rounce,3949.53,23/11/2018,"U.S. Silica Holdings, Inc."
+301,Deirdre,Royl,4711.56,05/01/2018,"Cedar Realty Trust, Inc."
+302,Efren,Cuckson,8310.32,19/12/2016,Guggenheim Strategic Opportunities Fund
+303,Mose,Codi,578.67,23/02/2018,"Tahoe Resources, Inc."
+304,Ava,Godard,9196.09,01/01/2017,"American International Group, Inc."
+305,Craggie,Ethelston,1783.82,29/09/2018,"Monolithic Power Systems, Inc."
+306,Catrina,Pascow,3452.15,23/02/2019,"Safeguard Scientifics, Inc."
+307,Pall,Shelmardine,2392.29,05/12/2018,Nuveen Michigan Quality Municipal Income Fund
+308,Fifine,Elgey,254.28,31/03/2018,SPX Corporation
+309,Tamiko,Teml,5436.08,22/04/2017,"NAPCO Security Technologies, Inc."
+310,Auroora,Conaghy,8363.0,10/02/2017,Amerco
+311,Zia,Sandeland,9255.59,24/09/2017,RenaissanceRe Holdings Ltd.
+312,Brana,Siddle,1622.96,16/06/2017,"Kindred Biosciences, Inc."
+313,Alonzo,Renachowski,8680.39,15/05/2018,Thermo Fisher Scientific Inc
+314,Nanny,Blenkiron,2616.2,08/08/2018,Enersys
+315,Felicle,Tower,4488.52,25/04/2017,Range Resources Corporation
+316,Rosamund,Coffelt,5413.62,30/10/2017,FinTech Acquisition Corp. II
+317,Germain,Bampkin,9990.87,06/06/2017,"Century Bancorp, Inc."
+318,Matty,Goldston,3033.96,17/11/2018,WSI Industries Inc.
+319,Andris,Paslow,311.04,03/07/2016,AMC Networks Inc.
+320,Sher,Burnie,312.58,04/11/2017,"Veritone, Inc."
+321,Alick,Thirlwall,9071.89,23/11/2017,Korea Electric Power Corporation
+322,Waverley,Hounsom,3376.52,12/01/2017,California Water  Service Group Holding
+323,Konstantin,Tomaino,4278.87,03/06/2018,Seadrill Partners LLC
+324,Ives,Calderonello,3963.41,12/10/2017,Citigroup Inc.
+325,Melisandra,Jeffray,7240.75,30/06/2018,Gorman-Rupp Company (The)
+326,Hodge,Stainton,8326.64,27/08/2017,"Unity Bancorp, Inc."
+327,Bruno,Hinks,826.93,14/01/2019,"Codorus Valley Bancorp, Inc"
+328,Lani,Herche,2815.2,18/05/2017,Vanguard Russell 2000 ETF
+329,Melonie,Whaley,8207.37,30/05/2018,STERIS plc
+330,Risa,Ansley,6787.17,01/09/2016,KKR & Co. L.P.
+331,Lavinie,Brazear,1407.12,07/02/2018,Workiva Inc.
+332,Mariette,Mc Cahey,739.97,26/12/2017,"Spectrum Brands Holdings, Inc."
+333,Charity,O'Hegertie,9817.16,29/09/2017,"Liquidity Services, Inc."
+334,Theresina,Joselin,6629.0,18/07/2018,Aetna Inc.
+335,Jehu,Wateridge,2150.59,01/06/2016,"SilverSun Technologies, Inc."
+336,Normand,Scrammage,7574.24,20/05/2017,"MBIA, Inc."
+337,Delly,Hiom,3309.85,10/05/2019,Cloud Peak Energy Inc
+338,Marketa,Lewzey,4445.9,03/06/2016,"Autoliv, Inc."
+339,Rees,Veeler,7963.67,03/05/2018,"Inovalon Holdings, Inc."
+340,Korrie,Lowen,7265.56,18/07/2017,Gorman-Rupp Company (The)
+341,Pace,Sporle,7049.46,24/08/2018,Seneca Foods Corp.
+342,Ottilie,Eggle,2356.59,15/08/2016,Calamos Global Total Return Fund
+343,Nonah,Youthead,9170.28,13/04/2017,Acacia Research Corporation
+344,Danica,Featonby,9509.43,23/02/2018,"Dorman Products, Inc."
+345,Cahra,Minall,4933.76,17/04/2019,"Alamo Group, Inc."
+346,Dorthea,Falvey,1962.05,27/10/2016,"Lombard Medical, Inc."
+347,Dorthy,Coad,9109.66,06/07/2016,"Coffee Holding Co., Inc."
+348,Fonsie,Helling,7419.91,03/03/2018,"Smith Micro Software, Inc."
+349,Dunn,Wilber,4872.13,22/11/2017,"Voyager Therapeutics, Inc."
+350,Rochelle,Di Bartolomeo,2488.06,30/06/2018,"Safe Bulkers, Inc"
+351,Alasdair,Crayk,5238.89,17/04/2019,Scudder Strategic Municiple Income Trust
+352,Basile,Ardern,5804.24,15/12/2016,OFG Bancorp
+353,Jania,Lemerie,6973.19,04/03/2018,Manulife Financial Corp
+354,Vickie,Kittoe,5529.09,20/07/2016,M&T Bank Corporation
+355,Regen,Mulholland,3471.7,02/09/2017,"Bankwell Financial Group, Inc."
+356,Gelya,Patry,5639.76,15/11/2018,OMNOVA Solutions Inc.
+357,Ava,Menicomb,5523.76,18/12/2017,Fair Isaac Corporation
+358,Margery,Pregal,5011.08,02/02/2018,"Washington Federal, Inc."
+359,Errick,Dorman,3649.05,21/08/2018,TrustCo Bank Corp NY
+360,Eustace,Radage,2435.66,16/11/2016,"Interlink Electronics, Inc."
+361,Jessamine,Lancett,8713.99,27/04/2018,Stamps.com Inc.
+362,Licha,Leatham,7235.26,05/05/2017,"American Airlines Group, Inc."
+363,Joellyn,Alkins,6011.31,09/12/2017,Anavex Life Sciences Corp.
+364,Shelden,Spawforth,6815.07,02/05/2019,Davis Select Financial ETF
+365,Manuel,Kleine,3032.47,24/09/2016,Duke Energy Corporation
+366,Leila,Patience,2324.89,13/08/2016,Concho Resources Inc.
+367,Stacey,Paffot,5538.86,10/11/2018,"Radius Health, Inc."
+368,Danyelle,Fryman,7141.5,10/06/2018,PowerShares KBW Regional Banking Portfolio
+369,Elyn,Jelliman,4343.34,07/06/2017,"Boot Barn Holdings, Inc."
+370,Leicester,Hinchon,7450.69,26/11/2016,Potash Corporation of Saskatchewan Inc.
+371,Aldwin,Rawes,4590.39,06/05/2018,vTv Therapeutics Inc.
+372,Elsi,Hull,8573.39,23/12/2018,Education Realty Trust Inc.
+373,Annnora,Kalewe,8014.69,03/07/2016,Caesars Entertainment Corporation
+374,Tiebout,Ruperti,8582.24,07/04/2018,"Heron Therapeutics, Inc.  "
+375,Viviana,Glasscoe,3093.55,16/06/2017,"Liberty Expedia Holdings, Inc."
+376,Cointon,Breese,9282.24,04/08/2018,Select Medical Holdings Corporation
+377,Raine,Shropsheir,6531.56,08/12/2018,Bank of America Corporation
+378,Fancy,Maile,7698.29,07/02/2018,First Trust Germany AlphaDEX Fund
+379,Curry,Waddilow,483.15,19/05/2018,"Atlas Financial Holdings, Inc."
+380,Danell,Hendrik,2133.12,02/02/2017,Parker-Hannifin Corporation
+381,Morgan,Roggerone,9667.22,12/01/2018,Pennsylvania Real Estate Investment Trust
+382,Teodora,Stallybrass,9694.36,01/09/2016,"Boston Properties, Inc."
+383,Dewitt,Dracey,3434.2,18/02/2019,"Bridge Bancorp, Inc."
+384,Andre,Goldsbury,2230.25,10/02/2019,Fifth Third Bancorp
+385,Jolyn,Sandeford,893.17,10/04/2018,"ModusLink Global Solutions, Inc"
+386,Worth,Doppler,4902.79,15/12/2018,Grupo Televisa S.A.
+387,Flss,Quaintance,9476.61,11/11/2018,"Peak Resorts, Inc."
+388,Ardra,Dinan,9928.18,01/03/2019,"Heartland Express, Inc."
+389,Raynor,Bramich,8344.88,01/01/2019,"CYS Investments, Inc."
+390,Hazel,Little,3419.28,08/02/2018,"Collegium Pharmaceutical, Inc."
+391,Tiffanie,Butterfint,6308.59,02/05/2018,"Waddell & Reed Financial, Inc."
+392,Chico,St. Queintain,774.56,03/04/2019,Playa Hotels & Resorts N.V.
+393,Danielle,Elby,9965.63,18/08/2017,First Trust Nasdaq Retail ETF
+394,Jefferson,MacColgan,5841.62,03/08/2018,"The Habit Restaurants, Inc."
+395,Frederico,Pentland,962.03,08/10/2016,Materion Corporation
+396,Even,Oliveti,3214.92,27/03/2017,"Texas Capital Bancshares, Inc."
+397,Sheilakathryn,Pygott,6968.5,06/08/2017,"Cavium, Inc."
+398,Martica,Farress,1820.55,28/08/2016,"American Financial Group, Inc."
+399,Renae,Ayrs,2223.22,21/10/2018,Western Union Company (The)
+400,Letizia,Kensitt,2381.68,14/11/2017,Attunity Ltd.
+401,Alexandr,Laver,5852.25,09/11/2018,PowerShares KBW High Dividend Yield Financial Portfolio
+402,Latia,Annis,1601.07,10/07/2016,DoubleLine Opportunistic Credit Fund
+403,Othilia,Plaunch,9592.19,27/01/2018,Exa Corporation
+404,Elianora,Maxworthy,9546.04,18/12/2016,Lions Gate Entertainment Corporation
+405,Gilbertina,Fiddian,5827.3,06/02/2018,"ICF International, Inc."
+406,Martainn,Callaghan,2369.73,29/03/2019,National General Holdings Corp
+407,Elna,Linzee,2387.71,06/01/2018,"Del Taco Restaurants, Inc."
+408,Nolie,Lenthall,1422.74,25/01/2017,Cardtronics plc
+409,Andrew,Yesinov,2458.53,09/12/2018,Eastman Kodak Company
+410,Ole,Handscomb,3535.18,29/05/2017,Axis Capital Holdings Limited
+411,Ali,Itchingham,2446.17,22/07/2017,MannKind Corporation
+412,Olivette,Wilkie,7267.16,28/11/2018,BT Group plc
+413,Chas,Norker,199.8,26/05/2017,"Taiwan Fund, Inc. (The)"
+414,Damian,Tape,347.24,25/04/2017,Rowan Companies plc
+415,Lilian,Lambswood,3724.93,23/07/2016,"Smith & Nephew SNATS, Inc."
+416,Riccardo,Samworth,3553.62,31/10/2016,"Schnitzer Steel Industries, Inc."
+417,Dud,Sawyer,3749.03,04/07/2017,LCI Industries 
+418,Mommy,Egdal,408.73,16/02/2019,PPL Corporation
+419,Galina,Matuszak,5529.1,06/06/2016,"Dril-Quip, Inc."
+420,Jeanne,Natalie,4272.62,23/01/2017,"Global Water Resources, Inc."
+421,Isak,Shiels,2664.91,22/10/2018,Cumberland Pharmaceuticals Inc.
+422,Kitty,Battye,4062.83,06/09/2017,Double Eagle Acquisition Corp.
+423,Cameron,Pitkeathley,2806.54,11/07/2016,Gabelli Utility Trust (The)
+424,Simon,Tremellier,4773.0,16/07/2018,Verso Corporation
+425,Chrystel,Cinnamond,8714.77,16/06/2016,Stepan Company
+426,Fancy,Clink,3593.77,25/09/2018,"Enova International, Inc."
+427,Kay,Manie,674.49,06/12/2017,Travelzoo
+428,Myrlene,Odom,4215.3,10/03/2019,ENI S.p.A.
+429,Gene,Piscot,884.42,01/11/2017,"Legg Mason, Inc."
+430,Rory,Alcoran,8785.98,17/01/2018,Teck Resources Ltd
+431,Wiatt,Pentelow,3392.53,23/10/2018,U.S. Energy Corp.
+432,Tallie,Ney,5345.03,21/07/2017,"Kratos Defense & Security Solutions, Inc."
+433,Pennie,Folbigg,9932.06,08/11/2018,The Cushing MLP Total Return Fund
+434,Doralia,Scoggans,8241.32,14/06/2017,"Community First Bancshares, Inc."
+435,Benjamin,Follows,6464.14,05/06/2016,"WisdomTree Investments, Inc."
+436,Claudell,Thon,1443.34,27/04/2017,Lehman ABS Corporation
+437,Arlinda,Hackly,329.77,21/03/2019,Xinyuan Real Estate Co Ltd
+438,Konstance,Pierrepont,2337.73,21/05/2018,"Franklin Financial Network, Inc."
+439,Dennison,Klainer,3293.99,08/08/2018,"Seattle Genetics, Inc."
+440,Pablo,Franies,371.92,13/04/2017,"Information Services Group, Inc."
+441,Berti,Shevlan,919.36,06/02/2018,Miller/Howard High Income Equity Fund
+442,Jewell,Jephson,1396.46,14/11/2017,"Second Sight Medical Products, Inc."
+443,Gavan,Beggini,7333.7,20/05/2018,Microsoft Corporation
+444,Isidore,Jachtym,8694.83,11/11/2017,"Facebook, Inc."
+445,Yetta,Fidgett,7207.74,24/09/2017,Allot Communications Ltd.
+446,Seumas,Crapper,6620.68,25/04/2017,Nevro Corp.
+447,Dinny,Mathou,5722.83,20/03/2018,"Colony NorthStar, Inc."
+448,Horst,Emmerson,6501.73,02/01/2019,Diebold Nixdorf Incorporated
+449,Livvyy,Rooksby,1882.99,12/07/2017,"Iteris, Inc."
+450,Levi,Oldfield,8024.61,14/02/2019,"Amicus Therapeutics, Inc."
+451,June,Louca,6596.99,17/08/2016,GasLog LP.
+452,Shurlock,Chillcot,4679.54,27/04/2018,J & J Snack Foods Corp.
+453,Brendis,Trodd,6267.16,07/10/2016,"Mattel, Inc."
+454,Druci,Bonnell,2545.19,13/06/2017,"Ferrellgas Partners, L.P."
+455,Bibbye,Spurdens,6280.92,07/11/2016,China Life Insurance Company Limited
+456,Charisse,Brellin,1634.7,07/07/2018,Cumulus Media Inc.
+457,Ronda,Kubiak,4291.86,17/11/2017,Covanta Holding Corporation
+458,Constantia,Dumphrey,7518.04,02/02/2017,"Dycom Industries, Inc."
+459,De witt,Guyer,9217.36,08/10/2016,"Seabridge Gold, Inc."
+460,Eddy,Emanuel,6141.12,24/06/2016,"TRACON Pharmaceuticals, Inc."
+461,Conrade,Masding,3661.97,12/06/2016,CF Corporation
+462,Arlee,Colebeck,4129.87,29/11/2017,PIMCO New York Municipal Income Fund
+463,Heall,Spong,9737.05,25/09/2017,"Inspired Entertainment, Inc."
+464,Thornie,Tinn,899.15,06/06/2016,"Manhattan Bridge Capital, Inc"
+465,Annadiana,Beloe,7471.08,21/09/2017,MiX Telematics Limited
+466,Anabel,Diggens,2754.66,04/08/2018,Abeona Therapeutics Inc.
+467,Beniamino,Sutter,7492.76,08/02/2019,"HMN Financial, Inc."
+468,Stefan,Bernocchi,7242.59,31/05/2018,"Yum! Brands, Inc."
+469,Elsinore,Cissell,4592.97,03/03/2019,TiGenix
+470,Ky,Presland,1332.83,22/10/2017,Natl Westminster Pfd
+471,Mikael,Ipsgrave,2257.81,06/10/2017,"Bear State Financial, Inc."
+472,Bram,Duffer,2285.89,11/01/2018,"PT Telekomunikasi Indonesia, Tbk"
+473,Kessia,Mithon,2747.87,10/10/2016,"Onconova Therapeutics, Inc."
+474,Heloise,Brigge,8629.7,03/08/2017,"NewStar Financial, Inc."
+475,Octavia,Cain,2887.44,16/06/2018,Dynasil Corporation of America
+476,Kassandra,Henzley,6506.62,05/06/2018,Vedanta  Limited
+477,Perri,Petrowsky,6779.92,24/04/2017,"Presidio, Inc."
+478,Kimberlee,Tullett,316.64,03/09/2018,"Autodesk, Inc."
+479,Ericha,Northage,9669.72,01/08/2016,Melco Resorts & Entertainment Limited
+480,Conn,Dorre,1324.58,23/08/2016,Huntington Bancshares Incorporated
+481,Ezri,Selburn,6149.31,12/04/2019,Great Elm Capital Corp.
+482,Merlina,Baffin,8684.8,01/02/2018,eBay Inc.
+483,Sephira,Drejer,2882.63,10/02/2017,iRadimed Corporation
+484,Arch,Beveredge,6165.39,07/02/2017,Tractor Supply Company
+485,Lind,Marchand,9470.24,04/03/2017,Aegion Corp
+486,Orella,Caught,9048.21,09/09/2018,Fluor Corporation
+487,Yolanda,Van Rembrandt,7172.18,17/08/2016,Stantec Inc
+488,Vikky,Stallion,511.26,16/08/2017,U.S. Bancorp
+489,Meghann,Springford,1469.74,21/01/2019,Kosmos Energy Ltd.
+490,Tammie,MacGillespie,7348.65,27/02/2017,"Chart Industries, Inc."
+491,Terence,Kilroy,1341.79,07/02/2019,Voya Prime Rate Trust
+492,Juli,Willgrass,164.83,19/07/2017,Potash Corporation of Saskatchewan Inc.
+493,Demetris,Alten,4183.33,02/05/2017,Eli Lilly and Company
+494,Allene,Kleinpeltz,904.38,15/05/2017,CRISPR Therapeutics AG
+495,Garvey,Lambrecht,1476.28,21/11/2018,Vectren Corporation
+496,Anderea,Hembery,9436.78,08/04/2017,Invesco Quality Municipal Income Trust
+497,Aleta,Scholefield,8055.67,22/11/2016,"Anthera Pharmaceuticals, Inc."
+498,Riccardo,Sach,7314.42,31/07/2017,Encore Wire Corporation
+499,Launce,Webberley,5621.07,16/08/2016,Federal Realty Investment Trust
+500,Marian,Weaver,9450.42,23/10/2018,"Energy Focus, Inc."
+501,Lizzie,Sandells,7598.06,18/10/2016,"CryoPort, Inc."
+502,Meagan,Hacard,4889.21,16/08/2016,Panhandle Royalty Company
+503,Ferrel,Papaccio,1479.55,19/02/2019,Ichor Holdings
+504,Jorry,Casper,5239.83,06/12/2017,BioSpecifics Technologies Corp
+505,Mead,Duguid,5448.5,14/11/2016,S&W Seed Company
+506,Tremayne,Widmoor,6722.0,30/03/2017,Charles & Colvard Ltd
+507,Kamila,Gavaran,8089.35,12/02/2017,"America Movil, S.A.B. de C.V."
+508,Hollyanne,Watkinson,8020.55,28/05/2016,NASDAQ TEST STOCK
+509,Elora,Schrir,8217.69,17/01/2018,"Community Health Systems, Inc."
+510,Berti,Milbourne,3490.33,04/08/2017,BioSpecifics Technologies Corp
+511,Crosby,Heinle,7426.65,22/03/2019,"Himax Technologies, Inc."
+512,Hedi,Epple,4175.37,08/09/2018,The Long-Term Care ETF
+513,Jonas,Whitters,2491.7,25/07/2016,"P.A.M. Transportation Services, Inc."
+514,Tricia,Swidenbank,5706.22,31/05/2017,"Okta, Inc."
+515,Nicki,Grabiec,8479.52,23/03/2017,Wells Fargo & Company
+516,Loy,Healing,2768.93,01/07/2018,"Nasdaq, Inc."
+517,Gisela,Dodshun,7626.01,10/06/2016,"Eldorado Resorts, Inc."
+518,Cele,Heymes,8870.24,14/12/2016,Cummins Inc.
+519,Berton,Pruce,2245.17,12/03/2017,Harvest Capital Credit Corporation
+520,Thurstan,Piggrem,6032.13,29/12/2018,Zosano Pharma Corporation
+521,Aurel,McAuslene,2352.05,13/01/2018,PowerShares KBW Property & Casualty Insurance Portfolio
+522,Irena,Borth,7326.04,24/12/2016,ZTO Express (Cayman) Inc.
+523,Sterne,Biaggioli,8170.66,04/01/2017,"United-Guardian, Inc."
+524,Cristabel,Iacobucci,5859.33,15/04/2017,Iridium Communications Inc
+525,Fayth,Bloomfield,7880.88,29/04/2018,Alphabet Inc.
+526,Stephenie,Eyckel,7404.21,21/12/2017,"Duff & Phelps Utilities Income, Inc."
+527,Malynda,Allin,9243.64,05/08/2016,Dr. Reddy's Laboratories Ltd
+528,Briano,Laboune,9351.84,25/01/2017,"Valmont Industries, Inc."
+529,Karlee,Steet,4653.52,22/02/2017,Landmark Infrastructure Partners LP
+530,Leigh,Valenti,2637.5,01/07/2018,AmeriServ Financial Inc.
+531,Deeyn,Patel,1060.91,24/04/2019,Vanguard Emerging Markets Government Bond ETF
+532,Dixie,Guerin,5515.7,01/05/2017,Apollo Commercial Real Estate Finance
+533,Coralyn,Spraberry,1686.66,22/01/2018,First Trust TCW Opportunistic Fixed Income ETF
+534,Sandro,Owen,6417.37,22/07/2016,Hersha Hospitality Trust
+535,Tabbie,Cogar,1597.54,24/05/2016,AC Immune SA
+536,Gusta,Lyle,4829.44,02/02/2017,VSE Corporation
+537,Morie,Cartmael,4257.11,30/06/2016,ProAssurance Corporation
+538,Prudi,Cowley,859.12,19/03/2018,Atrion Corporation
+539,Aindrea,Bosward,1438.32,07/09/2018,"Royal Bancshares of Pennsylvania, Inc."
+540,Ase,Ellsworthe,1213.05,28/05/2016,"AMAG Pharmaceuticals, Inc."
+541,Laurice,Clayson,575.19,08/10/2016,Investar Holding Corporation
+542,Morlee,Brooker,1603.44,11/06/2018,"Bridgepoint Education, Inc."
+543,Vail,Aurelius,6688.27,28/01/2017,Morgan Stanley
+544,Tedra,Wharin,9235.34,09/03/2018,Teledyne Technologies Incorporated
+545,Sidonnie,Causbey,162.04,19/05/2017,iShares MSCI Brazil Small-Cap ETF
+546,Arnoldo,Gun,5904.33,19/05/2018,"NantHealth, Inc."
+547,Filmer,Scargill,2447.66,01/06/2018,Steel Partners Holdings LP
+548,Simeon,Bolding,8522.22,06/05/2017,Global X Millennials Thematic ETF
+549,Illa,Schimon,4275.03,12/09/2017,"Liberty Expedia Holdings, Inc."
+550,Anne-corinne,Kemsley,8924.75,30/05/2018,"Match Group, Inc."
+551,Gypsy,Stollman,6882.02,24/07/2017,"DigitalGlobe, Inc"
+552,Valencia,Floweth,2019.9,13/11/2017,Gridsum Holding Inc.
+553,Gaylor,Larret,5875.06,27/12/2018,UNIVERSAL INSURANCE HOLDINGS INC
+554,Hugues,Lettsom,5692.75,30/03/2019,"PDF Solutions, Inc."
+555,Richy,Dreossi,3385.71,03/02/2017,"SPI Energy Co., Ltd."
+556,Kile,Guly,9507.26,14/09/2016,Medtronic plc
+557,Xerxes,Dulling,7378.21,09/08/2016,National Retail Properties
+558,Rozanna,Pethick,505.47,29/01/2019,Costco Wholesale Corporation
+559,Naoma,Gresser,5448.02,19/10/2018,The RMR Group Inc.
+560,Alyse,Browne,9866.28,15/12/2017,"Telephone and Data Systems, Inc."
+561,Spense,Lewry,1055.11,11/08/2016,Geo Group Inc (The)
+562,Lilias,Andreoletti,4800.86,01/06/2016,VALE S.A.
+563,Dave,Lilliman,2906.75,29/06/2017,"Frankly, Inc."
+564,Queenie,Lowcock,422.24,06/05/2018,Benitec Biopharma Limited
+565,Brana,Riccione,1208.58,06/04/2019,PAVmed Inc.
+566,Em,Cunniff,6028.29,27/09/2018,"Scripps Networks Interactive, Inc"
+567,Talya,Banfill,6569.73,25/09/2016,"Cyclacel Pharmaceuticals, Inc."
+568,Alvira,Kerry,4940.88,22/02/2019,FlexShares Credit-Scored US Long Corporate Bond Index Fund
+569,Lorita,Sanpere,5498.24,17/09/2016,Farmland Partners Inc.
+570,Abeu,Bilston,2023.38,06/12/2018,Dynasil Corporation of America
+571,Annette,MacPake,7702.65,06/08/2018,"Firsthand Technology Value Fund, Inc."
+572,Adams,Berger,7315.48,13/02/2017,CF Corporation
+573,Stephani,Hildred,9223.89,20/09/2016,Adecoagro S.A.
+574,Glynis,O'Brogane,7620.51,21/03/2018,"JA Solar Holdings, Co., Ltd."
+575,Massimo,MacCallam,8284.21,24/07/2017,Genpact Limited
+576,Ephrem,Roman,878.39,03/02/2018,"Spark Energy, Inc."
+577,Carlo,Dach,5063.95,10/01/2019,"Roka Bioscience, Inc."
+578,Rasla,Sneaker,1852.9,14/02/2017,Incyte Corporation
+579,Charmion,McKinnon,996.89,18/09/2018,Pimco Corporate & Income Stategy Fund
+580,Adelind,Wyke,9297.13,17/06/2018,Anworth Mortgage Asset  Corporation
+581,Issie,Cavil,4347.25,13/06/2016,Ideal Power Inc.
+582,Amelita,Dobeson,2768.16,31/05/2018,Dick's Sporting Goods Inc
+583,Torey,Huge,3853.74,23/12/2017,Nevro Corp.
+584,Carr,Sueter,1226.37,05/07/2016,"NV5 Global, Inc."
+585,Alvira,Holbarrow,8930.46,01/10/2016,PowerShares S&P SmallCap Financials Portfolio
+586,Arlana,Lakin,8886.62,04/11/2016,J P Morgan Chase & Co
+587,Axel,Whittek,8551.27,15/09/2018,"Estee Lauder Companies, Inc. (The)"
+588,Lura,Olyfant,1829.07,23/12/2016,"Lilis Energy, Inc."
+589,Wald,Kerwood,8300.0,19/10/2018,SLM Corporation
+590,Sal,Cumberland,6747.77,04/12/2018,"UMH Properties, Inc."
+591,Elyssa,Cozens,7210.83,17/08/2016,United Community Financial Corp.
+592,Bernhard,Stump,3173.24,21/03/2018,Sequans Communications S.A.
+593,Alexandrina,Klampt,440.4,15/06/2018,Vanguard Intermediate-Term Corporate Bond ETF
+594,Rora,Andrewartha,4158.2,05/07/2018,"Delek Logistics Partners, L.P."
+595,Ariela,Jarley,2823.2,28/05/2016,"Wesco Aircraft Holdings, Inc."
+596,Allyn,O'Fallon,4386.81,20/09/2017,MiX Telematics Limited
+597,Aileen,Kirsopp,5819.23,13/02/2018,Moog Inc.
+598,Patrice,Stillert,6678.94,05/03/2019,FelCor Lodging Trust Incorporated
+599,Rabbi,Almack,6982.65,15/06/2018,RLI Corp.
+600,Gannie,Lind,3215.27,22/02/2017,Macro Bank Inc.
+601,Jere,Judgkins,8584.79,19/12/2016,"Hercules Capital, Inc."
+602,Valry,Carefull,3637.9,26/10/2016,"U S Concrete, Inc."
+603,Winifield,Heskins,5100.53,29/11/2017,BlackRock Municipal Target Term Trust Inc. (The)
+604,Karole,Bailess,6914.83,08/02/2019,Viavi Solutions Inc.
+605,Ashley,Hawket,1971.35,11/03/2017,"Triumph Bancorp, Inc."
+606,Brittan,Issit,3053.08,30/08/2017,Morgan Stanley
+607,Andrea,Scougall,2020.36,29/06/2018,"Galena Biopharma, Inc."
+608,Alair,Shew,2149.36,13/11/2018,MS Structured Asset Corp Saturns GE Cap Corp Series 2002-14
+609,Sara,Whissell,2619.13,24/12/2018,"Gibraltar Industries, Inc."
+610,Bernadine,Reardon,6425.51,24/11/2016,Mechel PAO
+611,Cirilo,Gledhill,6767.04,14/01/2017,"Kelly Services, Inc."
+612,Maurise,Soulsby,4500.82,13/03/2017,CPI Card Group Inc.
+613,Evvie,Jendrich,4223.2,26/05/2017,UNITIL Corporation
+614,Brooke,Gillow,4340.7,23/04/2018,Nuveen Quality Municipal Income Fund
+615,Hartley,Janczak,7292.13,24/03/2019,First Trust NASDAQ Cybersecurity ETF
+616,Cecilia,Basson,2861.56,07/04/2018,"Pacific Biosciences of California, Inc."
+617,Filmore,Itzkov,7520.24,25/02/2018,Denny's Corporation
+618,Dugald,Willcocks,4270.96,13/10/2017,LaSalle Hotel Properties
+619,Patrizio,Comello,403.66,26/10/2017,"Blackrock MuniHoldings Quality Fund II, Inc."
+620,Shane,Wedlock,8216.9,23/06/2016,J.M. Smucker Company (The)
+621,Stafani,Wooton,1124.66,09/11/2018,"YRC Worldwide, Inc."
+622,Suellen,Eltun,5328.99,30/09/2016,"ADOMANI, Inc."
+623,Cristal,Stockin,4329.55,29/09/2018,"Micron Technology, Inc."
+624,Vasily,Zorener,6811.94,06/03/2019,Seanergy Maritime Holdings Corp
+625,Heddi,Filippello,8943.65,12/01/2019,"Netlist, Inc."
+626,Kalli,Bernaert,5754.74,12/12/2017,J P Morgan Chase & Co
+627,Chariot,Netley,9741.98,30/01/2018,iPath US Treasury Steepener ETN
+628,Ave,Lovart,4189.4,01/04/2019,"Civista Bancshares, Inc. "
+629,Gordie,Coulthard,9559.61,20/07/2016,"Blackrock MuniYield New York Quality Fund, Inc."
+630,Abbye,Akers,5297.03,28/03/2018,Scorpio Tankers Inc.
+631,Ranna,Mariel,4699.99,09/08/2016,"Seattle Genetics, Inc."
+632,Stepha,Blazeby,413.31,02/05/2017,Public Storage
+633,Idalia,Brosnan,1996.1,07/06/2018,Citigroup Inc.
+634,Jaquith,Baccas,3315.64,05/09/2018,Oracle Corporation
+635,Kaylee,Botte,4258.46,04/09/2016,"LGI Homes, Inc."
+636,Morgen,Gawthorpe,5055.93,17/07/2016,"Uni-Pixel, Inc."
+637,Lishe,Morratt,7485.91,16/03/2018,"Heron Therapeutics, Inc.  "
+638,Bob,Bucksey,932.48,22/05/2016,"Bridge Bancorp, Inc."
+639,Vince,Ticic,2169.41,14/10/2017,Ceragon Networks Ltd.
+640,Halie,Fass,8906.1,06/11/2018,Nexvet Biopharma plc
+641,Bride,Mailey,7082.11,12/01/2017,Nuveen Minnesota Quality Municipal Income Fund
+642,Averill,Stiggles,1228.06,02/02/2018,"Synchronoss Technologies, Inc."
+643,Steffi,Westcarr,2233.47,30/06/2018,"Green Brick Partners, Inc."
+644,Deni,Nutbeam,9359.72,31/10/2018,Gladstone Land Corporation
+645,Beryl,Hankinson,6177.77,22/08/2017,VSE Corporation
+646,Xena,Rechert,3404.19,17/10/2017,Invesco Pennsylvania Value Municipal Income Trust
+647,Fianna,Christian,2404.02,06/04/2017,Interstate Power and Light Company
+648,Abie,Pero,2486.42,02/09/2016,IXYS Corporation
+649,Cristen,Bradd,4168.18,27/01/2017,First Trust Emerging Markets Local Currency Bond ETF
+650,Wynny,Pritty,3217.38,20/01/2018,"Oceaneering International, Inc."
+651,Micheal,Jekel,7387.36,08/04/2017,The Gabelli Healthcare & Wellness Trust
+652,Valma,Volker,9977.87,10/02/2018,VanEck Vectors Pharmaceutical ETF
+653,Avivah,Cordero,1718.31,11/05/2019,Cellect Biotechnology Ltd.
+654,Sibyl,Godspeede,6240.45,19/12/2018,KKR & Co. L.P.
+655,Arley,Conor,8340.52,16/09/2018,"Global Self Storage, Inc."
+656,Claude,Sammons,6003.02,13/01/2017,Tsakos Energy Navigation Ltd
+657,Mortimer,McCallister,2863.69,28/10/2018,Peoples Bancorp Inc.
+658,Dedie,Nuschke,1954.41,09/04/2017,"AG Mortgage Investment Trust, Inc."
+659,Enid,Parcell,4464.51,20/09/2018,"Watsco, Inc."
+660,Stephie,Munnion,1386.68,30/10/2016,Hancock Holding Company
+661,Shannon,Grisdale,1824.91,04/03/2019,Vanguard Intermediate-Term Corporate Bond ETF
+662,Arley,Winkless,652.58,17/06/2017,Canadian Pacific Railway Limited
+663,Godard,Fosserd,2415.48,14/07/2017,Brixmor Property Group Inc.
+664,Hagen,Gilligan,5868.17,29/03/2018,Chicago Bridge & Iron Company N.V.
+665,Silvano,Meriot,3987.4,30/12/2017,"Take-Two Interactive Software, Inc."
+666,Cordelie,Hanne,7679.61,18/08/2017,XL Group Ltd.
+667,Donall,Sellors,5830.26,16/04/2017,"AmTrust Financial Services, Inc."
+668,Isabelita,Scrooby,1714.78,06/06/2016,Vanguard Russell 2000 Growth ETF
+669,Damon,Strangeways,3818.38,24/04/2017,Landmark Infrastructure Partners LP
+670,Eustace,Pike,358.07,16/02/2017,Noodles & Company
+671,Angelia,Paolinelli,6433.94,17/07/2018,F.N.B. Corporation
+672,Muffin,Ducham,1007.6,26/10/2018,Kirby Corporation
+673,Waneta,Durram,8985.46,09/01/2017,General Dynamics Corporation
+674,Kelli,Saltsberger,7054.91,02/02/2018,"Verastem, Inc."
+675,Parnell,Winsiowiecki,1958.8,03/02/2018,"Boston Private Financial Holdings, Inc."
+676,Gerry,Kave,5760.65,30/12/2017,EPR Properties
+677,Rosabel,Woffenden,8179.62,15/12/2017,"Stellar Biotechnologies, Inc."
+678,Dona,Ronisch,9462.91,26/07/2018,"Leggett & Platt, Incorporated"
+679,Vinny,Cockshott,8347.95,28/05/2017,Graham Holdings Company
+680,Lea,Maffini,6114.27,07/10/2017,"Texas Capital Bancshares, Inc."
+681,Toinette,Tickle,7424.04,25/04/2018,Independence Holding Company
+682,Theodoric,Storch,9303.34,31/12/2017,"PS Business Parks, Inc."
+683,Alfy,Molines,2679.84,05/05/2018,Gerdau S.A.
+684,Elga,Wibrew,6998.15,10/01/2018,Synalloy Corporation
+685,Guendolen,Biddwell,7729.24,14/04/2019,Legacy Reserves LP
+686,Tyrone,Terzo,4530.03,01/04/2019,Danaos Corporation
+687,Eugenio,Ondrusek,7640.9,13/04/2019,"The ONE Group Hospitality, Inc."
+688,Mohammed,Pfeffle,9542.67,12/03/2018,"ASB Bancorp, Inc."
+689,Bethanne,Burkman,6704.75,11/09/2017,PIMCO New York Municipal Income Fund III
+690,Erv,Biaggelli,6449.28,09/05/2019,"TerraForm Power, Inc."
+691,Harlene,Bearham,2531.85,12/05/2017,TravelCenters of America LLC
+692,Ruthanne,Kimmons,631.51,24/02/2018,PowerShares Golden Dragon China Portfolio
+693,Walliw,Mashro,1115.15,18/01/2017,Alpine Total Dynamic Dividend Fund
+694,Sarajane,Bassingham,4220.75,12/03/2018,"Nustar GP Holdings, LLC"
+695,Jacquelynn,MacShane,3343.83,26/03/2019,Willis Towers Watson Public Limited Company
+696,Kelsi,Aim,6817.32,01/10/2018,Blackstone GSO Senior Floating Rate Term Fund
+697,Joscelin,Pettersen,6577.62,29/06/2016,Marine Products Corporation
+698,Pace,Colliber,1032.53,05/07/2016,"S&T Bancorp, Inc."
+699,Elicia,Handscomb,1268.99,10/07/2016,"Natural Alternatives International, Inc."
+700,Eliza,Ilem,8599.37,23/09/2017,"Global Ship Lease, Inc."
+701,Randy,Darbyshire,3818.17,06/11/2016,AGCO Corporation
+702,Meredith,Doiley,2073.14,19/02/2017,Live Ventures Incorporated
+703,Zita,Friberg,6736.11,19/02/2017,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc."
+704,Dita,Gooderham,3183.53,20/09/2018,"Paychex, Inc."
+705,Jeth,Dalyiel,9059.1,05/02/2018,"JD.com, Inc."
+706,Bobbie,Skoggings,996.13,13/04/2019,WAVE Life Sciences Ltd.
+707,Armstrong,Morriarty,595.62,11/11/2018,"PNC Financial Services Group, Inc. (The)"
+708,Rosemarie,Hamelyn,2060.04,01/11/2018,DDR Corp.
+709,Corny,Colledge,3175.8,19/01/2019,Marine Petroleum Trust
+710,Abdel,Prise,7091.64,07/01/2018,VelocityShares 3x Long Gold ETN
+711,Deedee,Karpe,601.84,25/02/2017,Sussex Bancorp
+712,Celinda,Glacken,1793.77,20/06/2017,U.S. Bancorp
+713,Cly,Miko,1238.93,31/01/2018,Star Bulk Carriers Corp.
+714,Patrizio,Loffel,6009.53,03/04/2018,Consolidated Edison Inc
+715,Georgiana,Dyball,1479.91,04/06/2018,"Carver Bancorp, Inc."
+716,Zerk,Limb,1022.69,14/11/2016,Momo Inc.
+717,Cortie,Dennant,5418.18,24/07/2016,"Streamline Health Solutions, Inc."
+718,Ediva,Frill,1051.8,29/11/2017,Legg Mason Low Volatility High Dividend ETF
+719,Riannon,Carriage,1183.92,07/03/2018,Amedica Corporation
+720,Arda,O'Hdirscoll,1385.48,13/09/2016,Tiffany & Co.
+721,Willetta,Sandford,5124.76,24/08/2018,"Blue Hills Bancorp, Inc."
+722,Lyda,Casiroli,2006.28,20/09/2017,"Enable Midstream Partners, LP"
+723,Shanan,Safhill,2324.73,18/11/2016,Blackrock Municipal Income Quality Trust
+724,Dante,Loynton,7601.26,08/01/2018,Weingarten Realty Investors
+725,Walther,Assante,4337.89,12/07/2017,"Lakeland Bancorp, Inc."
+726,Penn,Mustin,1633.42,25/02/2018,Qwest Corporation
+727,Mikael,Bartosinski,656.67,24/04/2018,"Templeton Emerging Markets Income Fund, Inc."
+728,Vergil,Gowans,954.48,17/04/2017,Triangle Capital Corporation
+729,Marcellus,Bolderoe,7050.19,09/03/2019,Crawford & Company
+730,Torrin,Essame,3619.69,30/09/2017,CGG
+731,Kelli,Rosen,2827.74,09/08/2018,"Bio-Path Holdings, Inc."
+732,Syman,Diben,7068.16,21/12/2017,Nuveen Minnesota Quality Municipal Income Fund
+733,Gael,Baumber,1071.64,30/11/2018,PIMCO California Municipal Income Fund
+734,Philippa,Pavluk,7994.51,04/01/2019,"Dupont Fabros Technology, Inc."
+735,Carroll,Kinghorne,3182.69,17/05/2018,"Tortoise Energy Independence Fund, Inc."
+736,Bamby,Frood,5447.39,18/03/2017,Avadel Pharmaceuticals plc
+737,Rosene,Voden,1913.61,02/10/2018,"Summit Midstream Partners, LP"
+738,Curran,Woolger,3728.53,30/06/2016,LINE Corporation
+739,Hunter,Parlett,6227.04,01/05/2019,"G1 Therapeutics, Inc."
+740,Frannie,Scintsbury,9684.33,24/08/2018,Barings Corporate Investors
+741,Cassaundra,Rawlin,4662.52,23/02/2018,"KalVista Pharmaceuticals, Inc."
+742,Maitilde,Benfield,3580.32,31/03/2017,Bank of South Carolina Corp.
+743,Hollis,Oliveira,2953.43,21/05/2018,"Ingles Markets, Incorporated"
+744,Calhoun,Hasel,109.21,02/10/2017,"Commerce Union Bancshares, Inc."
+745,Morganica,Beldham,1820.05,31/03/2019,"Jaguar Animal Health, Inc."
+746,Abey,Esmead,6839.24,26/03/2017,Check-Cap Ltd.
+747,Danit,Boteman,7936.58,12/05/2017,Ally Financial Inc.
+748,Luisa,Jaksic,8740.56,30/06/2018,"County Bancorp, Inc."
+749,Godiva,McCloughlin,5499.83,16/06/2016,"Patrick Industries, Inc."
+750,Danie,Bulluck,7759.56,10/06/2016,Comcast Corporation
+751,Carl,Allkins,6131.77,22/09/2017,Agnico Eagle Mines Limited
+752,Brittani,Edmeads,7726.54,07/10/2017,"Barrett Business Services, Inc."
+753,Frasco,Dussy,3022.34,05/08/2018,"Insight Enterprises, Inc."
+754,Ivory,Martellini,4142.94,25/09/2016,Allstate Corporation (The)
+755,Melinda,Ferrier,4280.66,29/08/2017,Amira Nature Foods Ltd
+756,Latashia,O'Mullaney,8137.68,11/06/2018,"Dillard's, Inc."
+757,Myrwyn,Dybald,5117.18,16/09/2016,"NextEra Energy Partners, LP"
+758,Stan,Espine,939.17,28/12/2016,Reading International Inc
+759,Shannah,Keasey,8922.45,30/05/2018,"Eagle Pharmaceuticals, Inc."
+760,Olenka,Antoniottii,9746.52,09/10/2018,"First Solar, Inc."
+761,Giralda,Choppen,1009.7,06/03/2019,Deutsche Bank AG
+762,Colette,Taynton,8053.47,24/02/2017,Reliance Steel & Aluminum Co.
+763,Tatiania,Bremmer,4875.48,23/01/2017,Triangle Capital Corporation
+764,Lorita,Das,3298.07,05/07/2018,"Meta Financial Group, Inc."
+765,Ive,Kingswood,2373.28,25/02/2017,Packaging Corporation of America
+766,Maxy,Mealiffe,7470.64,16/08/2018,ProShares UltraPro QQQ
+767,Joyce,Hyndley,4185.32,23/05/2017,Timken Steel Corporation
+768,Carolee,Chad,1467.58,25/06/2016,"SunTrust Banks, Inc."
+769,Marys,Vedenyapin,105.8,13/06/2017,Timken Steel Corporation
+770,Melantha,Kobpac,7345.76,14/01/2017,Village Bank and Trust Financial Corp.
+771,Ermengarde,Chesnut,1840.55,03/02/2018,Torchmark Corporation
+772,Yoshi,Rabbitt,5236.36,11/06/2017,"Lawson Products, Inc."
+773,Marice,Roelofsen,7379.8,28/08/2016,"Novan, Inc."
+774,Saudra,Carles,3589.86,09/08/2016,Equity Residential
+775,Niall,Indgs,4666.93,24/02/2019,"Taubman Centers, Inc."
+776,Thurstan,Askin,8398.01,02/06/2018,Community Healthcare Trust Incorporated
+777,Valina,Grancher,2066.75,27/08/2017,Walter Investment Management Corp.
+778,Obediah,Kipling,6198.71,18/02/2019,Credit Suisse Group
+779,Lawrence,Nozzolii,7342.15,09/10/2018,"Appliance Recycling Centers of America, Inc."
+780,Juana,Cicconettii,6915.23,30/07/2018,"Carver Bancorp, Inc."
+781,Emelyne,Cummins,6213.6,21/09/2016,Integer Holdings Corporation
+782,Hector,Nutter,7379.46,08/10/2017,"FlexShopper, Inc."
+783,Antonietta,Mosedill,1315.61,21/04/2017,Hailiang Education Group Inc.
+784,Ashly,Todarello,882.68,19/03/2017,KKR Financial Holdings LLC
+785,Dennis,Cardello,1950.16,05/08/2016,Reading International Inc
+786,Corella,Cockney,7460.64,02/11/2018,Voya Prime Rate Trust
+787,Costanza,Plaister,7338.7,27/11/2017,PowerShares DWA SmallCap Momentum Portfolio
+788,Ulrike,Lemmertz,6187.28,12/08/2018,"Diplomat Pharmacy, Inc."
+789,Vlad,Wilkowski,4506.25,21/11/2016,First Internet Bancorp
+790,Jacqui,Bleything,9113.84,27/10/2016,"NCI Building Systems, Inc."
+791,Jyoti,Bloxland,9850.69,13/12/2016,"Lombard Medical, Inc."
+792,Artemas,Stansfield,2479.82,30/06/2016,"Caladrius Biosciences, Inc."
+793,Percival,McCaster,3824.68,27/12/2018,"HFF, Inc."
+794,Rich,Wilkenson,1875.16,18/01/2018,"Blucora, Inc."
+795,Lance,Bantham,4749.6,21/04/2018,Heska Corporation
+796,Drusie,Jordi,7642.25,05/03/2019,Anworth Mortgage Asset  Corporation
+797,Ashly,Klimus,6230.66,27/09/2018,Bank of America Corporation
+798,Oswald,Tethacot,7789.19,09/08/2016,"Kratos Defense & Security Solutions, Inc."
+799,Maressa,Pacher,7242.68,26/01/2019,"Monro Muffler Brake, Inc."
+800,Stormi,Gowing,7362.15,22/07/2017,"Monolithic Power Systems, Inc."
+801,Megan,Kelston,3090.26,09/11/2017,"Union Bankshares, Inc."
+802,Stormy,Howcroft,9946.56,22/11/2016,BlackRock 2022 Global Income Opportunity Trust
+803,Sherie,Dawidowitz,7416.74,29/06/2018,"Washington Federal, Inc."
+804,Shaine,Lyfield,1746.35,08/09/2017,Noble Midstream Partners LP
+805,Gerri,Poltone,704.25,30/12/2017,"Digital Ally, Inc."
+806,Alyda,Ridoutt,340.1,30/07/2017,"Jaguar Animal Health, Inc."
+807,Margaux,Hearsey,4267.29,24/05/2016,Vanguard Total International Bond ETF
+808,Aveline,Housego,161.41,10/09/2016,Southern California Edison Company
+809,Ondrea,Archbell,1048.44,14/04/2018,Ocean Rig UDW Inc.
+810,Valentine,O'Flannery,4339.04,03/08/2016,SPDR Dorsey Wright Fixed Income Allocation ETF
+811,Winston,Carluccio,4674.9,03/07/2017,TAL Education Group
+812,Gael,Upson,2454.93,22/12/2018,Steelcase Inc.
+813,Maryellen,Dagwell,7036.2,25/12/2017,The GDL Fund
+814,Heloise,Caldicot,9274.23,24/09/2018,"Lantronix, Inc."
+815,Horten,O'Hoolahan,8836.19,04/11/2018,"Valeant Pharmaceuticals International, Inc."
+816,Halette,Lowensohn,889.1,18/04/2018,Apache Corporation
+817,Sybil,Joanaud,520.77,08/11/2016,Cerus Corporation
+818,Maggie,Blackah,5307.05,26/04/2017,Bank of America Corporation
+819,Arlyn,Liles,7833.54,02/02/2018,"Overseas Shipholding Group, Inc."
+820,Candy,Browncey,4949.31,12/07/2017,"NI Holdings, Inc."
+821,Carolann,Gymblett,265.82,23/11/2018,II-VI Incorporated
+822,Luce,Critchley,9219.92,15/05/2019,John Hancock Preferred Income Fund III
+823,Anabella,Margery,2327.79,22/08/2016,Boulevard Acquisition Corp. II
+824,Devon,Mackiewicz,3829.06,24/09/2016,"Exponent, Inc."
+825,Adriane,Brimner,7102.52,15/10/2018,"Fusion Telecommunications International, Inc."
+826,Tiphani,Muldownie,5384.72,02/12/2018,Brookfield DTLA Inc.
+827,Ham,Curedell,3158.06,07/04/2017,Camden Property Trust
+828,Fitzgerald,Snowball,6560.76,17/12/2017,"Baldwin & Lyons, Inc."
+829,Jeromy,Reedshaw,3117.92,08/06/2018,Nuveen California Quality Municipal Income Fund
+830,Leandra,Deetlof,5450.52,22/08/2018,HNI Corporation
+831,Sidnee,Macia,8183.06,18/06/2018,Silver Run Acquisition Corporation II
+832,Ethel,Magnar,1019.27,07/03/2019,Protective Life Corporation
+833,Lynnelle,Stilliard,1174.66,26/06/2017,Ramco-Gershenson Properties Trust
+834,Portie,Castanone,5610.0,31/12/2016,Lloyds Banking Group Plc
+835,Jamey,Tomaszkiewicz,3742.55,12/08/2017,LMP Capital and Income Fund Inc.
+836,Mohandis,Samter,3678.66,10/02/2017,Apollo Investment Corporation
+837,Ryann,Basham,5398.51,07/01/2018,Domino's Pizza Inc
+838,Hagan,Bigland,6464.03,13/10/2017,Grupo Aeroportuario del Centro Norte S.A.B. de C.V.
+839,Tallia,Beeke,8071.0,25/08/2018,Pennsylvania Real Estate Investment Trust
+840,Kelly,Curedale,5506.98,28/11/2017,VanEck Vectors Pharmaceutical ETF
+841,Dredi,Tattoo,5079.09,09/04/2019,"CalAtlantic Group, Inc."
+842,Heinrik,Oloshkin,8589.07,09/11/2016,American Vanguard Corporation
+843,Kipper,Mallison,5609.38,02/01/2018,"Essex Property Trust, Inc."
+844,Shaylah,Fluin,4467.57,12/05/2018,"TrovaGene, Inc."
+845,Fidel,Shawe,8989.19,10/07/2016,"Rand Logistics, Inc."
+846,Isa,Aldous,8008.14,04/01/2017,"HV Bancorp, Inc."
+847,Tammie,Twiggs,6020.21,25/09/2018,Voya Global Equity Dividend and Premium Opportunity Fund
+848,Olav,Frape,6736.54,07/04/2019,Nuveen California Quality Municipal Income Fund
+849,Jessie,Issitt,9830.92,04/07/2018,"Merrill Lynch & Co., Inc."
+850,Vanna,Lodovichi,4688.75,08/09/2018,Fibria Celulose S.A.
+851,Patten,McArt,341.03,11/08/2017,Astoria Financial Corporation
+852,Pierrette,Dicte,9187.59,19/05/2019,John Hancock Preferred Income Fund III
+853,Violetta,Gerg,7809.72,20/05/2019,Molina Healthcare Inc
+854,Nina,Doale,3259.23,14/09/2018,"Carter's, Inc."
+855,Guillaume,Vant,5932.77,09/06/2016,Granite Real Estate Inc.
+856,Waite,Bonds,3147.24,06/07/2017,PHH Corp
+857,Melanie,Inkin,9580.32,26/10/2018,"CDK Global, Inc."
+858,Janice,Zmitrovich,7524.16,20/04/2019,First Trust Large Cap Growth AlphaDEX Fund
+859,Raye,Domesday,926.28,26/02/2019,"KAR Auction Services, Inc"
+860,Angelica,Quinnelly,5078.53,21/11/2018,StoneMor Partners L.P.
+861,Rachael,Flynn,8607.21,14/01/2018,FelCor Lodging Trust Incorporated
+862,Don,Dwire,5351.74,31/07/2016,"Telephone and Data Systems, Inc."
+863,Jermayne,Leyton,3900.7,13/08/2017,Stonegate Bank
+864,Reese,Manske,5720.31,08/03/2018,Flowserve Corporation
+865,Celinda,Tipperton,5451.71,18/01/2018,Evercore Partners Inc
+866,Bertine,Minette,6169.87,21/05/2018,CVR Energy Inc.
+867,Niven,Ivons,9922.7,07/02/2018,"LightInTheBox Holding Co., Ltd."
+868,Annabela,Schruurs,4696.33,01/10/2017,Artesian Resources Corporation
+869,Horton,Mellon,9609.54,23/06/2017,Yahoo! Inc.
+870,Tarah,Shuter,7697.14,02/02/2019,Primero Mining Corp
+871,Arabella,Coal,6541.66,10/08/2017,BLDRS Europe 100 ADR Index Fund
+872,Zachary,Gruby,9387.23,24/03/2018,American Homes 4 Rent
+873,Clio,McNaughton,5629.47,14/01/2018,Pentair plc.
+874,Rey,Kopelman,6332.34,05/07/2016,Torchmark Corporation
+875,Ringo,Weeks,5818.01,03/06/2016,"Hostess Brands, Inc."
+876,Libbi,Poole,1486.01,25/04/2018,Colliers International Group Inc. 
+877,Amory,Cow,6069.98,15/12/2018,"Forward Industries, Inc."
+878,Cathleen,Seebright,1575.09,08/12/2018,"Summit Midstream Partners, LP"
+879,Micki,Eilhersen,6236.19,05/12/2018,Golar LNG Partners LP
+880,Washington,Boon,6099.95,19/07/2016,WisdomTree Barclays Interest Rate Hedged U.S. Aggregate Bond F
+881,Kirstin,O'Cosgra,7241.98,23/08/2017,"Blucora, Inc."
+882,Diego,Feacham,8500.79,06/03/2018,Hunter Maritime Acquisition Corp.
+883,Kienan,Rowcastle,2639.13,23/08/2016,"e.l.f. Beauty, Inc."
+884,Doralynne,Burfoot,1708.43,17/11/2018,First Trust RiverFront Dynamic Asia Pacific ETF
+885,Brenden,Elliman,6144.98,28/08/2016,Independence Holding Company
+886,Lissie,Hobell,5902.41,10/04/2018,"GenVec, Inc."
+887,Syman,Kleuer,2649.77,21/03/2017,INTL FCStone Inc.
+888,Alana,Simper,2809.11,02/12/2016,Active Alts Contrarian ETF
+889,Bethanne,Yeliashev,2702.13,21/10/2018,Hancock Holding Company
+890,Sidonia,Hartnell,1078.32,21/01/2018,Alcentra Capital Corp.
+891,Bernadette,Guitte,8509.49,11/11/2017,Government Properties Income Trust
+892,Marianna,Prier,2630.07,11/04/2019,iShares S&P Global Clean Energy Index Fund
+893,Honey,Dmitrienko,809.01,01/02/2017,SpartanNash Company
+894,Nickolai,Nisard,7726.38,07/01/2018,Ability Inc.
+895,Hadley,Papis,4121.32,24/09/2016,Invesco Municipal Trust
+896,Stacee,Mattson,2810.85,14/06/2018,Harvest Capital Credit Corporation
+897,Brennen,Halt,393.51,22/03/2018,"Sigma Labs, Inc."
+898,Adelheid,Atwill,3868.28,15/03/2019,"Lifeway Foods, Inc."
+899,Nanine,Price,6944.59,17/07/2017,Nuveen Energy MLP Total Return Fund
+900,Philippine,Osgarby,4568.52,29/04/2018,Newtek Business Services Corp.
+901,Deidre,Khristoforov,6729.47,21/09/2018,Bryn Mawr Bank Corporation
+902,Lazarus,Butlin,2652.1,29/05/2017,KKR Income Opportunities Fund
+903,Berna,Rikkard,3130.48,14/01/2018,"Randolph Bancorp, Inc."
+904,Byron,Blaik,5456.15,22/12/2017,"Guaranty Bancshares, Inc."
+905,Hubey,Lowther,2559.9,16/10/2017,ARRIS International plc
+906,Warren,Bohike,6692.09,22/05/2016,Colony Starwood Homes
+907,Darb,Andrault,4043.57,08/11/2016,"OSI Systems, Inc."
+908,Eddi,Wysome,7669.43,05/01/2019,W.R. Berkley Corporation
+909,Xylina,Le Fleming,1938.16,10/12/2016,Eaton Vance Tax-Advantaged Global Dividend Income Fund
+910,Bank,Ugolini,1400.59,14/07/2017,"Hibbett Sports, Inc."
+911,Hilliard,Lander,4575.77,11/08/2016,Radware Ltd.
+912,Dorine,Pocknell,5484.49,05/07/2016,"RCI Hospitality Holdings, Inc."
+913,Dolli,MacGaffey,3835.45,26/07/2017,ADMA Biologics Inc
+914,Mattias,Slidders,4493.46,09/09/2016,"Universal Health Services, Inc."
+915,Sayer,Halligan,9383.05,13/08/2018,"Bank of the James Financial Group, Inc."
+916,Johnette,Gosker,2720.35,20/02/2018,National Beverage Corp.
+917,Lizabeth,Trustrie,9125.41,17/06/2018,"Wellesley Bancorp, Inc."
+918,Broddy,Thorald,696.53,18/11/2018,"Resources Connection, Inc."
+919,Bronson,Skittles,5200.04,16/09/2018,Tucows Inc.
+920,Gibby,Brader,1179.55,18/09/2016,"Pacific Ethanol, Inc."
+921,Terri-jo,Golsthorp,5700.88,05/04/2017,Interstate Power and Light Company
+922,Suki,Impy,7066.39,24/09/2017,Las Vegas Sands Corp.
+923,Yorgos,Blabey,6461.69,07/04/2019,Imax Corporation
+924,Shepherd,McLeish,8542.8,05/08/2017,"Ecology and Environment, Inc."
+925,Joete,Wallington,2717.95,26/02/2018,Newtek Business Services Corp.
+926,Ruthanne,Nials,2267.37,21/04/2018,Lindblad Expeditions Holdings Inc. 
+927,Jobina,Jeanin,5955.6,03/04/2019,PowerShares DWA Tactical Sector Rotation Portfolio
+928,Floria,Uzzell,8353.86,21/04/2017,O2Micro International Limited
+929,Andrej,Spellacy,9589.0,14/03/2019,"Goldman Sachs Group, Inc. (The)"
+930,Pru,Zettoi,1400.26,07/11/2018,"PerkinElmer, Inc."
+931,Netta,Pleace,8304.17,10/12/2018,Saban Capital Acquisition Corp.
+932,Dannie,Kevane,2798.1,31/08/2016,Cheetah Mobile Inc.
+933,Ty,Seignior,1454.58,17/01/2017,Banco Santander Chile
+934,Winn,Jaray,9273.61,05/12/2018,Titan Machinery Inc.
+935,Sven,Briance,2467.55,10/05/2019,Medallion Financial Corp.
+936,Fay,Hanshaw,821.54,20/09/2016,Origo Acquisition Corporation
+937,Carlita,Westrip,5901.59,11/12/2017,"Pure Storage, Inc. "
+938,Maritsa,Brauninger,8435.94,26/03/2018,"MaxLinear, Inc"
+939,Benoite,Musker,8094.33,05/01/2017,"Bridge Bancorp, Inc."
+940,Claresta,Sybry,2368.01,01/11/2017,Kimberly-Clark Corporation
+941,Marnie,Lilburn,998.29,03/11/2018,Alliance California Municipal Income Fund Inc
+942,Elene,Jinks,2591.95,24/03/2017,American Vanguard Corporation
+943,Kiel,Farries,9592.44,19/08/2018,"China Automotive Systems, Inc."
+944,Milty,Vankin,4143.67,07/04/2017,CMS Energy Corporation
+945,Corliss,Vakhonin,2067.59,10/03/2019,TD Ameritrade Holding Corporation
+946,Gwendolyn,Haggerstone,8310.42,19/11/2016,"Resources Connection, Inc."
+947,Sapphire,Josselson,314.74,19/03/2017,Vanguard International Dividend Appreciation ETF
+948,Dwight,Kassidy,2958.37,21/12/2016,"EZCORP, Inc."
+949,Chevy,Tutin,6202.93,03/11/2016,iShares MSCI EM ESG Optimized ETF
+950,Coleman,Mourant,7941.09,15/09/2018,"Pacific American Income Shares, Inc."
+951,Marney,Bousfield,7099.53,28/05/2018,Jack In The Box Inc.
+952,Jacquelin,Statham,5148.88,25/09/2018,"Biomerica, Inc."
+953,Kennan,Brissenden,6375.0,01/10/2017,"Paychex, Inc."
+954,Vin,Cossor,7374.77,14/06/2016,Gerdau S.A.
+955,Lyn,Nudds,4775.55,22/06/2018,Abeona Therapeutics Inc.
+956,Georgina,Taft,1333.96,25/03/2019,Ford Motor Company
+957,Rutter,Yule,7074.65,10/12/2016,Emclaire Financial Corp
+958,Shellysheldon,Wyett,4570.0,30/11/2018,Grupo Aeroportuario del Centro Norte S.A.B. de C.V.
+959,Carey,McHugh,3441.07,11/03/2018,Omega Protein Corporation
+960,Darice,Francois,8179.35,05/04/2019,"Xencor, Inc."
+961,Annemarie,Laraway,8351.46,06/10/2016,"Hamilton Bancorp, Inc."
+962,Dacia,Killwick,3718.62,27/05/2017,Playa Hotels & Resorts N.V.
+963,Aldous,Squeers,7817.55,25/12/2016,"Penns Woods Bancorp, Inc."
+964,Sterne,Wonham,1769.03,05/05/2017,"LeMaitre Vascular, Inc."
+965,Zeb,Wondraschek,926.3,08/08/2017,Systemax Inc.
+966,Torry,Blowes,8403.52,14/05/2018,"Winnebago Industries, Inc."
+967,Daven,Walding,6953.94,20/07/2016,"Pfizer, Inc."
+968,Alphard,Speechley,3443.61,28/05/2018,Ivy NextShares
+969,Maurise,Goutcher,7981.12,21/09/2016,Union Bankshares Corporation
+970,Sibyl,Wrathmell,8956.06,09/02/2019,Credit Suisse AG
+971,Coretta,Tibbles,9487.42,23/01/2019,"Carbo Ceramics, Inc."
+972,Aggy,Jancar,2183.0,23/07/2016,"CommerceHub, Inc."
+973,Terry,Averill,2123.39,06/04/2019,"Goldman Sachs Group, Inc. (The)"
+974,Louisette,Willmetts,2435.72,21/07/2017,"Apricus Biosciences, Inc."
+975,Elyse,Matyasik,9032.25,20/06/2018,Matlin & Partners Acquisition Corporation
+976,Ewan,Searchwell,3684.55,19/10/2016,Otelco Inc.
+977,Ashly,Larking,7988.52,12/04/2019,Nuveen High Income November 2021 Target Term Fund
+978,Wilhelm,Whitter,9859.7,15/07/2016,Nuveen Build America Bond Fund
+979,Kameko,Smitton,4814.57,29/01/2019,Kirby Corporation
+980,Anson,Reddan,7845.92,28/08/2018,Devon Energy Corporation
+981,Shane,McPhilemy,3372.65,29/10/2017,Scorpio Tankers Inc.
+982,Neill,Lonie,789.01,17/07/2018,"Bemis Company, Inc."
+983,Constance,Aldwich,8102.7,05/01/2017,Equity Residential
+984,Lyn,Biffen,3510.66,14/05/2018,Koninklijke Philips N.V.
+985,Claudetta,Fuller,2010.12,13/10/2016,Voya Global Advantage and Premium Opportunity Fund
+986,Morgun,Stoeckle,4067.93,18/06/2017,"American Eagle Outfitters, Inc."
+987,Wendall,Gibson,3918.41,15/05/2018,Modern Media Acquisition Corp.
+988,Min,Olivetta,4163.92,27/08/2018,Global Indemnity Limited
+989,Christabella,Raven,3157.42,06/02/2018,Pimco Corporate & Income Stategy Fund
+990,Brocky,Reily,5516.84,18/10/2017,Kayne Anderson MLP Investment Company
+991,Selle,Stoyle,8036.9,19/05/2019,Brunswick Corporation
+992,Pris,Boulder,5642.07,03/05/2017,Farmer Brothers Company
+993,Johnny,Solman,6522.25,11/04/2017,"Aquinox Pharmaceuticals, Inc."
+994,Julian,Dunsmuir,1979.1,25/10/2017,Nuvectra Corporation
+995,Whitney,Vause,6186.16,15/06/2018,WSFS Financial Corporation
+996,Reade,Deverill,1463.93,21/02/2019,"Powell Industries, Inc."
+997,Sigvard,Eich,8062.43,18/03/2019,"Copa Holdings, S.A."
+998,Janis,Penwright,716.37,07/04/2018,GoDaddy Inc.
+999,Pedro,Joontjes,6344.46,23/09/2017,"Citrix Systems, Inc."
+1000,Virginie,Riha,7229.94,07/08/2017,Fly Leasing Limited
