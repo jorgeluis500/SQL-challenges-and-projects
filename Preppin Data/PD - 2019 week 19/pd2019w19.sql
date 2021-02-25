@@ -6,6 +6,8 @@
 -- Must average 100 minutes or less behind the leader as a team (less than 6000 seconds)
 -- Make all time fields seconds before doing any of the calculations
 
+-- SQL Server used
+
 --SELECT * FROM pd2019w19_TdFrance_times; -- Exploration
 
 --STEP 1. Parse the times
