@@ -9,7 +9,7 @@
 
 --USE PreppinData;
 
---SELECT * FROM pd2019w20_a_patient pwap; -- Exploration
+--SELECT * FROM pd2019w20_a_patient; -- Exploration
 
 --STEP 1. Use the scaffold provided to build out a complete data set that includes all days one of our customers is in the hospital
 
@@ -18,6 +18,7 @@ SELECT
 	p.Name,
 	p.First_Visit,
 	p.Length_of_Stay AS Total_Length_of_Stay,
+	'First Visit' AS Visit_type,
 	DATEADD(DAY, s.value, p.First_Visit) AS Day_at_hospital,
 	s.Value AS Day_number
 INTO 
