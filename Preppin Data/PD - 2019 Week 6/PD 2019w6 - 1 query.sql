@@ -1,3 +1,5 @@
+-- https://preppindata.blogspot.com/2019/03/2019-week-6.html
+
 USE preppindata;
 
 -- Step 1. Split the category in the Company data table to get Bar and Liquid (eliminate Soap)
@@ -24,7 +26,7 @@ FROM 2019w6c_soap_price
 
 -- Final query. 
 -- Join new company data with new soap and get the profit
--- Reverse the Clean Category to cvategory with 'Soap'
+-- Reverse the Clean Category to category with 'Soap'
 -- SUM the profit to group by Month, Country and Category
 -- Union the previous query with the company data
  

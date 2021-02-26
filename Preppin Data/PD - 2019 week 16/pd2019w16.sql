@@ -1,5 +1,6 @@
 -- Preppin Data
 -- 2019 Week 16
+-- https://preppindata.blogspot.com/2019/05/2019-week-16.html
 
 -- STEP 1 
 -- Union all the files in a temporary table

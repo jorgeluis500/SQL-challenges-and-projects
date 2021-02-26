@@ -1,5 +1,6 @@
 -- PREPPIN DATA 
 -- 2019 Week 19
+-- https://preppindata.blogspot.com/2019/06/2019-week-19.html
 
 -- Data from tour de france. The team must have
 -- Have seven or more riders complete the tour

@@ -1,4 +1,5 @@
 -- Preppin data 2019 week 5 with a more efficient query
+-- https://preppindata.blogspot.com/2019/03/2019-week-5.html
 
 SELECT 
 /*		 '2019-06-17' AS Start_date,

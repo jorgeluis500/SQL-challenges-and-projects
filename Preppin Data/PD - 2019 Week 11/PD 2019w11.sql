@@ -1,3 +1,4 @@
+-- https://preppindata.blogspot.com/2019/04/2019-week-11.html
 
 SELECT * FROM 2019w11_json_stock_data;
 

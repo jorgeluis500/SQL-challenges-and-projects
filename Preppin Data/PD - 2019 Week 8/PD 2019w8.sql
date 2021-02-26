@@ -1,3 +1,5 @@
+-- https://preppindata.blogspot.com/2019/04/2019-week-8.html
+
 USE preppindata;
 
 -- Exploration

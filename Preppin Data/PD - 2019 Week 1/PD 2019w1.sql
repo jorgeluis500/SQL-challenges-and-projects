@@ -1,3 +1,5 @@
+-- https://preppindata.blogspot.com/2019/02/2019-week-1.html
+
 CREATE DATABASE PreppinData;
 
 SHOW DATABASES;

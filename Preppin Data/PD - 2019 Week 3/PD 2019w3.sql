@@ -1,3 +1,4 @@
+-- https://preppindata.blogspot.com/2019/02/2019-week-3.html
 
 SELECT
 	DATE_ADD(cj.Start_Date_2,INTERVAL cj.Length MONTH) AS Payment_date,

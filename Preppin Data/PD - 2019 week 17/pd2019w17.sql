@@ -1,5 +1,8 @@
 -- Preppin Data
 -- 2019 Week 17
+-- https://preppindata.blogspot.com/2019/06/2019-week-17.html
+
+
 -- Complicated since the process takes one or another route depending on the results
 -- SQL Server used
 
