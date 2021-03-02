@@ -1,10 +1,15 @@
 -- Preppin Data
 -- 2019 Week 17
--- https://preppindata.blogspot.com/2019/06/2019-week-17.html
+-- https://preppindata.blogspot.com/2019/04/2019-week-17.html
 
+-- SQL flavor: T-SQL
+
+-- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
+-- Window Functions
+-- Pagination
+--
 
 -- Complicated since the process takes one or another route depending on the results
--- SQL Server used
 
 
 -- SELECT * FROM pd2019w17_Voting_Systems; -- Exploration

@@ -1,6 +1,13 @@
--- Preppind Data
+- Preppin Data
 -- 2019 Week 20
--- https://preppindata.blogspot.com/2019/06/2019-week-20.html
+-- https://preppindata.blogspot.com/2019/04/2019-week-20.html
+
+-- SQL flavor: T-SQL
+
+-- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
+-- Text parsing 
+-- Use of CHARINDEX
+-- Scaffolding
 
 --Use the scaffold provided to build out a complete data set that includes all days one of our customers is in the hospital
 --To determine cost, you pay �100 for each of the first three days, then �80 for the next four days and then �75 for each of the following days.

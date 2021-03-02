@@ -1,4 +1,11 @@
+-- Preppin Data
+-- 2019 Week 3
 -- https://preppindata.blogspot.com/2019/02/2019-week-3.html
+
+-- SQL flavor: MySQL
+
+-- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
+-- Cross join
 
 SELECT
 	DATE_ADD(cj.Start_Date_2,INTERVAL cj.Length MONTH) AS Payment_date,

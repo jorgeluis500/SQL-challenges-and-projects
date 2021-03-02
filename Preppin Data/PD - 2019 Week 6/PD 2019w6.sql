@@ -1,4 +1,11 @@
+-- Preppin Data
+-- 2019 Week 6
 -- https://preppindata.blogspot.com/2019/03/2019-week-6.html
+
+-- SQL flavor: MySQL
+
+-- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
+
 
 USE preppindata;
 
@@ -46,7 +53,7 @@ LEFT JOIN New_soap_price nsp
 	ON nm.Clean_Category = nsp.Clean_Type_of_Soap
 ;
 
--- Step 4. Create the aggeregations out the previous query
+-- Step 4. Create the aggregations out of the previous query
 
 SELECT 
 	nm.Month,

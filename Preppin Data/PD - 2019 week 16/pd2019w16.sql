@@ -1,6 +1,11 @@
 -- Preppin Data
 -- 2019 Week 16
--- https://preppindata.blogspot.com/2019/05/2019-week-16.html
+-- https://preppindata.blogspot.com/2019/04/2019-week-16.html
+
+-- SQL flavor: T-SQL
+
+-- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
+-- Window Functions
 
 -- STEP 1 
 -- Union all the files in a temporary table

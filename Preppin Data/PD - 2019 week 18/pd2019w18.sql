@@ -1,5 +1,12 @@
---PREPPIN DATA 2019 Week 18
--- https://preppindata.blogspot.com/2019/06/2019-week-18.html
+-- Preppin Data
+-- 2019 Week 18
+-- https://preppindata.blogspot.com/2019/04/2019-week-18.html
+
+-- SQL flavor: T-SQL
+
+-- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
+-- Tokenization using SPLIT STRING function
+
 
 --USE PreppinData;
 

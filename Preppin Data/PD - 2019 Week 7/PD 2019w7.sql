@@ -1,4 +1,11 @@
+-- Preppin Data
+-- 2019 Week 7
 -- https://preppindata.blogspot.com/2019/03/2019-week-7.html
+
+-- SQL flavor: MySQL
+
+-- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
+-- WITH clause
 
 USE preppindata;
 

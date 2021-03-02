@@ -1,4 +1,11 @@
+-- Preppin Data
+-- 2019 Week 8
 -- https://preppindata.blogspot.com/2019/04/2019-week-8.html
+
+-- SQL flavor: MySQL
+
+-- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
+-- CASE aggregations
 
 USE preppindata;
 

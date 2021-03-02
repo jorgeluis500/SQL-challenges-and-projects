@@ -1,13 +1,16 @@
--- PREPPIN DATA 
+-- Preppin Data
 -- 2019 Week 19
--- https://preppindata.blogspot.com/2019/06/2019-week-19.html
+-- https://preppindata.blogspot.com/2019/04/2019-week-19.html
+
+-- SQL flavor: T-SQL
+
+-- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
+
 
 -- Data from tour de france. The team must have
 -- Have seven or more riders complete the tour
 -- Must average 100 minutes or less behind the leader as a team (less than 6000 seconds)
 -- Make all time fields seconds before doing any of the calculations
-
--- SQL Server used
 
 --SELECT * FROM pd2019w19_TdFrance_times; -- Exploration
 

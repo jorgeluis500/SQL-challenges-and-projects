@@ -1,6 +1,14 @@
---PREPPPIN DATA
---2019 Week 21
--- https://preppindata.blogspot.com/2019/07/2019-week-21.html
+-- Preppin Data
+-- 2019 Week 21
+-- https://preppindata.blogspot.com/2019/04/2019-week-21.html
+
+-- SQL flavor: T-SQL
+
+-- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
+-- Append values with SELECT statement
+-- Text parsing 
+-- Use of CHARINDEX
+-- Scaffolding
 
 -- Tests
 --SELECT * FROM pd2019w20_a_patient ;

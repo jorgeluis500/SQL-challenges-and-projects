@@ -1,4 +1,13 @@
--- https://preppindata.blogspot.com/2019/05/2019-week-12.html
+-- Preppin Data
+-- 2019 Week 12
+-- https://preppindata.blogspot.com/2019/04/2019-week-12.html
+
+-- SQL flavor: T-SQL
+
+-- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
+-- Date conversion 
+-- Window Functions
+-- Time and formatting
 
 USE PreppinData;
 

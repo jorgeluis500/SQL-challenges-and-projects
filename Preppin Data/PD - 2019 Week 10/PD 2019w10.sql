@@ -1,4 +1,11 @@
+-- Preppin Data
+-- 2019 Week 10
 -- https://preppindata.blogspot.com/2019/04/2019-week-10.html
+
+-- SQL flavor: MySQL
+
+-- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
+-- Regular Expressions
 
 USE preppindata;
 
@@ -10,7 +17,7 @@ SELECT * FROM `2019w10_cust_lt_value`;
 -- Step 1. Create the a common key in all datasets, so we can join them later
 -- a) The common feature that can be assembled is the first letter of the firtname and the lastname, 
 	-- all in lowercase and without the numbers of the email addresses. It will be called f_lastname
-    -- However, ate the end, there are four combinations of letters and numbers that mess it up https://preppindata.blogspot.com/2019/04/2019-week-10-solution.html
+    -- However, at the end, there are four combinations of letters and numbers that mess it up https://preppindata.blogspot.com/2019/04/2019-week-10-solution.html
 -- b) Dates need to be standarized in mailing list and unsuscribe list
 
 CREATE TEMPORARY TABLE mailing_list_1 

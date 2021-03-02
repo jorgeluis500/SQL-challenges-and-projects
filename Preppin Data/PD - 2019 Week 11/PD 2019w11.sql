@@ -1,4 +1,12 @@
+-- Preppin Data
+-- 2019 Week 11
 -- https://preppindata.blogspot.com/2019/04/2019-week-11.html
+
+-- SQL flavor: MySQL
+
+-- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
+-- Convert Epoch time into standard date
+
 
 SELECT * FROM 2019w11_json_stock_data;
 

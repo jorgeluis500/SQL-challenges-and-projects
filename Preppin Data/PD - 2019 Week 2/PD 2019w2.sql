@@ -1,4 +1,11 @@
+-- Preppin Data
+-- 2019 Week 2
 -- https://preppindata.blogspot.com/2019/02/2019-week-2.html
+
+-- SQL flavor: MySQL
+
+-- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
+-- Aggregations
 
 SELECT * FROM 2019w2;
 

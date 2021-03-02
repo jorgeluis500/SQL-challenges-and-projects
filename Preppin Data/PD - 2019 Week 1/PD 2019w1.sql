@@ -1,4 +1,13 @@
+-- Preppin Data
+-- 2019 Week 1
 -- https://preppindata.blogspot.com/2019/02/2019-week-1.html
+
+-- SQL flavor: MySQL
+
+-- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
+-- Alter data types
+-- String to date conversion
+
 
 CREATE DATABASE PreppinData;
 

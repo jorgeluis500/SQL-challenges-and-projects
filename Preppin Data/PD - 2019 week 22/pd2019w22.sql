@@ -1,6 +1,11 @@
---Preppin Data
---2019 Week 22
---https://preppindata.blogspot.com/2019/07/2019-week-22.html
+-- Preppin Data
+-- 2019 Week 22
+-- https://preppindata.blogspot.com/2019/04/2019-week-22.html
+
+-- SQL flavor: T-SQL
+
+-- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
+-- Window Functions
 
 -- There must be more elagant solutions, probably in MySQL and PostgreSQL where RANGE is fully supported
 

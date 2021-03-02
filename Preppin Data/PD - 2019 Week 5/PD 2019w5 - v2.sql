@@ -1,5 +1,11 @@
--- Preppin data 2019 week 5 with a more efficient query
+-- Preppin Data
+-- 2019 Week 5 - File 2 with a more efficient query
 -- https://preppindata.blogspot.com/2019/03/2019-week-5.html
+
+-- SQL flavor: MySQL
+
+-- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
+-- Subquery
 
 SELECT 
 /*		 '2019-06-17' AS Start_date,
