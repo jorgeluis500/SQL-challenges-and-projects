@@ -6,7 +6,7 @@
 
 -- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
 -- Tokenization using SPLIT STRING function
-
+-- Iterative loop with variables (at the end)
 
 --USE PreppinData;
 
