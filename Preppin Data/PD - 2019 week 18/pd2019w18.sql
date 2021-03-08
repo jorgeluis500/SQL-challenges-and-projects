@@ -5,7 +5,7 @@
 -- SQL flavor: T-SQL
 
 -- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
--- Tokenization using SPLIT STRING function
+-- Tokenization using STRING_SPLIT  function
 -- Iterative loop with variables (at the end)
 
 --USE PreppinData;
