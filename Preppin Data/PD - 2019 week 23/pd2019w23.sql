@@ -19,7 +19,7 @@ DROP TABLE IF EXISTS #July_15
 CREATE TABLE #July_15 (Day_name VARCHAR(80), Notes VARCHAR(255)); 
 
 BULK INSERT #July_15 
-FROM 'C:\Users\jorge\Documents\MEGAsync\SQL Notes\Challenges and projects\Preppin Data\PD - 2019 week 23\pd2019week23_a.csv'
+FROM 'C:\Users\jorge\Documents\MEGAsync\SQL\Challenges and projects\Preppin Data\PD - 2019 week 23\pd2019week23_a.csv'
 WITH ( FIELDTERMINATOR = ',', ROWTERMINATOR = '\n', FIRSTROW = 2);
 
 -- File 2
@@ -27,7 +27,7 @@ DROP TABLE IF EXISTS #July_22
 CREATE TABLE #July_22 (Day_name VARCHAR(80), Notes VARCHAR(255))
 
 BULK INSERT #July_22 
-FROM 'C:\Users\jorge\Documents\MEGAsync\SQL Notes\Challenges and projects\Preppin Data\PD - 2019 week 23\pd2019week23_b.csv'
+FROM 'C:\Users\jorge\Documents\MEGAsync\SQL\Challenges and projects\Preppin Data\PD - 2019 week 23\pd2019week23_b.csv'
 WITH ( FIELDTERMINATOR = ',', ROWTERMINATOR = '\n', FIRSTROW = 2);
 
 -- File 3
@@ -35,7 +35,7 @@ DROP TABLE IF EXISTS #July_29
 CREATE TABLE #July_29 (Day_name VARCHAR(80), Notes VARCHAR(255))
 
 BULK INSERT #July_29 
-FROM 'C:\Users\jorge\Documents\MEGAsync\SQL Notes\Challenges and projects\Preppin Data\PD - 2019 week 23\pd2019week23_c.csv'
+FROM 'C:\Users\jorge\Documents\MEGAsync\SQL\Challenges and projects\Preppin Data\PD - 2019 week 23\pd2019week23_c.csv'
 WITH ( FIELDTERMINATOR = ',', ROWTERMINATOR = '\n', FIRSTROW = 2);
 
 -- STEP 2
