@@ -1,6 +1,6 @@
 -- Preppin Data
--- 2019 Week 23
--- https://preppindata.blogspot.com/2019/04/2019-week-23.html
+-- 2019 Week 27
+-- https://preppindata.blogspot.com/2019/04/2019-week-27.html
 
 -- SQL flavor: T-SQL
 
