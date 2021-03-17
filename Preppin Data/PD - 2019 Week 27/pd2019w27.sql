@@ -28,8 +28,9 @@ WITH Date_fixed AS
 	(
 	SELECT 
 		*,
-		CASE WHEN New_date <= '2019-02-14' THEN 'Pre'
-			WHEN New_date > '2019-02-14' THEN 'Post'
+		CASE 
+		WHEN New_date <= '2019-02-14' THEN 'Pre'
+		WHEN New_date > '2019-02-14' THEN 'Post'
 		ELSE 'Check' END AS 'Pre_Post_Valentine_days'
 	FROM Date_fixed
 	)
