@@ -1,5 +1,5 @@
 
--- Didin't work. Data importted with Azure DS
+-- Didn't work. Data imported with Azure DS
 
 DROP TABLE IF EXISTS pd2019w_30_tweets;
 CREATE TABLE pd2019w_30_tweets 
