@@ -11,7 +11,7 @@
 
 
 -- STEP 1
--- Input all the files
+-- Union all the files
 
 DROP TABLE IF EXISTS All_files;
 CREATE TEMPORARY TABLE All_files
