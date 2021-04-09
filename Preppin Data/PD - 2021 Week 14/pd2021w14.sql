@@ -15,7 +15,7 @@
 -- STEP 1
 -- Unpivot the seats table, add seat type and store the data into a newseats temp table
 
-DROP TABLE IF EXISTS newseats;
+DROP TABLE IF EXISTS temp_newseats;
 WITH Unpivoted AS (
 	SELECT
 		sl."Row_no",
@@ -34,16 +34,16 @@ SELECT
 	WHEN seat_letter = 'C' OR seat_letter = 'D' THEN 'Aisle'
 	ELSE 'Check'
 	END AS Seat_type
-INTO TEMPORARY TABLE newseats -- creates new temp table
+INTO TEMPORARY TABLE temp_newseats -- creates new temp table
 FROM Unpivoted
 ;
 
---SELECT * FROM newseats; -- Test
+--SELECT * FROM temp_newseats; -- Test
 
 -- STEP 2
--- Parse flight details, classify flight times and put it into a new_flight_details temp table
+-- Parse flight details, classify flight times and put it into a temp_new_flight_details temp table
 
-DROP TABLE IF EXISTS new_flight_details;
+DROP TABLE IF EXISTS temp_new_flight_details;
 WITH Parsed AS (
 		SELECT 
 	--		*,
@@ -61,29 +61,29 @@ SELECT
 	WHEN CAST( LEFT(flight_time,2) AS INT) > 12 AND CAST( LEFT(flight_time,2) AS INT) < 18 THEN 'Afternoon'
 	WHEN CAST( LEFT(flight_time,2) AS INT) > 18 THEN 'Evening'
 	ELSE 'Check' END AS flight_when
-INTO TEMPORARY TABLE new_flight_details
+INTO TEMPORARY TABLE temp_new_flight_details
 FROM Parsed
 ;	
---SELECT * FROM new_flight_details; -- Test
+--SELECT * FROM temp_new_flight_details; -- Test
 
 -- STEP 3
--- Define Business Class seats in a new_plane_details temp table
+-- Define Business Class seats in a temp_new_plane_details temp table
 
-DROP TABLE IF EXISTS new_plane_details;
+DROP  TABLE IF EXISTS temp_new_plane_details;
 SELECT
 	"FlightNo.",
 	"Business Class",
 	CAST( SUBSTRING("Business Class", 3) AS INT) AS business_class_max
-INTO TEMPORARY TABLE new_plane_details
+INTO  TABLE temp_new_plane_details
 FROM
 	public.pd2021w14_plane_details_csv
 ;
---SELECT * FROM new_plane_details; -- Test
+--SELECT * FROM temp_new_plane_details; -- Test
 
 -- STEP 4
 --Combine the Passenger List table with New Seat List, New Flight Details and New Plane Details
 
-DROP TABLE IF EXISTS All_Combined;
+DROP  TABLE IF EXISTS All_Combined;
 SELECT
 	pl.first_name,
 	pl.last_name,
@@ -104,11 +104,11 @@ SELECT
 --	pd."Business Class",
 	pd.business_class_max,
 	CASE WHEN ns."Row_no" <= pd.business_class_max THEN 'Business' ELSE 'Economy' END AS seat_class
-INTO TEMPORARY TABLE All_Combined
+INTO  TABLE All_Combined
 FROM 		pd2021w14_passenger_list_csv pl
-INNER JOIN 	newseats ns 			ON pl.passenger_number = ns.seat_number
-INNER JOIN 	new_flight_details fd 	ON pl.flight_number = fd.flight
-INNER JOIN 	new_plane_details pd 	ON pl.flight_number = pd."FlightNo."
+INNER JOIN 	temp_newseats ns 			ON pl.passenger_number = ns.seat_number
+INNER JOIN 	temp_new_flight_details fd 	ON pl.flight_number = fd.flight
+INNER JOIN 	temp_new_plane_details pd 	ON pl.flight_number = pd."FlightNo."
 ;
 
 --SELECT * FROM All_Combined ORDER BY flight_number, passenger_number; -- Test
