@@ -69,7 +69,7 @@ FROM Parsed
 -- STEP 3
 -- Define Business Class seats in a temp_new_plane_details temp table
 
-DROP  TABLE IF EXISTS temp_new_plane_details;
+DROP TABLE IF EXISTS temp_new_plane_details;
 SELECT
 	"FlightNo.",
 	"Business Class",
@@ -83,7 +83,7 @@ FROM
 -- STEP 4
 --Combine the Passenger List table with New Seat List, New Flight Details and New Plane Details
 
-DROP  TABLE IF EXISTS All_Combined;
+DROP TABLE IF EXISTS All_Combined;
 SELECT
 	pl.first_name,
 	pl.last_name,
@@ -104,7 +104,7 @@ SELECT
 --	pd."Business Class",
 	pd.business_class_max,
 	CASE WHEN ns."Row_no" <= pd.business_class_max THEN 'Business' ELSE 'Economy' END AS seat_class
-INTO  TABLE All_Combined
+INTO TEMPORARY TABLE All_Combined
 FROM 		pd2021w14_passenger_list_csv pl
 INNER JOIN 	temp_newseats ns 			ON pl.passenger_number = ns.seat_number
 INNER JOIN 	temp_new_flight_details fd 	ON pl.flight_number = fd.flight
