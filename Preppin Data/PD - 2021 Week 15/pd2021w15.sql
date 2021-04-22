@@ -33,7 +33,7 @@ ORDER BY
 --SELECT * FROM temp_menu; -- Test
 
 -- STEP 2
--- Unpivot the order table to get one item by line, using the string_to_array() function which split the string by delimiter
+-- Unpivot the order table to get one item by line, using the string_to_array() function which splits the string by delimiter
 -- Get day of the week name
 
 DROP TABLE IF EXISTS temp_order;

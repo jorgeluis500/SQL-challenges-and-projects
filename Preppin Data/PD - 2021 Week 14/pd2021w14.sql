@@ -74,7 +74,7 @@ SELECT
 	"FlightNo.",
 	"Business Class",
 	CAST( SUBSTRING("Business Class", 3) AS INT) AS business_class_max
-INTO  TABLE temp_new_plane_details
+INTO TEMPORARY TABLE temp_new_plane_details
 FROM
 	public.pd2021w14_plane_details_csv
 ;
