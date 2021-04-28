@@ -1,0 +1,55 @@
+"Name, Age, Area of Work",Project,2/1/2021,2/2/2021,2/3/2021,2/4/2021,2/5/2021,2/8/2021,2/9/2021,2/10/2021,2/11/2021,2/12/2021
+"Dan, 28: Client",Client Meetings,,2,,1,,1.5,0.5,,,Annual Leave
+"Dan, 28: Client",Client Issues,1,1.5,4.5,3.5,1,2,1,2,3,Annual Leave
+"Dan, 28: Client",Monthly Reports,,,,,2,1,1,2,1,Annual Leave
+"Dan, 28: Client",Client Emails,2,0.5,0.5,0.5,1,1,1,,,Annual Leave
+"Dan, 28: Client",Client Communications,1,1,,,,0.5,,,,Annual Leave
+"Dan, 28: Special Projects",Virtual Space,,,,0.5,1,1.5,0.5,1.5,,Annual Leave
+"Dan, 28: Special Projects",Presentation for Exec,,,,,,,1.5,,1,Annual Leave
+"Dan, 28: Special Projects",Webinar,,,,0.5,,,0.5,,,Annual Leave
+"Dan, 28: Special Projects",Grad Scheme Organisation,1,1,,,,,,,,Annual Leave
+"Dan, 28: Special Projects",Team Social,,,,,,,,0.5,,Annual Leave
+"Dan, 28: Special Projects",Social Committee ,,,0.5,,0.5,,,,1,Annual Leave
+"Dan, 28: Special Projects",Mentoring,,,,0.5,,,,,,Annual Leave
+"Dan, 28: Chats",Team Meetings,2,0.5,2,1,1.25,1.5,1,0.5,,Annual Leave
+"Dan, 28: Chats",Minutes,,0.5,,,0.5,,,,0.5,Annual Leave
+"Dan, 28: Chats",Coffee Catch Ups,,0.5,,0.5,1,,0.5,,,Annual Leave
+"Dan, 28: Chats",Personal development,,,,,,,,1.5,1,Annual Leave
+"Dan, 28: Chats",Company Meetings,1,,,,,,,1,,Annual Leave
+,Overall Total for Dan,8,7.5,7.5,8,8.25,9,7.5,9,7.5,0
+"George, 34: Client",Client Meetings,1,1,2,,1,1.5,0.5,1,,2
+"George, 34: Client",Client Issues,1,1,4,3.5,4,2,1,2,3,4
+"George, 34: Client",Monthly Reports,,3,,,,1,2,2,1,
+"George, 34: Client",Client Emails,2,1,1,1,1,1,1,1,1,
+"George, 34: Client",Client Communications,1,,1,,,,,,,
+"George, 34: Special Projects",Virtual Space,,,,,1,1.5,0.5,1.5,,1
+"George, 34: Special Projects",Presentation for Exec,,1,,,,,1.5,,,
+"George, 34: Special Projects",Webinar,2,,1,2,,,,,,
+"George, 34: Special Projects",Grad Scheme Organisation,,,,,,,,,,
+"George, 34: Special Projects",Team Social,,,,,,,,,,
+"George, 34: Special Projects",Social Committee ,,,,,,,,,,
+"George, 34: Special Projects",Mentoring,,,,,,,,,,
+"George, 34: Chats",Team Meetings,1,1,1,1,,1,1,1,1,
+"George, 34: Chats",Minutes,,,,,,,,,,
+"George, 34: Chats",Coffee Catch Ups,,,,1,1,,0.5,,1,1
+"George, 34: Chats",Personal development,,,,,,,,,,
+"George, 34: Chats",Company Meetings,1,,,,,1,,,,
+,Overall Total for George,9,8,10,8.5,8,9,8,8.5,7,8
+"Sam, 45: Client",Client Meetings,3,,,,2,3,,,,2
+"Sam, 45: Client",Client Issues,2,2,2,2,2,2,2,2,2,2
+"Sam, 45: Client",Monthly Reports,,1,1,1,,,1,1,1,
+"Sam, 45: Client",Client Emails,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5
+"Sam, 45: Client",Client Communications,,,,,1,,,,,1
+"Sam, 45: Client",Virtual Space,,,,,,,,,,
+"Sam, 45: Special Projects",Presentation for Exec,2,,,,,2,,,,
+"Sam, 45: Special Projects",Webinar,,,,,,,,,,
+"Sam, 45: Special Projects",Grad Scheme Organisation,,,,,,,,,,
+"Sam, 45: Special Projects",Team Social,,,1,,,,,1,,
+"Sam, 45: Special Projects",Social Committee ,,,,,1,,,,,1
+"Sam, 45: Special Projects",Mentoring,,,,,,,,,,
+"Sam, 45: Chats",Team Meetings,,1,1,1,,,1,1,1,
+"Sam, 45: Chats",Minutes,,1,1,1,,,1,1,1,
+"Sam, 45: Chats",Coffee Catch Ups,,,,1,1,,,,1,1
+"Sam, 45: Chats",Personal development,,,,,,,,,,
+"Sam, 45: Chats",Company Meetings,,,,,,,,,,
+,Overall Total for Sam,8.5,6.5,7.5,7.5,8.5,8.5,6.5,7.5,7.5,8.5

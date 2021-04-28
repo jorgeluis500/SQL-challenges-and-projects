@@ -38,7 +38,7 @@ INTO TEMPORARY TABLE temp_newseats -- creates new temp table
 FROM Unpivoted
 ;
 
---SELECT * FROM temp_newseats; -- Test
+SELECT * FROM temp_newseats; -- Test
 
 -- STEP 2
 -- Parse flight details, classify flight times and put it into a temp_new_flight_details temp table
