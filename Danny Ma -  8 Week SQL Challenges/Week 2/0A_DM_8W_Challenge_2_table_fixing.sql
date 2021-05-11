@@ -5,11 +5,13 @@
 -- SQL Flavor: PostgreSQL
 
 -- FIXING THE TABLES
+-- And bonus question 3
+-- Create 2 database views on top of the customer_orders and the runner_orders data tables to fix up all of the data issues
 
--- STEP 1. Customer orders table:
+-- STEP 1. Customer orders view:
 
-DROP TABLE IF EXISTS dm8_wk2_customer_orders_2;
-CREATE TABLE dm8_wk2_customer_orders_2 AS
+DROP VIEW IF EXISTS vw_dm8_wk2_customer_orders;
+CREATE VIEW vw_dm8_wk2_customer_orders AS
 	SELECT
 		order_id,
 		customer_id,
@@ -27,15 +29,15 @@ CREATE TABLE dm8_wk2_customer_orders_2 AS
 		order_time
 	FROM dm8_wk2_customer_orders
 ;
---SELECT * FROM dm8_wk2_customer_orders_2; -- Test
+--SELECT * FROM vw_dm8_wk2_customer_orders; -- Test
 
 -- STEP 2. Runners orders
 -- Getting the nulls right in the first
 -- Removing text from the distance and duration columns
--- Placing everything in a new table
+-- Placing everything in a new view
 
-DROP TABLE IF EXISTS dm8_wk2_runner_orders_2;
-CREATE TABLE dm8_wk2_runner_orders_2 AS
+DROP VIEW IF EXISTS vw_dm8_wk2_runner_orders;
+CREATE VIEW vw_dm8_wk2_runner_orders AS
 WITH nulls_right AS (
 	SELECT
 		order_id,
@@ -58,7 +60,7 @@ SELECT
 	cancellation
 FROM nulls_right
 ;
---SELECT * FROM dm8_wk2_runner_orders_2; -- Test
+--SELECT * FROM vw_dm8_wk2_runner_orders; -- Test
 
 
 

@@ -23,7 +23,7 @@
 
 SELECT 
 	COUNT(pizza_id) AS pizzas_ordered 
-FROM dm8_wk2_customer_orders_2 
+FROM vw_dm8_wk2_customer_orders 
 ;
 
 --|pizzas_ordered|
@@ -34,7 +34,7 @@ FROM dm8_wk2_customer_orders_2
 
 SELECT 
 	COUNT(DISTINCT order_id) as unique_orders
-FROM dm8_wk2_customer_orders_2 
+FROM vw_dm8_wk2_customer_orders 
 ;
 
 --|unique_orders|
@@ -46,7 +46,7 @@ FROM dm8_wk2_customer_orders_2
 SELECT 
 	runner_id,
 	COUNT(order_id) AS delivered_orders
-FROM dm8_wk2_runner_orders_2
+FROM vw_dm8_wk2_runner_orders
 WHERE cancellation IS NULL
 GROUP BY 
 	runner_id;
@@ -62,8 +62,8 @@ GROUP BY
 SELECT 
 	pn.pizza_name,
 	 COUNT(*) AS delivered_pizzas
-FROM dm8_wk2_customer_orders_2 AS co
-	INNER JOIN dm8_wk2_runner_orders_2 AS ro
+FROM vw_dm8_wk2_customer_orders AS co
+	INNER JOIN vw_dm8_wk2_runner_orders AS ro
 		ON co.order_id = ro.order_id
 	INNER JOIN dm8_wk2_pizza_names AS pn
 		ON co.pizza_id = pn.pizza_id
@@ -83,7 +83,7 @@ SELECT
 	co.customer_id,
 	SUM(CASE WHEN pn.pizza_name = 'Vegetarian' THEN 1 ELSE 0 END) AS vegetarian,
 	SUM(CASE WHEN pn.pizza_name = 'Meatlovers' THEN 1 ELSE 0 END) AS meatlovers
-FROM dm8_wk2_customer_orders_2 AS co
+FROM vw_dm8_wk2_customer_orders AS co
 	INNER JOIN dm8_wk2_pizza_names AS pn
 		ON co.pizza_id = pn.pizza_id
 GROUP BY 
@@ -107,8 +107,8 @@ WITH ranked_orders AS (
 		co.order_id,
 		COUNT(*) AS delivered_pizzas,
 		DENSE_RANK() OVER (ORDER BY COUNT(*) DESC) AS ranked
-	FROM dm8_wk2_customer_orders_2 AS co
-		INNER JOIN dm8_wk2_runner_orders_2 AS ro
+	FROM vw_dm8_wk2_customer_orders AS co
+		INNER JOIN vw_dm8_wk2_runner_orders AS ro
 			ON co.order_id = ro.order_id
 	WHERE 
 		ro.cancellation IS NULL -- this leaves delivered only
@@ -134,8 +134,8 @@ SELECT
 	co.customer_id,
 	SUM(CASE WHEN co.exclusions IS NULL AND extras is NULL THEN 0 ELSE 1 END) AS at_least_1_change,
 	SUM(CASE WHEN co.exclusions IS NULL AND extras is NULL THEN 1 ELSE 0 END) AS no_changes
-FROM dm8_wk2_customer_orders_2 AS co
-	INNER JOIN dm8_wk2_runner_orders_2 AS ro
+FROM vw_dm8_wk2_customer_orders AS co
+	INNER JOIN vw_dm8_wk2_runner_orders AS ro
 		ON co.order_id = ro.order_id
 WHERE 
 	ro.cancellation IS NULL -- this leaves delivered only
@@ -155,8 +155,8 @@ GROUP BY
 
 SELECT
 	SUM(CASE WHEN co.exclusions IS NULL OR extras IS NULL THEN 0 ELSE 1 END) AS excl_and_extras
-FROM dm8_wk2_customer_orders_2 AS co
-	INNER JOIN dm8_wk2_runner_orders_2 AS ro
+FROM vw_dm8_wk2_customer_orders AS co
+	INNER JOIN vw_dm8_wk2_runner_orders AS ro
 		ON co.order_id = ro.order_id
 WHERE 
 	ro.cancellation IS NULL -- this leaves delivered only
@@ -172,7 +172,7 @@ WHERE
 SELECT
 	CAST( EXTRACT (hour from order_time) AS INT) AS hour_of_day,
 	COUNT(pizza_id) AS number_of_pizzas
-FROM dm8_wk2_customer_orders_2
+FROM vw_dm8_wk2_customer_orders
 GROUP BY 
 	hour_of_day
 ORDER BY 
@@ -194,7 +194,7 @@ ORDER BY
 SELECT
 	to_char(order_time, 'Day') AS weekday,
 	COUNT(distinct order_id) AS number_of_orders
-FROM dm8_wk2_customer_orders_2
+FROM vw_dm8_wk2_customer_orders
 GROUP BY 
 	EXTRACT( dow FROM order_time), 
 	weekday
