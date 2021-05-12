@@ -119,16 +119,27 @@ ORDER BY
 
 --4. What was the average distance travelled for each customer?
 
---SELECT DISTINCT
---	co.customer_id,
---	ro.distance
---FROM vw_dm8_wk2_customer_orders AS co
---INNER JOIN vw_dm8_wk2_runner_orders AS ro
---	ON co.order_id = ro.order_id
---WHERE ro.cancellation IS NULL
---;
+SELECT 
+	co.customer_id,
+	ROUND(AVG(ro.distance_km),1) AS avg_distance_km
+FROM vw_dm8_wk2_customer_orders AS co
+INNER JOIN vw_dm8_wk2_runner_orders AS ro
+	ON co.order_id = ro.order_id
+WHERE ro.cancellation IS NULL
+GROUP BY co.customer_id
+ORDER BY co.customer_id
+;
 
--- There must be an error, and the question probably is: What was the average distance travelled for each RUNNER?
+--|customer_id|avg_distance_km|
+--|-----------|---------------|
+--|101        |20.0           |
+--|102        |16.7           |
+--|103        |23.4           |
+--|104        |10.0           |
+--|105        |25.0           |
+
+
+--What was the average distance travelled for each RUNNER?
 
 SELECT 
 	runner_id,
