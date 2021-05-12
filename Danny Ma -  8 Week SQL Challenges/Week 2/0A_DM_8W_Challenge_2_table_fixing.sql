@@ -12,7 +12,7 @@
 
 DROP VIEW IF EXISTS vw_dm8_wk2_customer_orders;
 CREATE VIEW vw_dm8_wk2_customer_orders AS
-	SELECT
+	SELECT DISTINCT -- Eliminates duplicated line for order_id number 4
 		order_id,
 		customer_id,
 		pizza_id,
@@ -28,6 +28,10 @@ CREATE VIEW vw_dm8_wk2_customer_orders AS
 			ELSE extras END AS extras,
 		order_time
 	FROM dm8_wk2_customer_orders
+	ORDER BY 
+		order_id,
+		customer_id,
+		pizza_id
 ;
 --SELECT * FROM vw_dm8_wk2_customer_orders; -- Test
 

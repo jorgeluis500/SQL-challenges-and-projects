@@ -113,7 +113,7 @@ ORDER BY
 --|8       |1               |20.5           |
 --|3       |2               |21.2           |
 --|10      |2               |15.5           |
---|4       |3               |29.3           |
+--|4       |2               |29.3           |
 
 -- Yes, there is a correlation between the number of pizzas in an order and the time to prepare (pickup_time)
 

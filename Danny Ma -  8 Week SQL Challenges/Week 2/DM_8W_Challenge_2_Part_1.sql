@@ -28,7 +28,7 @@ FROM vw_dm8_wk2_customer_orders
 
 --|pizzas_ordered|
 --|--------------|
---|14            |
+--|13            |
 
 --2. How many unique customer orders were made?
 
@@ -74,7 +74,7 @@ GROUP BY
 
 --|pizza_name|delivered_pizzas|
 --|----------|----------------|
---|Meatlovers|9               |
+--|Meatlovers|8               |
 --|Vegetarian|3               |
 
 --5. How many Vegetarian and Meatlovers were ordered by each customer?
@@ -96,7 +96,7 @@ ORDER BY
 --|-----------|----------|----------|
 --|101        |1         |2         |
 --|102        |1         |2         |
---|103        |1         |3         |
+--|103        |1         |2         |
 --|104        |0         |3         |
 --|105        |1         |0         |
 
@@ -126,7 +126,9 @@ WHERE ranked = 1
 
 --|order_id|delivered_pizzas|
 --|--------|----------------|
---|4       |3               |
+--|4       |2               |
+--|3       |2               |
+--|10      |2               |
 
 --7. For each customer, how many delivered pizzas had at least 1 change and how many had no changes?
 
@@ -147,7 +149,7 @@ GROUP BY
 --|-----------|-----------------|----------|
 --|101        |0                |2         |
 --|102        |0                |3         |
---|103        |3                |0         |
+--|103        |2                |0         |
 --|104        |2                |1         |
 --|105        |1                |0         |
 
@@ -183,7 +185,7 @@ ORDER BY
 --|-----------|----------------|
 --|11         |1               |
 --|12         |2               |
---|13         |3               |
+--|13         |2               |
 --|18         |3               |
 --|19         |1               |
 --|21         |3               |
