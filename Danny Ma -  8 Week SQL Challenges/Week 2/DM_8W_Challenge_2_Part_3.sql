@@ -40,7 +40,7 @@ FROM toppings_in_col AS tc
 INNER JOIN dm8_wk2_pizza_toppings AS pt
 	ON tc.topping_id = pt.topping_id
 ;
-SELECT * FROM temp_toppings; -- Test
+--SELECT * FROM temp_toppings; -- Test
 
 -- Then we use this table to bring the toppings names
 -- We store this information in a temp tamble since it will be useful for question 5
@@ -55,7 +55,7 @@ FROM temp_toppings AS t
 INNER JOIN dm8_wk2_pizza_names AS pn
 	ON t.pizza_id = pn.pizza_id
 ORDER BY 
-		pn.pizza_id
+	pn.pizza_id
 ;
 SELECT * FROM temp_pizza_w_ing
 ;
@@ -219,7 +219,7 @@ FROM temp_unpivoted_orders AS uo
 LEFT JOIN dm8_wk2_pizza_names AS pn
 	ON uo.pizza_id = pn.pizza_id
 ;
-SELECT * FROM temp_pizzas_names_ee; -- Test
+--SELECT * FROM temp_pizzas_names_ee; -- Test
 
 -- Step 3. 
 -- Bring exclusion and extras topping names to the pizza name table
@@ -239,7 +239,7 @@ LEFT JOIN dm8_wk2_pizza_toppings AS pt1
 LEFT JOIN dm8_wk2_pizza_toppings AS pt2
 	ON n.extras_col = pt2.topping_id
 ;
-SELECT * FROM temp_pizzas_names_ee2; -- Test
+--SELECT * FROM temp_pizzas_names_ee2; -- Test
 
 -- Step 4
 -- Aggregate the exclusions and extras using the string_agg function and GROUP BY at the bottom
@@ -338,7 +338,7 @@ SELECT
 	exclusions
 FROM temp_pizzas_names_ee2
 WHERE 
-	exclusions IS NOT NULL;
+	exclusions IS NOT NULL
 ORDER BY 
 	order_id,
 	pizza_id
@@ -397,7 +397,7 @@ WITH ing_count AS(
 		order_id,
 		pizza_id,
 		pizza_name,
-		COUNT(*) DESC
+		topping_name
 )
 
 , parsing AS (
@@ -441,19 +441,18 @@ FROM grouping_all
  
 --|order_id|pizza_list                                                                          |
 --|--------|------------------------------------------------------------------------------------|
---|1       |Meatlovers: BBQ Sauce, Beef, Pepperoni, Chicken, Bacon, Mushrooms, Cheese, Salami   |
---|2       |Meatlovers: Salami, Mushrooms, BBQ Sauce, Beef, Cheese, Pepperoni, Bacon, Chicken   |
---|3       |Meatlovers: BBQ Sauce, Mushrooms, Cheese, Pepperoni, Salami, Chicken, Beef, Bacon   |
---|3       |Vegetarian: Onions, Cheese, Tomato Sauce, Tomatoes, Peppers, Mushrooms              |
---|4       |Meatlovers: Pepperoni, Salami, Chicken, BBQ Sauce, Beef, Bacon, Mushrooms           |
---|4       |Vegetarian: Mushrooms, Onions, Tomato Sauce, Tomatoes, Peppers                      |
---|5       |Meatlovers:  2xBacon, Beef, Mushrooms, BBQ Sauce, Salami, Chicken, Pepperoni, Cheese|
---|6       |Vegetarian: Tomato Sauce, Peppers, Tomatoes, Onions, Cheese, Mushrooms              |
---|7       |Vegetarian: Tomatoes, Mushrooms, Peppers, Cheese, Tomato Sauce, Bacon, Onions       |
---|8       |Meatlovers: Beef, Pepperoni, Bacon, Chicken, Mushrooms, Salami, BBQ Sauce, Cheese   |
---|9       |Meatlovers:  2xBacon,  2xChicken, Salami, BBQ Sauce, Pepperoni, Mushrooms, Beef     |
---|10      |Meatlovers:  2xBacon,  2xCheese, Salami, Chicken, Pepperoni, Beef                   |
-
+--|1       |Meatlovers: Bacon, BBQ Sauce, Beef, Cheese, Chicken, Mushrooms, Pepperoni, Salami   |
+--|2       |Meatlovers: Bacon, BBQ Sauce, Beef, Cheese, Chicken, Mushrooms, Pepperoni, Salami   |
+--|3       |Meatlovers: Bacon, BBQ Sauce, Beef, Cheese, Chicken, Mushrooms, Pepperoni, Salami   |
+--|3       |Vegetarian: Cheese, Mushrooms, Onions, Peppers, Tomato Sauce, Tomatoes              |
+--|4       |Meatlovers: Bacon, BBQ Sauce, Beef, Chicken, Mushrooms, Pepperoni, Salami           |
+--|4       |Vegetarian: Mushrooms, Onions, Peppers, Tomato Sauce, Tomatoes                      |
+--|5       |Meatlovers:  2xBacon, BBQ Sauce, Beef, Cheese, Chicken, Mushrooms, Pepperoni, Salami|
+--|6       |Vegetarian: Cheese, Mushrooms, Onions, Peppers, Tomato Sauce, Tomatoes              |
+--|7       |Vegetarian: Bacon, Cheese, Mushrooms, Onions, Peppers, Tomato Sauce, Tomatoes       |
+--|8       |Meatlovers: Bacon, BBQ Sauce, Beef, Cheese, Chicken, Mushrooms, Pepperoni, Salami   |
+--|9       |Meatlovers:  2xBacon, BBQ Sauce, Beef,  2xChicken, Mushrooms, Pepperoni, Salami     |
+--|10      |Meatlovers:  2xBacon, Beef,  2xCheese, Chicken, Pepperoni, Salami                   |
 
 --7. What is the total quantity of each ingredient used in all delivered pizzas sorted by most frequent first?
 
