@@ -369,11 +369,11 @@ ORDER BY
 
 DROP TABLE IF EXISTS all_pizzas;
 CREATE TEMPORARY TABLE all_pizzas AS
-SELECT * FROM p_std
+SELECT * FROM p_std 	-- Standard pizzas
 EXCEPT
-SELECT * FROM p_exc
+SELECT * FROM p_exc		-- Minus the Exclusions
 UNION ALL
-SELECT * FROM p_ext
+SELECT * FROM p_ext		-- Plus the Extras
 ;
 --SELECT * FROM all_pizzas;
 
