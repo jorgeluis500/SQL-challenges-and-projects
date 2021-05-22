@@ -65,7 +65,7 @@ select distinct
 	ri.customer_id,
 	ri.order_date,
 --	ri.product_id, -- for test purposes
---	ri.rirst_items_by_cust, -- for test purposes
+--	ri.items_rank, -- for test purposes
 	m.product_name
 from ranked_items ri
 	inner join dm8_wk1_menu m

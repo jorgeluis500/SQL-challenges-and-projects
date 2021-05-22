@@ -2,7 +2,7 @@
 -- 2021 Week 19
 -- https://preppindata.blogspot.com/2021/05/2021-week-19-prep-air-project-details.html
 
--- SQL flavor: MySQL
+-- SQL flavor: PostgreSQL
 
 -- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
 -- Regular Expression, Regex
