@@ -73,11 +73,8 @@ SELECT
 FROM
 	t_cl
 WHERE
-	CASE
-		WHEN complaints > upper_control_limit_1sd
-		OR complaints < lower_control_limit_1sd THEN 'Outlier'
-		ELSE NULL
-	END IS NOT NULL
+	complaints > upper_control_limit_1sd
+	OR complaints < lower_control_limit_1sd
 ;
 
 -- B. For 2 std dev:
@@ -99,11 +96,9 @@ SELECT
 FROM
 	t_cl
 WHERE
-	CASE
-		WHEN complaints > upper_control_limit_2sd
-		OR complaints < lower_control_limit_2sd THEN 'Outlier'
-		ELSE NULL
-	END IS NOT NULL
+	complaints > upper_control_limit_2sd
+	OR complaints < lower_control_limit_2sd
+
 ;
 
 -- B. For 3 std dev:
@@ -125,9 +120,7 @@ SELECT
 FROM
 	t_cl
 WHERE
-	CASE
-		WHEN complaints > upper_control_limit_3sd
-		OR complaints < lower_control_limit_3sd THEN 'Outlier'
-		ELSE NULL
-	END IS NOT NULL
+	complaints > upper_control_limit_3sd
+	OR complaints < lower_control_limit_3sd
+
 ;
