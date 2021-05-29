@@ -12,7 +12,7 @@
 -- STEP 1 
 -- Calculate Mean and Standard Deviation (To match the official result, the std dev of the sample must be used)
 
-DROP TEMPORARY TABLE IF EXISTS t_mean_std;
+DROP TABLE IF EXISTS t_mean_std;
 CREATE TEMPORARY TABLE t_mean_std
 SELECT
 	c_date,
@@ -31,7 +31,7 @@ FROM
 
 -- Calculate control limits
 
-DROP TEMPORARY TABLE IF EXISTS t_cl; -- Control Limits
+DROP TABLE IF EXISTS t_cl; -- Control Limits
 CREATE TEMPORARY TABLE t_cl
 SELECT
 	c_date,

@@ -51,7 +51,7 @@ INNER JOIN pd2019w25_home_locations hl
 	ON g.Artist = hl.Artist
 WHERE rank_for_dup = 1 -- Remove the duplicates
 
---SELECT * FROM #Step_1 -- Test
+-- SELECT * FROM #Step_1 -- Test
 ;
 
 -- STEP 2
