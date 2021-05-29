@@ -7,6 +7,7 @@
 -- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
 -- Create date with MAKE_DATE
 -- Split string with SPLIT_PART
+-- Window functions
 
 --STEP 1
 -- Create dates for each dataset
