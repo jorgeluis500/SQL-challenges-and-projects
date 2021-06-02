@@ -1,0 +1,13 @@
+﻿Property Number,Town,Postal Code,Country,Customer,Product,Sales
+1,Zenville,ZN1 10ZN,UK,Andy,Exfoliation Glove,10
+21,Dash Town,DS13 1TW,UK,Dan,Sponge,5
+8,Cloud,CL1 19UD,UK,Ravi,Sponge,5
+290,Con City,CC1 23CW,UK,Robin,Exfoliation Glove,10
+16,Data Town,DS16 7DB,UK,Sylvie,Sponge,5
+16,Data Town,DS16 7DB,UK,Sylvie,Exfoliation Glove,10
+1,Zenville,ZN1 10ZN,UK,Andy,Soap Bar,140
+21,Dash Town,DS13 1TW,UK,Dan,Liquid Soap,20
+8,Cloud,CL1 19UD,UK,Ravi,Soap Bar,100
+290,Con City,CC1 23CW,UK,Robin,Liquid Soap,90
+16,Data Town,DS16 7DB,UK,Sylvie,Liquid Soap,200
+16,Data Town,DS16 7DB,UK,Sylvie,Soap Bar,300
