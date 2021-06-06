@@ -127,6 +127,11 @@ from ranked
 where most_pop = 1
 ;
 
+** Alternate Solution **
+select customer_id, product_name, COUNT from
+(select *, RANK() over (partition by customer_id order by COUNT desc) as RANK from (select customer_id, product_name, count(product_name) as count from dm8_wk1_sales as a JOIN dm8_wk1_menu as b ON a.product_id = b.product_id GROUP BY customer_id, product_name))
+where RANK =1;
+
 --|customer_id|product_name|times_purchased|
 --|-----------|------------|---------------|
 --|A          |ramen       |3              |
