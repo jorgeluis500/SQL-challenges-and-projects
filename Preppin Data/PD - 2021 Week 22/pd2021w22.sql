@@ -1,5 +1,5 @@
 -- Preppin Data
--- 2021 Week 21
+-- 2021 Week 22
 -- https://preppindata.blogspot.com/2021/06/2021-week-22-answer-smash.html
 
 -- SQL flavor: PostgreSQL
