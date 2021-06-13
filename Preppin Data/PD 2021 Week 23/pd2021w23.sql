@@ -56,7 +56,7 @@ WHERE
 
 DROP TABLE IF EXISTS t_nps;
 CREATE TEMPORARY TABLE t_nps AS 
-	WITH t_percetnages AS (
+	WITH t_percentages AS (
 		SELECT
 			"Airline",
 			COUNT(*) AS number_of_responses,
