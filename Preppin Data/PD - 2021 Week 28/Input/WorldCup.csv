@@ -1,0 +1,147 @@
+Game_number,Penalty_Number_,Event_Year,Winner,Full_Time_Score,Loser,Winning_Team_GK,Winning_team_Taker,Losing_team_Taker,Losing_Team_GK,Round,Game_Date
+1,1,"1982,", West Germany,3–3, France,Schumacher,Kaltz Penalty scored,Penalty scored Giresse,Ettori,Semi-finals,8-Jul
+1,2,"1982,", West Germany,3–3, France,Schumacher,Breitner Penalty scored,Penalty scored Amoros,Ettori,Semi-finals,8-Jul
+1,3,"1982,", West Germany,3–3, France,Schumacher,Stielike Penalty missed,Penalty scored Rocheteau,Ettori,Semi-finals,8-Jul
+1,4,"1982,", West Germany,3–3, France,Schumacher,Littbarski Penalty scored,Penalty missed Six,Ettori,Semi-finals,8-Jul
+1,5,"1982,", West Germany,3–3, France,Schumacher,Rummenigge Penalty scored,Penalty scored Platini,Ettori,Semi-finals,8-Jul
+1,6,"1982,", West Germany,3–3, France,Schumacher,Hrubesch Penalty scored,Penalty missed Bossis,Ettori,Semi-finals,8-Jul
+2,1,"1986,", France,1–1, Brazil,Bats,Stopyra Penalty scored,Penalty missed Sócrates,Carlos,Quarter-finals,21-Jun
+2,2,"1986,", France,1–1, Brazil,Bats,Amoros Penalty scored,Penalty scored Alemão,Carlos,Quarter-finals,21-Jun
+2,3,"1986,", France,1–1, Brazil,Bats,Bellone Penalty scored,Penalty scored Zico,Carlos,Quarter-finals,21-Jun
+2,4,"1986,", France,1–1, Brazil,Bats,Platini Penalty missed,Penalty scored Branco,Carlos,Quarter-finals,21-Jun
+2,5,"1986,", France,1–1, Brazil,Bats,Fernández Penalty scored,Penalty missed Júlio César,Carlos,Quarter-finals,21-Jun
+3,1,"1986,", West Germany,0–0, Mexico,Schumacher,Allofs Penalty scored,Penalty scored Negrete,Larios,Quarter-finals,21-Jun
+3,2,"1986,", West Germany,0–0, Mexico,Schumacher,Brehme Penalty scored,Penalty missed Quirarte,Larios,Quarter-finals,21-Jun
+3,3,"1986,", West Germany,0–0, Mexico,Schumacher,Matthäus Penalty scored,Penalty missed Servín,Larios,Quarter-finals,21-Jun
+3,4,"1986,", West Germany,0–0, Mexico,Schumacher,Littbarski Penalty scored,,Larios,Quarter-finals,21-Jun
+4,1,"1986,", Belgium,1–1, Spain,Pfaff,Claesen Penalty scored,Penalty scored Señor,Zubizarreta,Quarter-finals,22-Jun
+4,2,"1986,", Belgium,1–1, Spain,Pfaff,Scifo Penalty scored,Penalty missed Eloy,Zubizarreta,Quarter-finals,22-Jun
+4,3,"1986,", Belgium,1–1, Spain,Pfaff,Broos Penalty scored,Penalty scored Chendo,Zubizarreta,Quarter-finals,22-Jun
+4,4,"1986,", Belgium,1–1, Spain,Pfaff,Vervoort Penalty scored,Penalty scored Butragueño,Zubizarreta,Quarter-finals,22-Jun
+4,5,"1986,", Belgium,1–1, Spain,Pfaff,L. Van der Elst Penalty scored,Penalty scored Víctor,Zubizarreta,Quarter-finals,22-Jun
+5,1,"1990,", Republic of Ireland,0–0, Romania,Bonner,Sheedy Penalty scored,Penalty scored Hagi,Lung,Second round,25-Jun
+5,2,"1990,", Republic of Ireland,0–0, Romania,Bonner,Houghton Penalty scored,Penalty scored Lupu,Lung,Second round,25-Jun
+5,3,"1990,", Republic of Ireland,0–0, Romania,Bonner,Townsend Penalty scored,Penalty scored Rotariu,Lung,Second round,25-Jun
+5,4,"1990,", Republic of Ireland,0–0, Romania,Bonner,Cascarino Penalty scored,Penalty scored Lupescu,Lung,Second round,25-Jun
+5,5,"1990,", Republic of Ireland,0–0, Romania,Bonner,O'Leary Penalty scored,Penalty missed Timofte,Lung,Second round,25-Jun
+6,1,"1990,", Argentina,0–0, Yugoslavia,Goycochea,Serrizuela Penalty scored,Penalty missed Stojkovi?,Ivkovi?,Quarter-finals,30-Jun
+6,2,"1990,", Argentina,0–0, Yugoslavia,Goycochea,Burruchaga Penalty scored,Penalty scored Prosine?ki,Ivkovi?,Quarter-finals,30-Jun
+6,3,"1990,", Argentina,0–0, Yugoslavia,Goycochea,Maradona Penalty missed,Penalty scored Savi?evi?,Ivkovi?,Quarter-finals,30-Jun
+6,4,"1990,", Argentina,0–0, Yugoslavia,Goycochea,Troglio Penalty missed,Penalty missed Brnovi?,Ivkovi?,Quarter-finals,30-Jun
+6,5,"1990,", Argentina,0–0, Yugoslavia,Goycochea,Dezotti Penalty scored,Penalty missed Hadžibegi?,Ivkovi?,Quarter-finals,30-Jun
+7,1,"1990,", Argentina,1–1, Italy,Goycochea,Serrizuela Penalty scored,Penalty scored Baresi,Zenga,Semi-finals,3-Jul
+7,2,"1990,", Argentina,1–1, Italy,Goycochea,Burruchaga Penalty scored,Penalty scored R. Baggio,Zenga,Semi-finals,3-Jul
+7,3,"1990,", Argentina,1–1, Italy,Goycochea,Olarticoechea Penalty scored,Penalty scored De Agostini,Zenga,Semi-finals,3-Jul
+7,4,"1990,", Argentina,1–1, Italy,Goycochea,Maradona Penalty scored,Penalty missed Donadoni,Zenga,Semi-finals,3-Jul
+7,5,"1990,", Argentina,1–1, Italy,Goycochea,,Penalty missed Serena,Zenga,Semi-finals,3-Jul
+8,1,"1990,", West Germany,1–1, England,Illgner,Brehme Penalty scored,Penalty scored Lineker,Shilton,Semi-finals,4-Jul
+8,2,"1990,", West Germany,1–1, England,Illgner,Matthäus Penalty scored,Penalty scored Beardsley,Shilton,Semi-finals,4-Jul
+8,3,"1990,", West Germany,1–1, England,Illgner,Riedle Penalty scored,Penalty scored Platt,Shilton,Semi-finals,4-Jul
+8,4,"1990,", West Germany,1–1, England,Illgner,Thon Penalty scored,Penalty missed Pearce,Shilton,Semi-finals,4-Jul
+8,5,"1990,", West Germany,1–1, England,Illgner,,Penalty missed Waddle,Shilton,Semi-finals,4-Jul
+9,1,"1994,", Bulgaria,1–1, Mexico,Mihaylov,Balakov Penalty missed,Penalty missed García Aspe,Campos,Second round,5-Jul
+9,2,"1994,", Bulgaria,1–1, Mexico,Mihaylov,Genchev Penalty scored,Penalty missed Bernal,Campos,Second round,5-Jul
+9,3,"1994,", Bulgaria,1–1, Mexico,Mihaylov,Borimirov Penalty scored,Penalty missed Rodríguez,Campos,Second round,5-Jul
+9,4,"1994,", Bulgaria,1–1, Mexico,Mihaylov,Lechkov Penalty scored,Penalty scored Suárez,Campos,Second round,5-Jul
+10,1,"1994,", Sweden,2–2, Romania,Ravelli,Mild Penalty missed,Penalty scored R?ducioiu,Prunea,Quarter-finals,10-Jul
+10,2,"1994,", Sweden,2–2, Romania,Ravelli,K. Andersson Penalty scored,Penalty scored Hagi,Prunea,Quarter-finals,10-Jul
+10,3,"1994,", Sweden,2–2, Romania,Ravelli,Brolin Penalty scored,Penalty scored Lupescu,Prunea,Quarter-finals,10-Jul
+10,4,"1994,", Sweden,2–2, Romania,Ravelli,Ingesson Penalty scored,Penalty missed Petrescu,Prunea,Quarter-finals,10-Jul
+10,5,"1994,", Sweden,2–2, Romania,Ravelli,R. Nilsson Penalty scored,Penalty scored Dumitrescu,Prunea,Quarter-finals,10-Jul
+10,6,"1994,", Sweden,2–2, Romania,Ravelli,Larsson Penalty scored,Penalty missed Belodedici,Prunea,Quarter-finals,10-Jul
+11,1,"1994,", Brazil,0–0, Italy,Taffarel,Santos Penalty missed,Penalty missed Baresi,Pagliuca,Final,17-Jul
+11,2,"1994,", Brazil,0–0, Italy,Taffarel,Romário Penalty scored,Penalty scored Albertini,Pagliuca,Final,17-Jul
+11,3,"1994,", Brazil,0–0, Italy,Taffarel,Branco Penalty scored,Penalty scored Evani,Pagliuca,Final,17-Jul
+11,4,"1994,", Brazil,0–0, Italy,Taffarel,Dunga Penalty scored,Penalty missed Massaro,Pagliuca,Final,17-Jul
+11,5,"1994,", Brazil,0–0, Italy,Taffarel,,Penalty missed R. Baggio,Pagliuca,Final,17-Jul
+12,1,"1998,", Argentina,2–2, England,Roa,Berti Penalty scored,Penalty scored Shearer,Seaman,Second round,30-Jun
+12,2,"1998,", Argentina,2–2, England,Roa,Crespo Penalty missed,Penalty missed Ince,Seaman,Second round,30-Jun
+12,3,"1998,", Argentina,2–2, England,Roa,Verón Penalty scored,Penalty scored Merson,Seaman,Second round,30-Jun
+12,4,"1998,", Argentina,2–2, England,Roa,Gallardo Penalty scored,Penalty scored Owen,Seaman,Second round,30-Jun
+12,5,"1998,", Argentina,2–2, England,Roa,Ayala Penalty scored,Penalty missed Batty,Seaman,Second round,30-Jun
+13,1,"1998,", France,0–0, Italy,Barthez,Zidane Penalty scored,Penalty scored R. Baggio,Pagliuca,Quarter-finals,3-Jul
+13,2,"1998,", France,0–0, Italy,Barthez,Lizarazu Penalty missed,Penalty missed Albertini,Pagliuca,Quarter-finals,3-Jul
+13,3,"1998,", France,0–0, Italy,Barthez,Trezeguet Penalty scored,Penalty scored Costacurta,Pagliuca,Quarter-finals,3-Jul
+13,4,"1998,", France,0–0, Italy,Barthez,Henry Penalty scored,Penalty scored Vieri,Pagliuca,Quarter-finals,3-Jul
+13,5,"1998,", France,0–0, Italy,Barthez,Blanc Penalty scored,Penalty missed Di Biagio,Pagliuca,Quarter-finals,3-Jul
+14,1,"1998,", Brazil,1–1, Netherlands,Taffarel,Ronaldo Penalty scored,Penalty scored F. de Boer,Van der Sar,Semi-finals,7-Jul
+14,2,"1998,", Brazil,1–1, Netherlands,Taffarel,Rivaldo Penalty scored,Penalty scored Bergkamp,Van der Sar,Semi-finals,7-Jul
+14,3,"1998,", Brazil,1–1, Netherlands,Taffarel,Emerson Penalty scored,Penalty missed Cocu,Van der Sar,Semi-finals,7-Jul
+14,4,"1998,", Brazil,1–1, Netherlands,Taffarel,Dunga Penalty scored,Penalty missed R. de Boer,Van der Sar,Semi-finals,7-Jul
+15,1,"2002,", Spain,1–1, Republic of Ireland,Casillas,Hierro Penalty scored,Penalty scored Robbie Keane,Given,Second round,16-Jun
+15,2,"2002,", Spain,1–1, Republic of Ireland,Casillas,Baraja Penalty scored,Penalty missed Holland,Given,Second round,16-Jun
+15,3,"2002,", Spain,1–1, Republic of Ireland,Casillas,Juanfran Penalty missed,Penalty missed Connolly,Given,Second round,16-Jun
+15,4,"2002,", Spain,1–1, Republic of Ireland,Casillas,Valerón Penalty missed,Penalty missed Kilbane,Given,Second round,16-Jun
+15,5,"2002,", Spain,1–1, Republic of Ireland,Casillas,Mendieta Penalty scored,Penalty scored Finnan,Given,Second round,16-Jun
+16,1,"2002,", South Korea,0–0, Spain,Lee Woon-jae,Hwang Sun-hong Penalty scored,Penalty scored Hierro,Casillas,Quarter-finals,22-Jun
+16,2,"2002,", South Korea,0–0, Spain,Lee Woon-jae,Park Ji-sung Penalty scored,Penalty scored Baraja,Casillas,Quarter-finals,22-Jun
+16,3,"2002,", South Korea,0–0, Spain,Lee Woon-jae,Seol Ki-hyeon Penalty scored,Penalty scored Xavi,Casillas,Quarter-finals,22-Jun
+16,4,"2002,", South Korea,0–0, Spain,Lee Woon-jae,Ahn Jung-hwan Penalty scored,Penalty missed Joaquín,Casillas,Quarter-finals,22-Jun
+16,5,"2002,", South Korea,0–0, Spain,Lee Woon-jae,Hong Myung-bo Penalty scored,,Casillas,Quarter-finals,22-Jun
+17,1,"2006,", Ukraine,0–0,  Switzerland,Shovkovskyi,Shevchenko Penalty missed,Penalty missed Streller,Zuberbühler,Second round,26-Jun
+17,2,"2006,", Ukraine,0–0,  Switzerland,Shovkovskyi,Milevskyi Penalty scored,Penalty missed Barnetta,Zuberbühler,Second round,26-Jun
+17,3,"2006,", Ukraine,0–0,  Switzerland,Shovkovskyi,Rebrov Penalty scored,Penalty missed Cabanas,Zuberbühler,Second round,26-Jun
+17,4,"2006,", Ukraine,0–0,  Switzerland,Shovkovskyi,Husyev Penalty scored,,Zuberbühler,Second round,26-Jun
+18,1,"2006,", Germany,1–1, Argentina,Lehmann,Neuville Penalty scored,Penalty scored Cruz,Franco,Quarter-finals,30-Jun
+18,2,"2006,", Germany,1–1, Argentina,Lehmann,Ballack Penalty scored,Penalty missed Ayala,Franco,Quarter-finals,30-Jun
+18,3,"2006,", Germany,1–1, Argentina,Lehmann,Podolski Penalty scored,Penalty scored Rodríguez,Franco,Quarter-finals,30-Jun
+18,4,"2006,", Germany,1–1, Argentina,Lehmann,Borowski Penalty scored,Penalty missed Cambiasso,Franco,Quarter-finals,30-Jun
+19,1,"2006,", Portugal,0–0, England,Ricardo,Simão Penalty scored,Penalty missed Lampard,Robinson,Quarter-finals,1-Jul
+19,2,"2006,", Portugal,0–0, England,Ricardo,Viana Penalty missed,Penalty scored Hargreaves,Robinson,Quarter-finals,1-Jul
+19,3,"2006,", Portugal,0–0, England,Ricardo,Petit Penalty missed,Penalty missed Gerrard,Robinson,Quarter-finals,1-Jul
+19,4,"2006,", Portugal,0–0, England,Ricardo,Postiga Penalty scored,Penalty missed Carragher,Robinson,Quarter-finals,1-Jul
+19,5,"2006,", Portugal,0–0, England,Ricardo,Ronaldo Penalty scored,,Robinson,Quarter-finals,1-Jul
+20,1,"2006,", Italy,1–1, France,Buffon,Pirlo Penalty scored,Penalty scored Wiltord,Barthez,Final,9-Jul
+20,2,"2006,", Italy,1–1, France,Buffon,Materazzi Penalty scored,Penalty missed Trezeguet,Barthez,Final,9-Jul
+20,3,"2006,", Italy,1–1, France,Buffon,De Rossi Penalty scored,Penalty scored Abidal,Barthez,Final,9-Jul
+20,4,"2006,", Italy,1–1, France,Buffon,Del Piero Penalty scored,Penalty scored Sagnol,Barthez,Final,9-Jul
+20,5,"2006,", Italy,1–1, France,Buffon,Grosso Penalty scored,,Barthez,Final,9-Jul
+21,1,"2010,", Paraguay,0–0, Japan,Villar,Barreto Penalty scored,Penalty scored End?,Kawashima,Second round,29-Jun
+21,2,"2010,", Paraguay,0–0, Japan,Villar,Barrios Penalty scored,Penalty scored Hasebe,Kawashima,Second round,29-Jun
+21,3,"2010,", Paraguay,0–0, Japan,Villar,Riveros Penalty scored,Penalty missed Komano,Kawashima,Second round,29-Jun
+21,4,"2010,", Paraguay,0–0, Japan,Villar,Valdez Penalty scored,Penalty scored Honda,Kawashima,Second round,29-Jun
+21,5,"2010,", Paraguay,0–0, Japan,Villar,Cardozo Penalty scored,,Kawashima,Second round,29-Jun
+22,1,"2010,", Uruguay,1–1, Ghana,Muslera,Forlán Penalty scored,Penalty scored Gyan,Kingson,Quarter-finals,2-Jul
+22,2,"2010,", Uruguay,1–1, Ghana,Muslera,Victorino Penalty scored,Penalty scored Appiah,Kingson,Quarter-finals,2-Jul
+22,3,"2010,", Uruguay,1–1, Ghana,Muslera,Scotti Penalty scored,Penalty missed Mensah,Kingson,Quarter-finals,2-Jul
+22,4,"2010,", Uruguay,1–1, Ghana,Muslera,M. Pereira Penalty missed,Penalty missed Adiyiah,Kingson,Quarter-finals,2-Jul
+22,5,"2010,", Uruguay,1–1, Ghana,Muslera,Abreu Penalty scored,,Kingson,Quarter-finals,2-Jul
+23,1,"2014,", Brazil,1–1, Chile,Júlio César,David Luiz Penalty scored,Penalty missed Pinilla,Bravo,Second round,28-Jun
+23,2,"2014,", Brazil,1–1, Chile,Júlio César,Willian Penalty missed,Penalty missed Sánchez,Bravo,Second round,28-Jun
+23,3,"2014,", Brazil,1–1, Chile,Júlio César,Marcelo Penalty scored,Penalty scored Aránguiz,Bravo,Second round,28-Jun
+23,4,"2014,", Brazil,1–1, Chile,Júlio César,Hulk Penalty missed,Penalty scored Díaz,Bravo,Second round,28-Jun
+23,5,"2014,", Brazil,1–1, Chile,Júlio César,Neymar Penalty scored,Penalty missed Jara,Bravo,Second round,28-Jun
+24,1,"2014,", Costa Rica,1–1, Greece,Navas,Borges Penalty scored,Penalty scored Mitroglou,Karnezis,Second round,29-Jun
+24,2,"2014,", Costa Rica,1–1, Greece,Navas,Ruiz Penalty scored,Penalty scored Lazaros,Karnezis,Second round,29-Jun
+24,3,"2014,", Costa Rica,1–1, Greece,Navas,González Penalty scored,Penalty scored Holebas,Karnezis,Second round,29-Jun
+24,4,"2014,", Costa Rica,1–1, Greece,Navas,Campbell Penalty scored,Penalty missed Gekas,Karnezis,Second round,29-Jun
+24,5,"2014,", Costa Rica,1–1, Greece,Navas,Umaña Penalty scored,,Karnezis,Second round,29-Jun
+25,1,"2014,", Netherlands,0–0, Costa Rica,Krul,Van Persie Penalty scored,Penalty scored Borges,Navas,Quarter-finals,5-Jul
+25,2,"2014,", Netherlands,0–0, Costa Rica,Krul,Robben Penalty scored,Penalty missed Ruiz,Navas,Quarter-finals,5-Jul
+25,3,"2014,", Netherlands,0–0, Costa Rica,Krul,Sneijder Penalty scored,Penalty scored González,Navas,Quarter-finals,5-Jul
+25,4,"2014,", Netherlands,0–0, Costa Rica,Krul,Kuyt Penalty scored,Penalty scored Bolaños,Navas,Quarter-finals,5-Jul
+25,5,"2014,", Netherlands,0–0, Costa Rica,Krul,,Penalty missed Umaña,Navas,Quarter-finals,5-Jul
+26,1,"2014,", Argentina,0–0, Netherlands,Romero,Messi Penalty scored,Penalty missed Vlaar,Cillessen,Semi-finals,9-Jul
+26,2,"2014,", Argentina,0–0, Netherlands,Romero,Garay Penalty scored,Penalty scored Robben,Cillessen,Semi-finals,9-Jul
+26,3,"2014,", Argentina,0–0, Netherlands,Romero,Agüero Penalty scored,Penalty missed Sneijder,Cillessen,Semi-finals,9-Jul
+26,4,"2014,", Argentina,0–0, Netherlands,Romero,Rodríguez Penalty scored,Penalty scored Kuyt,Cillessen,Semi-finals,9-Jul
+27,1,"2018,", Russia,1–1, Spain,Akinfeev,Smolov Penalty scored,Penalty scored Iniesta,De Gea,Second round,1-Jul
+27,2,"2018,", Russia,1–1, Spain,Akinfeev,Ignashevich Penalty scored,Penalty scored Piqué,De Gea,Second round,1-Jul
+27,3,"2018,", Russia,1–1, Spain,Akinfeev,Golovin Penalty scored,Penalty missed Koke,De Gea,Second round,1-Jul
+27,4,"2018,", Russia,1–1, Spain,Akinfeev,Cheryshev Penalty scored,Penalty scored Ramos,De Gea,Second round,1-Jul
+27,5,"2018,", Russia,1–1, Spain,Akinfeev,,Penalty missed Aspas,De Gea,Second round,1-Jul
+28,1,"2018,", Croatia,1–1, Denmark,Subaši?,Badelj Penalty missed,Penalty missed Eriksen,Schmeichel,Second round,1-Jul
+28,2,"2018,", Croatia,1–1, Denmark,Subaši?,Kramari? Penalty scored,Penalty scored Kjær,Schmeichel,Second round,1-Jul
+28,3,"2018,", Croatia,1–1, Denmark,Subaši?,Modri? Penalty scored,Penalty scored Krohn-Dehli,Schmeichel,Second round,1-Jul
+28,4,"2018,", Croatia,1–1, Denmark,Subaši?,Pivari? Penalty missed,Penalty missed Schöne,Schmeichel,Second round,1-Jul
+28,5,"2018,", Croatia,1–1, Denmark,Subaši?,Rakiti? Penalty scored,Penalty missed N. Jørgensen,Schmeichel,Second round,1-Jul
+29,1,"2018,", England,1–1, Colombia,Pickford,Kane Penalty scored,Penalty scored Falcao,Ospina,Second round,3-Jul
+29,2,"2018,", England,1–1, Colombia,Pickford,Rashford Penalty scored,Penalty scored Ju. Cuadrado,Ospina,Second round,3-Jul
+29,3,"2018,", England,1–1, Colombia,Pickford,Henderson Penalty missed,Penalty scored Muriel,Ospina,Second round,3-Jul
+29,4,"2018,", England,1–1, Colombia,Pickford,Trippier Penalty scored,Penalty missed Uribe,Ospina,Second round,3-Jul
+29,5,"2018,", England,1–1, Colombia,Pickford,Dier Penalty scored,Penalty missed Bacca,Ospina,Second round,3-Jul
+30,1,"2018,", Croatia,2–2, Russia,Subaši?,Brozovi? Penalty scored,Penalty missed Smolov,Akinfeev,Quarter-finals,7-Jul
+30,2,"2018,", Croatia,2–2, Russia,Subaši?,Kova?i? Penalty missed,Penalty scored Dzagoev,Akinfeev,Quarter-finals,7-Jul
+30,3,"2018,", Croatia,2–2, Russia,Subaši?,Modri? Penalty scored,Penalty missed Fernandes,Akinfeev,Quarter-finals,7-Jul
+30,4,"2018,", Croatia,2–2, Russia,Subaši?,Vida Penalty scored,Penalty scored Ignashevich,Akinfeev,Quarter-finals,7-Jul
+30,5,"2018,", Croatia,2–2, Russia,Subaši?,Rakiti? Penalty scored,Penalty scored Kuzyayev,Akinfeev,Quarter-finals,7-Jul

@@ -1,0 +1,121 @@
+Game_number,Penalty_Number,Event_Year,Winner,Full_Time_Score,Loser,Winning_team_GK,Winning_team_Taker,Losing_team_Taker,Losing_team_GK,Round,Game_Date
+1,1,"1976,", Czechoslovakia,2–2, West Germany,Viktor,Masný Penalty scored,Penalty scored Bonhof,Maier,Final,20-Jun
+1,2,"1976,", Czechoslovakia,2–2, West Germany,Viktor,Nehoda Penalty scored,Penalty scored Flohe,Maier,Final,20-Jun
+1,3,"1976,", Czechoslovakia,2–2, West Germany,Viktor,Ondruš Penalty scored,Penalty scored Bongartz,Maier,Final,20-Jun
+1,4,"1976,", Czechoslovakia,2–2, West Germany,Viktor,Jurkemik Penalty scored,Penalty missed Hoeneß,Maier,Final,20-Jun
+1,5,"1976,", Czechoslovakia,2–2, West Germany,Viktor,Panenka Penalty scored,,Maier,Final,20-Jun
+2,1,"1980,", Czechoslovakia,1–1, Italy,Netoli?ka,Masný Penalty scored,Penalty scored Causio,Zoff,3rd place play-off,21-Jun
+2,2,"1980,", Czechoslovakia,1–1, Italy,Netoli?ka,Nehoda Penalty scored,Penalty scored Altobelli,Zoff,3rd place play-off,21-Jun
+2,3,"1980,", Czechoslovakia,1–1, Italy,Netoli?ka,Ondruš Penalty scored,Penalty scored G. Baresi,Zoff,3rd place play-off,21-Jun
+2,4,"1980,", Czechoslovakia,1–1, Italy,Netoli?ka,Jurkemik Penalty scored,Penalty scored Cabrini,Zoff,3rd place play-off,21-Jun
+2,5,"1980,", Czechoslovakia,1–1, Italy,Netoli?ka,Panenka Penalty scored,Penalty scored Benetti,Zoff,3rd place play-off,21-Jun
+2,6,"1980,", Czechoslovakia,1–1, Italy,Netoli?ka,Gögh Penalty scored,Penalty scored Graziani,Zoff,3rd place play-off,21-Jun
+2,7,"1980,", Czechoslovakia,1–1, Italy,Netoli?ka,Gajd?šek Penalty scored,Penalty scored Scirea,Zoff,3rd place play-off,21-Jun
+2,8,"1980,", Czechoslovakia,1–1, Italy,Netoli?ka,Kozák Penalty scored,Penalty scored Tardelli,Zoff,3rd place play-off,21-Jun
+2,9,"1980,", Czechoslovakia,1–1, Italy,Netoli?ka,Barmoš Penalty scored,Penalty missed Collovati,Zoff,3rd place play-off,21-Jun
+3,1,"1984,", Spain,1–1, Denmark,Arconada,Santillana Penalty scored,Penalty scored Brylle,Qvist,Semi-finals,24-Jun
+3,2,"1984,", Spain,1–1, Denmark,Arconada,Señor Penalty scored,Penalty scored J. Olsen,Qvist,Semi-finals,24-Jun
+3,3,"1984,", Spain,1–1, Denmark,Arconada,Urquiaga Penalty scored,Penalty scored Laudrup,Qvist,Semi-finals,24-Jun
+3,4,"1984,", Spain,1–1, Denmark,Arconada,Víctor Penalty scored,Penalty scored Lerby,Qvist,Semi-finals,24-Jun
+3,5,"1984,", Spain,1–1, Denmark,Arconada,Sarabia Penalty scored,Penalty missed Elkjær,Qvist,Semi-finals,24-Jun
+4,1,"1992,", Denmark,2–2, Netherlands,Schmeichel,Larsen Penalty scored,Penalty scored Koeman,Van Breukelen,Semi-finals,22-Jun
+4,2,"1992,", Denmark,2–2, Netherlands,Schmeichel,Povlsen Penalty scored,Penalty missed Van Basten,Van Breukelen,Semi-finals,22-Jun
+4,3,"1992,", Denmark,2–2, Netherlands,Schmeichel,Elstrup Penalty scored,Penalty scored Bergkamp,Van Breukelen,Semi-finals,22-Jun
+4,4,"1992,", Denmark,2–2, Netherlands,Schmeichel,Vilfort Penalty scored,Penalty scored Rijkaard,Van Breukelen,Semi-finals,22-Jun
+4,5,"1992,", Denmark,2–2, Netherlands,Schmeichel,Christofte Penalty scored,Penalty scored Witschge,Van Breukelen,Semi-finals,22-Jun
+5,1,"1996,", England,0–0, Spain,Seaman,Shearer Penalty scored,Penalty missed Hierro,Zubizarreta,Quarter-finals,22-Jun
+5,2,"1996,", England,0–0, Spain,Seaman,Platt Penalty scored,Penalty scored Amor,Zubizarreta,Quarter-finals,22-Jun
+5,3,"1996,", England,0–0, Spain,Seaman,Pearce Penalty scored,Penalty scored Belsué,Zubizarreta,Quarter-finals,22-Jun
+5,4,"1996,", England,0–0, Spain,Seaman,Gascoigne Penalty scored,Penalty missed Nadal,Zubizarreta,Quarter-finals,22-Jun
+6,1,"1996,", France,0–0, Netherlands,Lama,Zidane Penalty scored,Penalty scored De Kock,Van der Sar,Quarter-finals,22-Jun
+6,2,"1996,", France,0–0, Netherlands,Lama,Djorkaeff Penalty scored,Penalty scored R. de Boer,Van der Sar,Quarter-finals,22-Jun
+6,3,"1996,", France,0–0, Netherlands,Lama,Lizarazu Penalty scored,Penalty scored Kluivert,Van der Sar,Quarter-finals,22-Jun
+6,4,"1996,", France,0–0, Netherlands,Lama,Guérin Penalty scored,Penalty missed Seedorf,Van der Sar,Quarter-finals,22-Jun
+6,5,"1996,", France,0–0, Netherlands,Lama,Blanc Penalty scored,Penalty scored Blind,Van der Sar,Quarter-finals,22-Jun
+7,1,"1996,", Czech Republic,0–0, France,Kouba,Kubík Penalty scored,Penalty scored Zidane,Lama,Semi-finals,26-Jun
+7,2,"1996,", Czech Republic,0–0, France,Kouba,Nedv?d Penalty scored,Penalty scored Djorkaeff,Lama,Semi-finals,26-Jun
+7,3,"1996,", Czech Republic,0–0, France,Kouba,Berger Penalty scored,Penalty scored Lizarazu,Lama,Semi-finals,26-Jun
+7,4,"1996,", Czech Republic,0–0, France,Kouba,Poborský Penalty scored,Penalty scored Guérin,Lama,Semi-finals,26-Jun
+7,5,"1996,", Czech Republic,0–0, France,Kouba,Rada Penalty scored,Penalty scored Blanc,Lama,Semi-finals,26-Jun
+7,6,"1996,", Czech Republic,0–0, France,Kouba,Kadlec Penalty scored,Penalty missed Pedros,Lama,Semi-finals,26-Jun
+8,1,"1996,", Germany,1–1, England,Köpke,Häßler Penalty scored,Penalty scored Shearer,Seaman,Semi-finals,26-Jun
+8,2,"1996,", Germany,1–1, England,Köpke,Strunz Penalty scored,Penalty scored Platt,Seaman,Semi-finals,26-Jun
+8,3,"1996,", Germany,1–1, England,Köpke,Reuter Penalty scored,Penalty scored Pearce,Seaman,Semi-finals,26-Jun
+8,4,"1996,", Germany,1–1, England,Köpke,Ziege Penalty scored,Penalty scored Gascoigne,Seaman,Semi-finals,26-Jun
+8,5,"1996,", Germany,1–1, England,Köpke,Kuntz Penalty scored,Penalty scored Sheringham,Seaman,Semi-finals,26-Jun
+8,6,"1996,", Germany,1–1, England,Köpke,Möller Penalty scored,Penalty missed Southgate,Seaman,Semi-finals,26-Jun
+9,1,"2000,", Italy,0–0, Netherlands,Toldo,Di Biagio Penalty scored,Penalty missed F. de Boer,Van der Sar,Semi-finals,29-Jun
+9,2,"2000,", Italy,0–0, Netherlands,Toldo,Pessotto Penalty scored,Penalty missed Stam,Van der Sar,Semi-finals,29-Jun
+9,3,"2000,", Italy,0–0, Netherlands,Toldo,Totti Penalty scored,Penalty scored Kluivert,Van der Sar,Semi-finals,29-Jun
+9,4,"2000,", Italy,0–0, Netherlands,Toldo,Maldini Penalty missed,Penalty missed Bosvelt,Van der Sar,Semi-finals,29-Jun
+10,1,"2004,", Portugal,2–2, England,Ricardo,Deco Penalty scored,Penalty missed Beckham,James,Quarter-finals,24-Jun
+10,2,"2004,", Portugal,2–2, England,Ricardo,Simão Penalty scored,Penalty scored Owen,James,Quarter-finals,24-Jun
+10,3,"2004,", Portugal,2–2, England,Ricardo,Rui Costa Penalty missed,Penalty scored Lampard,James,Quarter-finals,24-Jun
+10,4,"2004,", Portugal,2–2, England,Ricardo,Ronaldo Penalty scored,Penalty scored Terry,James,Quarter-finals,24-Jun
+10,5,"2004,", Portugal,2–2, England,Ricardo,Maniche Penalty scored,Penalty scored Hargreaves,James,Quarter-finals,24-Jun
+10,6,"2004,", Portugal,2–2, England,Ricardo,Postiga Penalty scored,Penalty scored A. Cole,James,Quarter-finals,24-Jun
+10,7,"2004,", Portugal,2–2, England,Ricardo,Ricardo Penalty scored,Penalty missed Vassell,James,Quarter-finals,24-Jun
+11,1,"2004,", Netherlands,0–0, Sweden,Van der Sar,Van Nistelrooy Penalty scored,Penalty scored Källström,Isaksson,Quarter-finals,26-Jun
+11,2,"2004,", Netherlands,0–0, Sweden,Van der Sar,Heitinga Penalty scored,Penalty scored Larsson,Isaksson,Quarter-finals,26-Jun
+11,3,"2004,", Netherlands,0–0, Sweden,Van der Sar,Reiziger Penalty scored,Penalty missed Ibrahimovi?,Isaksson,Quarter-finals,26-Jun
+11,4,"2004,", Netherlands,0–0, Sweden,Van der Sar,Cocu Penalty missed,Penalty scored Ljungberg,Isaksson,Quarter-finals,26-Jun
+11,5,"2004,", Netherlands,0–0, Sweden,Van der Sar,Makaay Penalty scored,Penalty scored Wilhelmsson,Isaksson,Quarter-finals,26-Jun
+11,6,"2004,", Netherlands,0–0, Sweden,Van der Sar,Robben Penalty scored,Penalty missed Mellberg,Isaksson,Quarter-finals,26-Jun
+12,1,"2008,", Turkey,1–1, Croatia,Reçber,Turan Penalty scored,Penalty missed Modri?,Pletikosa,Quarter-finals,20-Jun
+12,2,"2008,", Turkey,1–1, Croatia,Reçber,?entürk Penalty scored,Penalty scored Srna,Pletikosa,Quarter-finals,20-Jun
+12,3,"2008,", Turkey,1–1, Croatia,Reçber,Alt?ntop Penalty scored,Penalty missed Rakiti?,Pletikosa,Quarter-finals,20-Jun
+12,4,"2008,", Turkey,1–1, Croatia,Reçber,,Penalty missed Petri?,Pletikosa,Quarter-finals,20-Jun
+13,1,"2008,", Spain,0–0, Italy,Casillas,Villa Penalty scored,Penalty scored Grosso,Buffon,Quarter-finals,22-Jun
+13,2,"2008,", Spain,0–0, Italy,Casillas,Cazorla Penalty scored,Penalty missed De Rossi,Buffon,Quarter-finals,22-Jun
+13,3,"2008,", Spain,0–0, Italy,Casillas,Senna Penalty scored,Penalty scored Camoranesi,Buffon,Quarter-finals,22-Jun
+13,4,"2008,", Spain,0–0, Italy,Casillas,Güiza Penalty missed,Penalty missed Di Natale,Buffon,Quarter-finals,22-Jun
+13,5,"2008,", Spain,0–0, Italy,Casillas,Fàbregas Penalty scored,,Buffon,Quarter-finals,22-Jun
+14,1,"2012,", Italy,0–0, England,Buffon,Balotelli Penalty scored,Penalty scored Gerrard,Hart,Quarter-finals,24-Jun
+14,2,"2012,", Italy,0–0, England,Buffon,Montolivo Penalty missed,Penalty scored Rooney,Hart,Quarter-finals,24-Jun
+14,3,"2012,", Italy,0–0, England,Buffon,Pirlo Penalty scored,Penalty missed Young,Hart,Quarter-finals,24-Jun
+14,4,"2012,", Italy,0–0, England,Buffon,Nocerino Penalty scored,Penalty missed A. Cole,Hart,Quarter-finals,24-Jun
+14,5,"2012,", Italy,0–0, England,Buffon,Diamanti Penalty scored,,Hart,Quarter-finals,24-Jun
+15,1,"2012,", Spain,0–0, Portugal,Casillas,Alonso Penalty missed,Penalty missed Moutinho,Patrício,Semi-finals,27-Jun
+15,2,"2012,", Spain,0–0, Portugal,Casillas,Iniesta Penalty scored,Penalty scored Pepe,Patrício,Semi-finals,27-Jun
+15,3,"2012,", Spain,0–0, Portugal,Casillas,Piqué Penalty scored,Penalty scored Nani,Patrício,Semi-finals,27-Jun
+15,4,"2012,", Spain,0–0, Portugal,Casillas,Ramos Penalty scored,Penalty missed Alves,Patrício,Semi-finals,27-Jun
+15,5,"2012,", Spain,0–0, Portugal,Casillas,Fàbregas Penalty scored,,Patrício,Semi-finals,27-Jun
+16,1,"2016,", Poland,1–1,  Switzerland,Fabia?ski,Lewandowski Penalty scored,Penalty scored Lichtsteiner,Sommer,Round of 16,25-Jun
+16,2,"2016,", Poland,1–1,  Switzerland,Fabia?ski,Milik Penalty scored,Penalty missed Xhaka,Sommer,Round of 16,25-Jun
+16,3,"2016,", Poland,1–1,  Switzerland,Fabia?ski,Glik Penalty scored,Penalty scored Shaqiri,Sommer,Round of 16,25-Jun
+16,4,"2016,", Poland,1–1,  Switzerland,Fabia?ski,B?aszczykowski Penalty scored,Penalty scored Schär,Sommer,Round of 16,25-Jun
+16,5,"2016,", Poland,1–1,  Switzerland,Fabia?ski,Krychowiak Penalty scored,Penalty scored Rodríguez,Sommer,Round of 16,25-Jun
+17,1,"2016,", Portugal,1–1, Poland,Patrício,Ronaldo Penalty scored,Penalty scored Lewandowski,Fabia?ski,Quarter-finals,30-Jun
+17,2,"2016,", Portugal,1–1, Poland,Patrício,Sanches Penalty scored,Penalty scored Milik,Fabia?ski,Quarter-finals,30-Jun
+17,3,"2016,", Portugal,1–1, Poland,Patrício,Moutinho Penalty scored,Penalty scored Glik,Fabia?ski,Quarter-finals,30-Jun
+17,4,"2016,", Portugal,1–1, Poland,Patrício,Nani Penalty scored,Penalty missed B?aszczykowski,Fabia?ski,Quarter-finals,30-Jun
+17,5,"2016,", Portugal,1–1, Poland,Patrício,Quaresma Penalty scored,,Fabia?ski,Quarter-finals,30-Jun
+18,1,"2016,", Germany,1–1, Italy,Neuer,Kroos Penalty scored,Penalty scored Insigne,Buffon,Quarter-finals,2-Jul
+18,2,"2016,", Germany,1–1, Italy,Neuer,Müller Penalty missed,Penalty missed Zaza,Buffon,Quarter-finals,2-Jul
+18,3,"2016,", Germany,1–1, Italy,Neuer,Özil Penalty missed,Penalty scored Barzagli,Buffon,Quarter-finals,2-Jul
+18,4,"2016,", Germany,1–1, Italy,Neuer,Draxler Penalty scored,Penalty missed Pellè,Buffon,Quarter-finals,2-Jul
+18,5,"2016,", Germany,1–1, Italy,Neuer,Schweinsteiger Penalty missed,Penalty missed Bonucci,Buffon,Quarter-finals,2-Jul
+18,6,"2016,", Germany,1–1, Italy,Neuer,Hummels Penalty scored,Penalty scored Giaccherini,Buffon,Quarter-finals,2-Jul
+18,7,"2016,", Germany,1–1, Italy,Neuer,Kimmich Penalty scored,Penalty scored Parolo,Buffon,Quarter-finals,2-Jul
+18,8,"2016,", Germany,1–1, Italy,Neuer,Boateng Penalty scored,Penalty scored De Sciglio,Buffon,Quarter-finals,2-Jul
+18,9,"2016,", Germany,1–1, Italy,Neuer,Hector Penalty scored,Penalty missed Darmian,Buffon,Quarter-finals,2-Jul
+19,1,"2020,",  Switzerland,3–3, France,Sommer,Gavranovi? Penalty scored,Penalty scored Pogba,Lloris,Round of 16,28-Jun
+19,2,"2020,",  Switzerland,3–3, France,Sommer,Schär Penalty scored,Penalty scored Giroud,Lloris,Round of 16,28-Jun
+19,3,"2020,",  Switzerland,3–3, France,Sommer,Akanji Penalty scored,Penalty scored Thuram,Lloris,Round of 16,28-Jun
+19,4,"2020,",  Switzerland,3–3, France,Sommer,Vargas Penalty scored,Penalty scored Kimpembe,Lloris,Round of 16,28-Jun
+19,5,"2020,",  Switzerland,3–3, France,Sommer,Mehmedi Penalty scored,Penalty missed Mbappé,Lloris,Round of 16,28-Jun
+20,1,"2020,", Spain,1–1,  Switzerland,Simón,Busquets Penalty missed,Penalty scored Gavranovi?,Sommer,Quarter-finals,2-Jul
+20,2,"2020,", Spain,1–1,  Switzerland,Simón,Olmo Penalty scored,Penalty missed Schär,Sommer,Quarter-finals,2-Jul
+20,3,"2020,", Spain,1–1,  Switzerland,Simón,Rodri Penalty missed,Penalty missed Akanji,Sommer,Quarter-finals,2-Jul
+20,4,"2020,", Spain,1–1,  Switzerland,Simón,Gerard Penalty scored,Penalty missed Vargas,Sommer,Quarter-finals,2-Jul
+20,5,"2020,", Spain,1–1,  Switzerland,Simón,Oyarzabal Penalty scored,,Sommer,Quarter-finals,2-Jul
+21,1,"2020,", Italy,1–1, Spain,Donnarumma,Locatelli Penalty missed,Penalty missed Olmo,Simón,Semi-finals,6-Jul
+21,2,"2020,", Italy,1–1, Spain,Donnarumma,Belotti Penalty scored,Penalty scored Gerard,Simón,Semi-finals,6-Jul
+21,3,"2020,", Italy,1–1, Spain,Donnarumma,Bonucci Penalty scored,Penalty scored Thiago,Simón,Semi-finals,6-Jul
+21,4,"2020,", Italy,1–1, Spain,Donnarumma,Bernardeschi Penalty scored,Penalty missed Morata,Simón,Semi-finals,6-Jul
+21,5,"2020,", Italy,1–1, Spain,Donnarumma,Jorginho Penalty scored,,Simón,Semi-finals,6-Jul
+22,1,"2020,", Italy,1–1, England,Donnarumma,Berardi Penalty scored,Penalty scored Kane,Pickford,Final,11-Jul
+22,2,"2020,", Italy,1–1, England,Donnarumma,Belotti Penalty missed,Penalty scored Maguire,Pickford,Final,11-Jul
+22,3,"2020,", Italy,1–1, England,Donnarumma,Bonucci Penalty scored,Penalty missed Rashford,Pickford,Final,11-Jul
+22,4,"2020,", Italy,1–1, England,Donnarumma,Bernardeschi Penalty scored,Penalty missed Sancho,Pickford,Final,11-Jul
+22,5,"2020,", Italy,1–1, England,Donnarumma,Jorginho Penalty missed,Penalty missed Saka,Pickford,Final,11-Jul
