@@ -1,0 +1,710 @@
+event_date,event_time,Sport,Venue,Events
+21st_July_2021,1:00,Baseball/Softball,Fukushima Azuma Baseball Stadium,"Australia vs Japan, Italy vs United States, Mexico vs Canada"
+21st_July_2021,8:30,Football,Sapporo Dome,"Women's Group E: Great Britain vs Chile, Women's Group E: Japan vs Canada"
+21st_July_2021,9:00,Football,Miyagi Stadium,"Women's Group F: China vs Brazil, Women's Group F: Zambia vs Netherlands"
+21st_July_2021,9:30,Football,Tokyo Stadium,"Women's Group G: Sweden vs United States, Women's Group G: Australia vs New Zealand"
+22nd_July_2021,1:00,Baseball/Softball,Fukushima Azuma Baseball Stadium,"United States vs Canada, Mexico vs Japan, Italy vs Australia"
+22nd_July_2021,8:30,Football,Sapporo Dome,"Men's Group C: Egypt vs Spain, Men's Group C: Argentina vs Australia"
+22_July_2021,9:00,Football,Ibaraki Kashima Stadium,"Men's Group B: New Zealand vs Republic of Korea, Men's Group C: Honduras vs Romania"
+22nd_July_2021,9:00,Football,Tokyo Stadium,"Men's Group A: Mexico vs France, Men's Group A: Japan vs South Africa "
+22nd_July_2021,9:30,Football,Ibaraki Kashima Stadium,"Men's Group D: Côte d'Ivoire vs Saudi Arabia, Men's Group D: Brazil vs Germany"
+23rd_July_2021,0:30,Rowing,Sea Forest Waterway,"Men's Single Sculls Heats, Women's Single Sculls Heats, Men's Double Sculls Heats, Women's Double Sculls Heats, Men's Quadruple Sculls Heats, Women's Quadruple Sculls Heats"
+23rd_July_2021,1:00,Archery,Yumenoshima Park Archery Field,Women's Individual Ranking Round
+23rd_July_2021,5:00,Archery,Yumenoshima Park Archery Field,Men's Individual Ranking Round
+23rd_July_2021,12:00,Opening Ceremony,Olympic Stadium,-
+24th_July_2021,0:30,Shooting,Asaka Shooting Range,"10m Air Rifle Women's Qualification, 10m Air Rifle Women's Finals , 10m Air Rifle Women's Victory Ceremony, 10m Air Pistol Men's Qualification, 10m Air Pistol Men's Finals"
+24th_July_2021,0:30,Rowing,Sea Forest Waterway,"Women's Single Sculls Repechages, Men's Single Sculls Repechages, Women's Double Sculls Repechage, Men's Double Sculls Repechage, Women's Pair Heats, Men's Pair Heats, Lightweight Women's Double Sculls Heats, Lightweight Men's Double Sculls Heats, Women's Four Heats, Men's Four Heats"
+24th_July_2021,1:00,Badminton,Musashino Forest Sport Plaza,"Men's Singles Group Play Stage, Women's Singles Group Play Stage, Men's Doubles Group Play Stage, Women's Doubles Group Play Stage, Mixed Doubles Group Play Stage"
+24th_July_2021,1:00,Handball,Yoyogi National Stadium,"Men's Preliminary Round Group A: Norway vs Brazil, Men's Preliminary Round Group A: France vs Argentina"
+24th_July_2021,1:00,Beach Volleyball,Shiokaze Park,Men's or Women's Preliminaries (4 matches)
+24th_July_2021,1:00,Fencing,Makuhari Messe Hall,"Women's Epée Individual Table of 64, Men's Sabre Individual Table of 64, Women's Epée Individual Table of 32, Men's Sabre Individual Table of 32, Women's Epée Individual Table of 16, Men's Sabre Individual Table of 16, Women's Epée Individual Quarterfinals, Men's Sabre Individual Quarterfinals"
+24th_July_2021,1:00,Volleyball,Ariake Arena,"Men's Preliminary Round Pool A: Italy vs Canada, Men's Preliminary Pool B: Brazil vs Tunisia"
+24th_July_2021,1:00,Table Tennis,Tokyo Metropolitan Gymnasium,"Men's Singles Preliminary Round, Women's Singles Preliminary Round, Mixed Doubles Round of 16"
+24th_July_2021,1:30,Archery,Yumenoshima Park Archery Field,Mixed Team 1/8 Eliminations
+24th_July_2021,1:30,Hockey,Oi Hockey Stadium,"Men's Pool A: Japan vs Australia, Men's Pool B: Netherlands vs Belgium"
+24th_July_2021,1:50,Weightlifting,Tokyo International Forum,Women's 49 kg Group B
+24th_July_2021,2:00,Artistic Gymnastics,Ariake Gymnastics Centre,Men's Qualification
+24th_July_2021,2:00,Taekwondo,Makuhari Messe Hall,"Women -49 kg Round of 16 (8 matches), Men -58 kg Round of 16 (8 matches), Women -49 kg Quarterfinals (4 matches), Men -58 kg Quarterfinals (4 matches), Women -49 kg Semifinals (2 matches), Men -58 kg Semifinals (2 matches)"
+24th_July_2021,2:00,Baseball/Softball,Yokohama Baseball Stadium,"Softball Opening Round: Australia vs Canada, Softball Opening Round: United States vs Mexico"
+24th_July_2021,2:00,Hockey,Oi Hockey Stadium,"Men's Pool A: New Zealand vs India, Men's Pool A: Argentina vs Spain"
+24th_July_2021,2:15,3x3 Basketball,Aomi Urban Sports Park,"Women's Pool Round (2 games), Men's Pool Round (2 games)"
+24th_July_2021,3:00,Boxing,Kokugikan Arena,"Women's Feather (54-57kg) - Preliminaries - Round of 32, Women's Welter (64-69kg) - Preliminaries - Round of 32, Men's Feather (52-57kg) - Preliminaries - Round of 32, Men's Welter (63-69kg) - Preliminaries - Round of 32, Men's Heavy (81-91kg) - Preliminaries - Round of 32"
+24th_July_2021,3:00,Judo,Nippon Budokan,"Women -48 kg Elimination Rounds, Women -48 kg Quarterfinals, Men -60 kg Elimination Rounds, Men -60 kg Quarterfinals"
+24th_July_2021,3:00,Cycling Road,Fuji international Speedway,Men's Road Race
+24th_July_2021,3:00,Tennis,Ariake Tennis Park,"Men's Singles First Round, Women's Singles First Round, Men's Doubles First Round, Women's Doubles First Round"
+24th_July_2021,5:50,Weightlifting,Tokyo International Forum,Women's 49 kg Group A
+24th_July_2021,6:00,Water Polo,Tatsumi Water Polo Centre,"Women's Preliminary Round - Group B: Japan vs United States, Women's Preliminary Round - Group A: Canada vs Australia"
+24th_July_2021,6:00,3x3 Basketball,Aomi Urban Sports Park,"Women's Pool Round (2 games), Men's Pool Round (2 games)"
+24th_July_2021,6:15,Table Tennis,Tokyo Metropolitan Gymnasium,"Men's Singles Round 1, Women's Singles Round 1"
+24th_July_2021,6:20,Volleyball,Ariake Arena,"Men's Preliminary Round - Pool B: ROC vs Argentina, Men's Preliminary Round - Pool A: Japan vs Venezuela"
+24th_July_2021,6:15,Handball,Yoyogi National Stadium,"Men's Preliminary Round Group B: Sweden vs Bahrain, Men's Preliminary Round Group A: Germany vs Spain"
+24th_July_2021,6:15,Archery,Yumenoshima Park Archery Field,"Mixed Team: Quarterfinals, Mixed Team: Semifinals, Mixed Team: Bronze Medal Match,  Mixed Team: Gold Medal Match"
+24th_July_2021,9:30,3x3 Basketball,Aomi Urban Sports Park,"Women's Pool Round (2 games), Men's Pool Round (2 games)"
+24th_July_2021,6:30,Artistic Gymnastics,Ariake Gymnastics Centre,Men's Qualification
+24th_July_2021,7:00,Beach Volleyball,Shiokaze Park,Men's or Women's Preliminaries (3 matches)
+24th_July_2021,8:30,Football,Sapporo Dome,"Women's Group E: Chile vs Canada, Women's Group E: Japan vs Great Britain"
+24th_July_2021,9:00,Boxing,Kokugikan Arena,"Women's Feather (54-57kg) - Preliminaries - Round of 32, Men's Feather (52-57kg) - Preliminaries - Round of 32, Men's Welter (63-69kg) - Preliminaries - Round of 32, Men's Super Heavy (+91kg) - Preliminaries - Round of 32"
+24th_July_2021,9:00,Judo,Nippon Budokan,"Women -48 kg Repechage, Women -48 kg Semifinals, Men -60 kg Repechage, Men -60 kg Semifinals, Women -48 kg Contests for Bronze Medal, Women -48 kg Final, Men -60 kg Contests for Bronze Medal, Men -60 kg Final"
+24th_July_2021,9:00,Equestrian,Equestrian Park,Dressage Grand Prix Team and Individual Day 1
+24th_July_2021,9:00,Football,Miyagi Stadium,"Women's Group F: China vs Zambia, Women's Group F: Netherlands vs Brazil"
+24th_July_2021,9:30,Football,Saitama Stadium,"Women's Group G: Sweden vs Australia, Women's Group G: New Zealand vs United States"
+24th_July_2021,10:00,Fencing,Makuhari Messe Hall,"Women's Epée Individual Semifinals, Men's Sabre Individual Semifinals, Women's Epée Individual Bronze Medal Bout"
+24th_July_2021,10:00,Badminton,Musashino Forest Sport Plaza,"Men's Singles Group Play Stage, Women's Singles Group Play Stage, Men's Doubles Group Play Stage, Women's Doubles Group Play Stage, Mixed Doubles Group Play Stage"
+24th_July_2021,10:20,Water Polo,Tatsumi Water Polo Centre,"Women's Preliminary Round - Group A: South Africa vs Spain, Women's Preliminary Round - Group B: China vs ROC"
+24th_July_2021,10:30,Hockey,Oi Hockey Stadium,"Men's Pool B: Great Britain vs South Africa, Women's Pool A: Netherlands vs India"
+24th_July_2021,11:00,Hockey,Oi Hockey Stadium,"Men's Pool B: Canada vs Germany, Women's Pool A: Ireland vs South Africa"
+24th_July_2021,11:00,Taekwondo,Makuhari Messe Hall,"Women -49 kg Repechages (2 matches), Men -58 kg Repechages (2 matches), Women -49 kg Bronze Medal Contests (2 matches), Men -58 kg Bronze Medal Contests (2 matches), Women -49 kg Gold Medal Contest, Men -58 kg Gold Medal Contest"
+24th_July_2021,11:00,Swimming,Tokyo Aquatics Centre,"Men's 400m Individual Medley - Heats, Women's 100m Butterfly - Heats, Men's 400m Freestyle - Heats, Women's 400m Individual Medley - Heats, Men's 100m Breaststroke - Heats, Women's 4 x 100m Freestyle Relay - Heats"
+24th_July_2021,11:30,Artistic Gymnastics,Ariake Gymnastics Centre,Men's Qualification
+24th_July_2021,11:30,Table Tennis,Tokyo Metropolitan Gymnasium,"Men's Singles Round 1, Women's Singles Round 1"
+24th_July_2021,11:30,Handball,Yoyogi National Stadium,"Men's Preliminary Round Group B: Portugal vs Egypt, Men's Preliminary Round Group B: Denmark vs Japan"
+24th_July_2021,11:40,Volleyball,Ariake Arena,"Men's Preliminary Round - Pool A: Poland vs Islamic Rep. of Iran, Men's Preliminary Round - Pool B: United States vs France"
+24th_July_2021,13:00,3x3 Basketball,Aomi Urban Sports Park,"Women's Pool Round (2 games), Men's Pool Round (2 games)"
+24th_July_2021,12:00,Softball/Baseball,Yokohama Baseball Stadium,Softball Opening Round: Japan vs Italy
+24th_July_2021,12:00,Beach Volleyball,Shiokaze Park,Men's or Women's Preliminaries (3 matches)
+25th_July_2021,23:00,Surfing,Tsurigasaki Surfing Beach,"Men's Round 1, Women's Round 1, Men's Round 2, Women's Round 2"
+25th_July_2021,1:00,Volleyball,Ariake Arena,"Women's Preliminary Round - Pool B: ROC vs Italy, Women's Preliminary Round - Pool B: United States vs Argentina"
+25th_July_2021,1:00,Skateboarding,Ariake Urban Sports Park,"Men's Street Prelims Heats, Men's Street Final"
+25th_July_2021,1:00,Shooting,Asaka Shooting Range,"Skeet Women's Qualification - Day 1, Skeet Men's Qualification - Day 1"
+25th_July_2021,1:00,Shooting,Asaka Shooting Range,"10m Air Pistol Women's Qualification. 10m Air Pistol Women's Finals, 10m Air Pistol Women's Victory Ceremony, 10m Air Rifle Men's Qualification, 10m Air Rifle Men's Finals, 10m Air Rifle Men's Victory Ceremony"
+25th_July_2021,1:00,Rowing,Sea Forest Waterway,"Men's Single Sculls Semifinals E/F, Women's Single Sculls Semifinals E/F, Men's Pair Repechage, Women's Pair Repechage, Lightweight Men's Double Sculls Repechages, Lightweight Women's Double Sculls Repechages, Men's Quadruple Sculls Repechage, Women's Quadruple Sculls Repechage, Men's Eight Heats, Women's Eight Heats"
+25th_July_2021,1:00,Beach volleyball,Shiokaze Park,Men's or Women's Preliminaries (4 matches)
+25th_July_2021,1:00,Handball,Yoyogi National Stadium,"Women's Preliminary Round Group A: Netherlands vs Japan, Women's Preliminary Round Group B: ROC vs Brazil"
+25th_July_2021,1:00,Fencing,Makuhari Messe Hall,"Women's Foil Individual Table of 64, Men's Epée Individual Table of 64, Women's Foil Individual Table of 32, Men's Epée Individual Table of 32, Women's Foil Individual Table of 16, Men's Epée Individual Table of 16, Women's Foil Individual Quarterfinals, Men's Epée Individual Quarterfinals"
+25th_July_2021,1:30,Archery,Yumenoshima Park Archery Field,Women's Team 1/8 Eliminations
+25th_July_2021,1:30,Hockey,Oi Hockey Stadium,"Women's Pool A: Great Britain vs Germany, Women's Pool B: Japan vs China"
+25th_July_2021,2:00,Table Tennis,Tokyo Metropolitan Gymnasium,Mixed Doubles Quarterfinals
+25th_July_2021,2:00,Hockey,Oi Hockey Stadium,"Women's Pool B: Australia vs Spain, Women's Pool B: New Zealand vs Argentina"
+25th_July_2021,2:00,Basketball,Saitama Super Arena,Men's Preliminary Round Group A: Islamic Rep. of Iran vs Winner of Olympic Qualifying Tournament in Victoria(Canada)
+25th_July_2021,2:00,Artistic Gymnastics,Ariake Gymnastics Centre,Women's Qualification
+25th_July_2021,2:00,Water Polo,Tatsumi Water Polo Centre,"Men's Preliminary Round - Group A: South Africa vs Italy, Men's Preliminary Round - Group A: Hungary vs Greece"
+25th_July_2021,2:00,Taekwondo,Makuhari Messe Hall,"Women -57 kg Round of 16 (8 matches), Men -68 kg Round of 16 (8 matches), Women -57 kg Quarterfinals (4 matches), Men -68 kg Quarterfinals (4 matches), Women -57 kg Semifinals (2 matches), Men -68 kg Semifinals (2 matches)"
+25th_July_2021,2:00,Badminton,Musashino Forest Sport Plaza,"Men's Singles Group Play Stage, Women's Singles Group Play Stage, Men's Doubles Group Play Stage, Women's Doubles Group Play Stage, Mixed Doubles Group Play Stage"
+25th_July_2021,2:00,Softball,Yokohama Baseball Stadium,"Softball Opening Round: Australia vs United States, Softball Opening Round: Canada vs Japan"
+25th_July_2021,2:15,3x3 Basketball,Aomi Urban Sports Park,"Women's Pool Round (2 games), Men's Pool Round (2 games)"
+25th_July_2021,2:30,Swimming,Tokyo Aquatics Centre,"Men's 400m Individual Medley Final, Women's 100m Butterfly Semifinals, Men's 400m Freestyle Final, Men's 400m Individual Medley Victory Ceremony, Women's 400m Individual Medley Final, Men's 400m Freestyle Victory Ceremony, Men's 100m Breaststroke Semifinals, Women's 4 x 100m Freestyle Relay Final"
+25th_July_2021,3:00,Tennis,Ariake Tennis Park,"Men's Singles First Round, Women's Singles First Round, Men's Doubles First Round, Women's Doubles First Round"
+25th_July_2021,3:00,Judo,Nippon Budokan,"Women -78 kg Elimination Rounds, Women -78 kg Quarterfinals, Men -100 kg Elimination Rounds, Men -100 kg Quarterfinals"
+25th_July_2021,3:00,Judo,Nippon Budokan,"Women -52 kg Elimination Rounds, Women -52 kg Quarterfinals, Men -66 kg Elimination Rounds, Men -66 kg Quarterfinals"
+25th_July_2021,3:00,Boxing,Kokugikan Arena,"Women's Fly (48-51kg) - Preliminaries - Round of 32, Women's Middle (69-75kg) - Preliminaries - Round of 32, Men's Light (57-63kg) - Preliminaries - Round of 32, Men's Light Heavy (75-81kg) - Preliminaries - Round of 32"
+25th_July_2021,3:50,Weightlifting,Tokyo International Forum,Men's 61 kg Group B and Men's 67 kg Group B
+25th_July_2021,4:00,Sailing,Enoshima Yacht Harbour,"RS:X Men, RS:X Women, Laser Men, Laser Radial Women"
+25th_July_2021,5:00,Canoe Slalom,Kasai Canoe Slalom Centre,"Canoe (C1) Men Heats, Kayak (K1) Women Heats"
+25th_July_2021,5:00,Cycling Road,Fuji international Speedway,Women's Road Race
+25th_July_2021,5:40,Basketball,Saitama Super Arena,"Men's Preliminary Round Group B, Winner of Olympic Qualifying Tournament in Split(Croatia) vs Winner of Olympic Qualifying Tournament in Belgrade(Serbia)"
+25th_July_2021,5:45,Archery,Yumenoshima Park Archery Field,"Women's: Team Quarterfinals, Team Semifinals, Team Bronze Medal Match, Team Gold Medal Match"
+25th_July_2021,6:00,Water Polo,Tatsumi Water Polo Centre,"Men's Preliminary Round - Group A: United States vs Japan, Men's Preliminary Round - Group B: Australia vs Montenegro"
+25th_July_2021,6:00,Table Tennis,Tokyo Metropolitan Gymnasium,"Men's Singles Round 2, Women's Singles Round 2"
+25th_July_2021,6:00,3x3 Basketball,Aomi Urban Sports Park,"Women's Pool Round (2 games), Men's Pool Round (2 games)"
+25th_July_2021,6:15,Handball,Yoyogi National Stadium,"Women's Preliminary Round Group A: Montenegro vs Angola, Women's Preliminary Round Group A: Norway vs Republic of Korea"
+25th_July_2021,6:20,Volleyball,Ariake Arena,"Women's Preliminary Round - Pool A: Serbia vs Dominican Rep., Women's Preliminary Round - Pool B: China vs Turkey"
+25th_July_2021,7:00,Beach Volleyball,Shiokaze Park,Men's or Women's Preliminaries (3 matches)
+25th_July_2021,7:00,Diving,Tokyo Aquatics Centre,Women's Synchronised 3m Springboard Final
+25th_July_2021,7:10,Artistic Gymnastics,Ariake Gymnastics Centre,Women's Qualification
+25th_July_2021,7:50,Weightlifting,Tokyo International Forum,Men's 61 kg Group A
+25th_July_2021,8:30,Football,Sapporo Dome,"Men's Group C: Egypt vs Argentina, Men's Group C: Australia vs Spain"
+25th_July_2021,9:00,Boxing,Kokugikan Arena,"Women's Fly (48-51kg) - Preliminaries - Round of 32, Men's Light (57-63kg) - Preliminaries - Round of 32, Men's Light Heavy (75-81kg) - Preliminaries - Round of 32"
+25th_July_2021,9:00,Judo,Nippon Budokan,"Women -78 kg Repechage, Women -78 kg Semifinals, Men -100 kg Repechage, Men -100 kg Semifinals, Women -78 kg Contests for Bronze Medal, Women -78 kg Final, Men -100 kg Contests for Bronze Medal, Men -100 kg Final"
+25th_July_2021,9:00,Equestrian,Equestrian Park,Dressage Grand Prix Team and Individual Day 2
+25th_July_2021,9:00,Judo,Nippon Budokan,"Women -52 kg Repechage, Women -52 kg Semifinals, Men -66 kg Repechage, Men -66 kg Semifinals, Women -52 kg Contests for Bronze Medal, Women -52 kg Final, Men -66 kg Contests for Bronze Medal, Men -66 kg Final"
+25th_July_2021,9:00,football,Saitama Stadium,"Men's Group A: France vs South Africa, Men's Group A: Japan vs Mexico"
+25th_July_2021,9:00,football,Ibaraki Kashima Stadium,"Men's Group B: New Zealand vs Honduras, Men's Group B: Romania vs Republic of Korea"
+25th_July_2021,9:20,Basketball,Saitama Super Arena,Men's Preliminary Round Group B: Australia vs Nigeria
+25th_July_2021,9:30,Football,International Stadium Yokohama,"Men's Group D: Brazil vs Côte d'Ivoire, Men's Group D: Saudi Arabia vs Germany"
+25th_July_2021,9:30,3x3 Basketball,Aomi Urban Sports Park,"Women's Pool Round (2 games), Men's Pool Round (2 games)"
+25th_July_2021,10:00,Badminton,Musashino Forest Sport Plaza,"Men's Singles Group Play Stage, Women's Singles Group Play Stage, Men's Doubles Group Play Stage, Women's Doubles Group Play Stage, Mixed Doubles Group Play Stage"
+25th_July_2021,10:00,Fencing,Makuhari Messe Hall,"Women's Foil Individual Semifinals, Men's Epée Individual Semifinals, Women's Foil Individual Bronze Medal Bout"
+25th_July_2021,10:20,Water Polo,Tatsumi Water Polo Centre,"Men's Preliminary Round - Group B: Serbia vs Spain, Men's Preliminary Round - Group B: Croatia vs Kazakhstan"
+25th_July_2021,10:30,Hockey,Oi Hockey Stadium,"Men's Pool A: India vs Australia, Men's Pool A: Spain vs New Zealand"
+25th_July_2021,11:00,Swimming,Tokyo Aquatics Centre,"Women's 100m Backstroke - Heats, Men's 200m Freestyle - Heats, Women's 100m Breaststroke - Heats, Men's 100m Backstroke - Heats, Women's 400m Freestyle - Heats, Men's 4 x 100m Freestyle Relay - Heats"
+25th_July_2021,11:00,Hockey,Oi Hockey Stadium,"Men's Pool A: Japan vs Argentina, Men's Pool B: South Africa vs Netherlands"
+25th_July_2021,11:00,Taekwondo,Makuhari Messe Hall,"Women -57 kg Repechages (2 matches), Men -68 kg Repechages (2 matches), Women -57 kg Bronze Medal Contests (2 matches), Men -68 kg Bronze Medal Contests (2 matches), Women -57 kg Gold Medal Contest, Men -68 kg Gold Medal Contest"
+25th_July_2021,11:30,Handball,Yoyogi National Stadium,"Women's Preliminary Round Group B: Spain vs Sweden, Women's Preliminary Round Group B: Hungary vs France"
+25th_July_2021,11:40,Volleyball,Ariake Arena,"Women's Preliminary Round - Pool A: Japan vs Kenya, Women's Preliminary Round - Pool A: Brazil vs Republic of Korea"
+25th_July_2021,11:50,Weightlifting,Tokyo International Forum,Men's 67 kg Group A
+25th_July_2021,12:00,Table Tennis,Tokyo Metropolitan Gymnasium,Mixed Doubles Semifinals
+25th_July_2021,12:00,Softball,Yokohama Baseball Stadium,Softball Opening Round: Italy vs Mexico
+25th_July_2021,12:00,Beach Volleyball,Shiokaze Park,Men's or Women's Preliminaries (3 matches)
+25th_July_2021,12:20,Artistic Gymnastics,Ariake Gymnastics Centre,Women's Qualification
+25th_July_2021,13:00,Basketball,Saitama Super Arena,Men's Preliminary Round Group A: France vs United States
+25th_July_2021,13:00,3x3 Basketball,Aomi Urban Sports Park,"Women's Pool Round (2 games), Men's Pool Round (2 games)"
+26th_July_2021,22:30,Triathlon,Odaiba Marine Park,Men
+26th_July_2021,23:00,Surfing,Tsurigasaki Surfing Beach,"Women's Round 3, Men's Round 3"
+26th_July_2021,1:00,Volleyball,Ariake Arena,"Men's Preliminary Round - Pool A: Islamic Rep. of Iran vs Venezuela, Men's Preliminary Round - Pool B: United States vs ROC"
+26th_July_2021,1:00,Skateboarding,Ariake Urban Sports Park,"Women's Street Prelims Heats, Women's Street Final"
+26th_July_2021,1:00,Shooting,Asaka Shooting Range,"Skeet Women's Qualification - Day 2, Skeet Men's Qualification - Day 2, Skeet Women's Finals, Skeet Men's Finals"
+26th_July_2021,1:00,rugby,Tokyo Stadium,Men's Pool Round (6 matches)
+26th_July_2021,1:00,Rowing,Sea Forest Waterway,"Women's Single Sculls Quarterfinals, Men's Single Sculls Quarterfinals, Women's Double Sculls Semifinals, Men's Double Sculls Semifinals, Women's Four Repechage, Men's Four Repechage"
+26th_July_2021,1:00,Handball,Yoyogi National Stadium,"Men's Preliminary Round Group A: Brazil vs France, Men's Preliminary Round Group A: Argentina vs Germany"
+26th_July_2021,1:00,Fencing,Makuhari Messe Hall,"Women's Sabre Individual Table of 64, Men's Foil Individual Table of 64, Women's Sabre Individual Table of 32"
+26th_July_2021,1:00,Beach Volleyball,Shiokaze Park,Men's or Women's Preliminaries (4 matches)
+26th_July_2021,1:30,Hockey,Oi Hockey Stadium,"Men's Pool B: Germany vs Belgium, Men's Pool B: Great Britain vs Canada"
+26th_July_2021,1:30,Archery,Yumenoshima Park Archery Field,Men's Team 1/8 Eliminations
+26th_July_2021,2:00,Taekwondo,Makuhari Messe Hall,"Women -67 kg Round of 16 (8 matches), Men -80 kg Round of 16 (8 matches), Women -67 kg Quarterfinals (4 matches), Men -80 kg Quarterfinals (4 matches), Women -67 kg Semifinals (2 matches), Men -80 kg Semifinals (2 matches)"
+26th_July_2021,2:00,Badminton,Musashino Forest Sport Plaza,"Men's Singles Group Play Stage, Women's Singles Group Play Stage, Men's Doubles Group Play Stage, Women's Doubles Group Play Stage, Mixed Doubles Group Play Stage"
+26th_July_2021,2:00,Table Tennis,Tokyo Metropolitan Gymnasium,"Men's Singles Round 2, Women's Singles Round 2"
+26th_July_2021,2:00,Hockey,Oi Hockey Stadium,"Women's Pool A: Netherlands vs Ireland, Women's Pool B: Australia vs China"
+26th_July_2021,2:00,Basketball,Saitama Super Arena,Women's Preliminary Round Group A: Republic of Korea vs Spain
+26th_July_2021,2:00,Softball,Yokohama Baseball Stadium,"Softball Opening Round: Japan vs United States, Softball Opening Round: Canada vs Italy"
+26th_July_2021,2:15,3x3 Basketball,Aomi Urban Sports Park,"Women's Pool Round (2 games), Men's Pool Round (2 games)"
+26th_July_2021,2:30,Swimming,Tokyo Aquatics Centre,"Women's 100m Butterfly Final, Men's 200m Freestyle Semifinals, Women's 100m Breaststroke Semifinals, Women's 100m Butterfly Victory Ceremony, Men's 100m Breaststroke Final, Women's 400m Freestyle Final, Men's 100m Backstroke Semifinals, Men's 100m Breaststroke Victory Ceremony, Women's 100m Backstroke Semifinals, Men's 4 x 100m Freestyle Relay Final"
+26th_July_2021,3:00,boxing,Kokugikan Arena,"Men's Fly (48-52kg) - Preliminaries - Round of 32, Men's Middle (69-75kg) - Preliminaries - Round of 32, Women's Feather (54-57kg) - Preliminaries - Round of 16"
+26th_July_2021,3:00,Judo,Nippon Budokan,"Women -57 kg Elimination Rounds, Women -57 kg Quarterfinals, Men -73 kg Elimination Rounds, Men -73 kg Quarterfinals"
+26th_July_2021,3:00,Tennis,Ariake Tennis Park,"Men's Singles Second Round, Women's Singles Second Round, Men's Doubles Second Round, Women's Doubles Second Round"
+26th_July_2021,4:00,Sailing,Enoshima Yacht Harbour,"RS:X Men, RS:X Women, Laser Men, Laser Radial Women"
+26th_July_2021,5:40,Basketball,Saitama Super Arena,Men's Preliminary Round Group C: Argentina vs Winner of Olympic Qualifying Tournament in Kaunas(Lithuania)
+26th_July_2021,5:45,Archery,Yumenoshima Park Archery Field,"Men's Team Quarterfinals, Men's Team Semifinals, Men's Team Bronze Medal Match, Men's Team Gold Medal Match"
+26th_July_2021,5:50,Weightlifting,Tokyo International Forum,Women's 55 kg Group B
+26th_July_2021,6:00,3x3 Basketball,Aomi Urban Sports Park,"Women's Pool Round (2 games), Men's Pool Round (2 games)"
+26th_July_2021,6:00,Canoe Slalom,Kasai Canoe Slalom Centre,"Canoe (C1) Men Semi-final, Canoe (C1) Men Final, Canoe (C1) Men Victory Ceremony"
+26th_July_2021,6:00,Water Polo,Tatsumi Water Polo Centre,"Women's Preliminary Round - Group B: United States vs China, Women's Preliminary Round - Group B: ROC vs Hungary"
+26th_July_2021,6:15,Handball,Yoyogi National Stadium,"Men's Preliminary Round Group B: Egypt vs Denmark, Men's Preliminary Round Group A: Spain vs Norway"
+26th_July_2021,6:20,Volleyball,Ariake Arena,"Men's Preliminary Round - Pool A: Poland vs Italy, Men's Preliminary Round - Pool B: France vs Tunisia"
+26th_July_2021,6:30,Table Tennis,Tokyo Metropolitan Gymnasium,"Men's Singles Round 3, Women's Singles Round 3"
+26th_July_2021,7:00,Beach Volleyball,Shiokaze Park,Men's or Women's Preliminaries (3 matches)
+26th_July_2021,7:00,Cycling Mountain Bike,Izu MTB Course,Men's Cross-country
+26th_July_2021,7:00,diving,Tokyo Aquatics Centre,Men's Synchronised 10m Platform Final
+26th_July_2021,8:30,Rugby,Tokyo Stadium,Men's Pool Round (6 matches)
+26th_July_2021,9:00,Boxing,Kokugikan Arena,"Men's Fly (48-52kg) - Preliminaries - Round of 32, Men's Middle (69-75kg) - Preliminaries - Round of 32, Women's Feather (54-57kg) - Preliminaries - Round of 16"
+26th_July_2021,9:00,Judo,Nippon Budokan,"Women -57 kg Repechage, Women -57 kg Semifinals, Men -73 kg Repechage, Men -73 kg Semifinals, Women -57 kg Contests for Bronze Medal, Women -57 kg Final, Men -73 kg Contests for Bronze Medal, Men -73 kg Final"
+26th_July_2021,9:20,Basketball,Saitama Super Arena,Women's Preliminary Round Group A: Serbia vs Canada
+26th_July_2021,9:30,3x3 Basketball,Aomi Urban Sports Park,"Women's Pool Round (2 games), Men's Pool Round (2 games)"
+26th_July_2021,10:00,Badminton,Musashino Forest Sport Plaza,"Men's Singles Group Play Stage, Women's Singles Group Play Stage, Men's Doubles Group Play Stage, Women's Doubles Group Play Stage, Mixed Doubles Group Play Stage"
+26th_July_2021,10:00,Fencing,Makuhari Messe Hall,"Women's Sabre Individual Semifinals, Men's Foil Individual Semifinals, Women's Sabre Individual Bronze Medal Bout, Men's Foil Individual Bronze Medal Bout, Women's Sabre Individual Gold Medal Bout, Men's Foil Individual Gold Medal Bout"
+26th_July_2021,10:20,Water Polo,Tatsumi Water Polo Centre,"Women's Preliminary Round - Group A: Australia vs Netherlands, Women's Preliminary Round - Group A: Spain vs Canada"
+26th_July_2021,10:30,Hockey,Oi Hockey Stadium,"Women's Pool A: South Africa vs Great Britain, Women's Pool B: Japan vs New Zealand"
+26th_July_2021,11:00,Artistic Gymnastic,Ariake Gymnastics Centre,Men's Team Final
+26th_July_2021,11:00,Swimming,Tokyo Aquatics Centre,"Women's 200m Freestyle - Heats, Men's 200m Butterfly - Heats, Women's 200m Individual Medley - Heats, Women's 1500m Freestyle - Heats"
+26th_July_2021,11:00,Taekwondo,Makuhari Messe Hall,"Women -67 kg Repechages (2 matches), Men -80 kg Repechages (2 matches), Women -67 kg Bronze Medal Contests (2 matches), Men -80 kg Bronze Medal Contests (2 matches), Women -67 kg Gold Medal Contest, Men -80 kg Gold Medal Contest"
+26th_July_2021,11:00,Hockey,Oi Hockey Stadium,"Women's Pool B: Argentina vs Spain, Women's Pool A: Germany vs India"
+26th_July_2021,11:30,Handball,Yoyogi National Stadium,"Men's Preliminary Round Group B: Bahrain vs Portugal, Men's Preliminary Round Group B: Japan vs Sweden"
+26th_July_2021,11:40,volleyball,Ariake Arena,"Men's Preliminary Round - Pool A: Japan vs Canada, Men's Preliminary Round - Pool B: Brazil vs Argentina"
+26th_July_2021,11:50,Weightlifting,Tokyo International Forum,Women's 55 kg Group A
+26th_July_2021,12:00,Beach Volleyball,Shiokaze Park,Men's or Women's Preliminaries (3 matches)
+26th_July_2021,12:00,Table Tennis,Tokyo Metropolitan Gymnasium,"Mixed Doubles Bronze Medal Match, Mixed Doubles Gold Medal Match"
+26th_July_2021,12:00,Softball,Yokohama Baseball Stadium,Softball Opening Round: Mexico vs Australia
+26th_July_2021,13:00,Basketball,Saitama Super Arena,Men's Preliminary Round Group C: Japan vs Spain
+26th_July_2021,13:00,3x3 Basketball,Aomi Urban Sports Park,"Women's Pool Round (2 games), Men's Pool Round (2 games)"
+27th_July_2021,22:30,Triathlon,Odaiba Marine Park,Women
+27th_July_2021,23:00,Surfing,Tsurigasaki Surfing Beach,"Men's Quarterfinals, Women's Quarterfinals, Men's Semifinals, Women's Semifinals"
+27th_July_2021,0:30,Rowing,Sea Forest Waterway,"Men's Single Sculls Semifinals C/D,Women's Single Sculls Semifinals C/D, Lightweight Men's Double Sculls Final C"
+27th_July_2021,1:00,Rugby,Tokyo Stadium,Men's Pool Round (6 matches)
+27th_July_2021,1:00,Shooting,Asaka Shooting Range,"10m Air Pistol Mixed Team Qualification, 10m Air Pistol Mixed Team Finals, 10m Air Pistol Mixed Team Victory Ceremony, 10m Air Rifle Mixed Team Qualification, 10m Air Rifle Mixed Team Finals, 10m Air Rifle Mixed Team Victory Ceremony"
+27th_July_2021,1:00,Handball,Yoyogi National Stadium,"Women's Preliminary Round Group A: Japan vs Montenegro, Women's Preliminary Round Group B: Brazil vs Hungary"
+27th_July_2021,1:00,Beach volleyball,Shiokaze Park,Men's or Women's Preliminaries (4 matches)
+27th_July_2021,1:00,Volleyball,Ariake Arena,"Women's Preliminary Round - Pool B: ROC vs Argentina, Women's Preliminary Round - Pool B: China vs United States"
+27th_July_2021,1:30,Archery,Yumenoshima Park Archery Field,"Men's Individual 1/32 & 1/16 Eliminations, Women's Individual 1/32 & 1/16 Eliminations"
+27th_July_2021,1:30,Hockey,Oi Hockey Stadium,"Men's Pool A: Argentina vs Australia, Men's Pool A: Japan vs New Zealand"
+27th_July_2021,2:00,Badminton,Musashino Forest Sport Plaza,"Men's Singles Group Play Stage, Women's Singles Group Play Stage, Men's Doubles Group Play Stage, Women's Doubles Group Play Stage"
+27th_July_2021,2:00,Table Tennis,Tokyo Metropolitan Gymnasium,"Men's Singles Round 3, Women's Singles Round 3"
+27th_July_2021,2:00,Hockey,Oi Hockey Stadium,"Men's Pool A: India vs Spain, Men's Pool B: Germany vs Great Britain"
+27th_July_2021,2:00,Water Polo,Tatsumi Water Polo Centre,"Men's Preliminary Round - Group A: South Africa vs United States, Men's Preliminary Round - Group B: Montenegro vs Spain"
+27th_July_2021,2:00,Basketball,Saitama Super Arena,Women's Preliminary Round Group B: Japan vs France
+27th_July_2021,2:00,Taekwondo,Makuhari Messe Hall,"Women +67 kg Round of 16 (8 matches), Men +80 kg Round of 16 (8 matches), Women +67 kg Quarterfinals (4 matches), Men +80 kg Quarterfinals (4 matches), Women +67 kg Semifinals (2 matches), Men +80 kg Semifinals (2 matches)"
+27th_July_2021,2:00,Fencing,Makuhari Messe Hall,"Women's Epée Team Table of 16, Women's Epée Team Quarterfinals, Women's Epée Team Classification 5-8, Women's Epée Team Semifinals, Women's Epée Team Placement 5-6, Women's Epée Team Placement 7-8"
+27th_July_2021,2:30,Swimming,Tokyo Aquatics Centre,"Women's 200m Freestyle Semifinals, Men's 200m Freestyle Final, Women's 100m Backstroke Final, Men's 100m Backstroke Final, Women's 100m Breaststroke Final, Men's 200m Butterfly Semifinals, Women's 200m Individual Medley Semifinals"
+27th_July_2021,3:00,Tennis,Ariake Tennis Park,"Men's Singles Second Round, Women's Singles Third Round, Men's Doubles Quarterfinals, Women's Doubles Second Round/Quarterfinals"
+27th_July_2021,3:00,Judo,Nippon Budokan,"Women -63 kg Elimination Rounds, Women -63 kg Quarterfinals, Men -81 kg Elimination Rounds, Men -81 kg Quarterfinals"
+27th_July_2021,3:00,Boxing,Kokugikan Arena,"Men's Welter (63-69kg) - Preliminaries - Round of 16, Men's Heavy (81-91kg) - Preliminaries - Round of 16, Women's Light (57-60kg) - Preliminaries - Round of 32, Women's Welter (64-69kg) - Preliminaries - Round of 16"
+27th_July_2021,3:50,Weightlifting,Tokyo International Forum,Women's 59 kg Group B and Women's 64 kg Group B
+27th_July_2021,4:00,Sailing,Enoshima Yacht Harbour,"Laser Men, Laser Radial Women, Finn Men, 49er Men, 49er FX Women"
+27th_July_2021,5:00,Softball,Yokohama Baseball Stadium,Softball Bronze Medal Game
+27th_July_2021,5:30,3x3 Basketball,Aomi Urban Sports Park,"Women's Pool Round (2 games), Men's Pool Round (2 games)"
+27th_July_2021,5:40,Basketball,Saitama Super Arena,Women's Preliminary Round Group B: Nigeria vs United States
+27th_July_2021,6:00,Canoe Slalom,Kasai Canoe Slalom Centre,"Kayak (K1) Women Semi-final, Kayak (K1) Women Final"
+27th_July_2021,6:00,Water Polo,Tatsumi Water Polo Centre,"Men's Preliminary Round - Group B: Kazakhstan vs Serbia, Men's Preliminary Round - Group A: Italy vs Greece"
+27th_July_2021,6:15,Handball,Yoyogi National Stadium,"Women's Preliminary Round Group B: Sweden vs ROC, Women's Preliminary Round Group A: Republic of Korea vs Netherlands"
+27th_July_2021,6:20,Volleyball,Ariake Arena,"Women's Preliminary Round - Pool A: Japan vs Serbia, Women's Preliminary Round - Pool B: Italy vs Turkey"
+27th_July_2021,6:30,Table Tennis,Tokyo Metropolitan Gymnasium,"Men's Singles Round 3, Women's Singles Round 3, Men's Singles Round of 16, Women's Singles Round of 16"
+27th_July_2021,7:00,Beach Volleyball,Shiokaze Park,Men's or Women's Preliminaries (3 matches)
+27th_July_2021,7:00,Cycling Mountain Bike,Izu MTB Course,Women's Cross-country
+27th_July_2021,7:00,Diving,Tokyo Aquatics Centre,Women's Synchronised 10m Platform Final
+27th_July_2021,7:50,Weightlifting,Tokyo International Forum,Women's 59 kg Group A
+27th_July_2021,8:00,Archery,Yumenoshima Park Archery Field,"Men's Individual 1/32 & 1/16 Eliminations, Women's Individual 1/32 & 1/16 Eliminations"
+27th_July_2021,8:30,Rugby,Tokyo Stadium,Men's Placing 9-12 (2 matches) & Quarter-finals (4 matches)
+27th_July_2021,9:00,3x3 Basketball,Aomi Urban Sports Park,"Women's Pool Round (2 games), Men's Pool Round (2 games)"
+27th_July_2021,9:00,Equestrian,Equestrian Park,Dressage Team Grand Prix Special
+27th_July_2021,9:00,Football,Ibaraki Kashima Stadium, Women's Group G: United States vs Australia
+27th_July_2021,9:00,Football,Miyagi Stadium,"Women's Group G: New Zealand vs Sweden, Women's Group E: Chile vs Japan"
+27th_July_2021,9:00,Judo,Nippon Budokan,"Women -63 kg Repechage, Women -63 kg Semifinals, Men -81 kg Repechage, Men -81 kg Semifinals, Women -63 kg Contests for Bronze Medal, Women -63 kg Final, Men -81 kg Contests for Bronze Medal, Men -81 kg Final"
+27th_July_2021,9:00,Boxing,Kokugikan Arena,"Men's Welter (63-69kg) - Preliminaries - Round of 16, Men's Heavy (81-91kg) - Preliminaries - Round of 16, Women's Light (57-60kg) - Preliminaries - Round of 32, Women's Welter (64-69kg) - Preliminaries - Round of 16"
+27th_July_2021,10:00,Badminton,Musashino Forest Sport Plaza,"Men's Singles Group Play Stage, Women's Singles Group Play Stage, Men's Doubles Group Play Stage, Women's Doubles Group Play Stage"
+27th_July_2021,10:20,Water Polo,Tatsumi Water Polo Centre,"Men's Preliminary Round - Group A: Japan vs Hungary, Men's Preliminary Round - Group B: Australia vs Croatia"
+27th_July_2021,10:30,Fencing,Makuhari Messe Hall,"Women's Epée Team Bronze Medal Match, Women's Epée Team Gold Medal Match"
+27th_July_2021,10:30,Hockey,Oi Hockey Stadium,"Men's Pool B: Belgium vs South Africa, Men's Pool B: Netherlands vs Canada"
+27th_July_2021,9:20,Basketball,Saitama Super Arena,Women's Preliminary Round Group C: Australia vs Belgium
+27th_July_2021,11:00,Swimming,Tokyo Aquatics Centre,"Men's 100m Freestyle - Heats, Women's 200m Butterfly - Heats, Men's 200m Breaststroke - Heats, Men's 4 x 200m Freestyle Relay - Heats, Men's 800m Freestyle - Heats"
+27th_July_2021,11:00,Taekwondo,Makuhari Messe Hall,"Women +67 kg Repechages (2 matches), Men +80 kg Repechages (2 matches), Women +67 kg Bronze Medal Contests (2 matches), Men +80 kg Bronze Medal Contests (2 matches), Women +67 kg Gold Medal Contest, Men +80 kg Gold Medal Contest"
+27th_July_2021,11:30,Handball,Yoyogi National Stadium,"Women's Preliminary Round Group A: Angola vs Norway, Women's Preliminary Round Group B: France vs Spain"
+27th_July_2021,11:30,Table Tennis,Tokyo Metropolitan Gymnasium,"Men's Singles Round of 16, Women's Singles Round of 16"
+27th_July_2021,11:40,Volleyball,Ariake Arena,"Women's Preliminary Round - Pool A: Brazil vs Dominican Rep., Women's Preliminary Round - Pool A: Republic of Korea vs Kenya"
+27th_July_2021,11:45,Artistic Gymnastics,Ariake Gymnastics Centre,Women's Team Final
+27th_July_2021,11:50,Weightlifting,Tokyo International Forum,Women's 64 kg Group A
+27th_July_2021,12:00,Softball,Yokohama Baseball Stadium,Softball Gold Medal Game
+27th_July_2021,12:00,Beach Volleyball,Shiokaze Park,Men's or Women's Preliminaries (3 matches)
+27th_July_2021,12:30,3x3 Basketball,Aomi Urban Sports Park,"Women's Pool Round (2 games), Men's Pool Round (2 games)"
+27th_July_2021,12:30,Football,Saitama Stadium,"Women's Group F: Brazil vs Zambia, Women's Group F: Netherlands vs China"
+27th_July_2021,13:00,Basketball,Saitama Super Arena,Women's Preliminary Round Group C: Puerto Rico vs China
+28th_July_2021,0:00,Surfing,Tsurigasaki Surfing Beach,"Women's Bronze medal match, Men's Bronze medal match, Women's Gold medal match, Men's Gold medal match"
+28th_July_2021,0:30,Rowing,Sea Forest Waterway,"Women's Double Sculls Final B, Men's Double Sculls Final B, Women's Four Final B, Men's Four Final B, Women's Double Sculls Final A, Men's Double Sculls Final A, Women's Double Sculls Victory Ceremony, Women's Four Final A, Men's Double Sculls Victory Ceremony, Men's Four Finals A, Women's Four Victory Ceremony, Women's Eight Repechage, Men's Four Victory Ceremony, Men's Eight Repechage, Women's Single Sculls Semifinals A/B, Men's Single Sculls Semifinals A/B"
+28th_July_2021,1:00,Volleyball,Ariake Arena,"Men's Preliminary Round - Pool A: Canada vs Islamic Rep. of Iran, Men's Preliminary Round - Pool B: United States vs Tunisia"
+28th_July_2021,1:00,Handball,Yoyogi National Stadium,"Men's Preliminary Round Group B: Denmark vs Bahrain, Men's Preliminary Round Group B: Sweden vs Portugal"
+28th_July_2021,1:00,Shooting,Asaka Shooting Range,"Trap Women's Qualification - Day 1, Trap Men's Qualification - Day 1"
+28th_July_2021,1:00,Rugby,Tokyo Stadium,"Men's Placing 11-12, Men's Placing 9-10, Men's Placing 5-8 (2 matches), Men's Semi-finals (2 matches)"
+28th_July_2021,1:00,Beach Volleyball,Shiokaze Park,Men's or Women's Preliminaries (3 matches)
+28th_July_2021,1:00,Badminton,Musashino Forest Sport Plaza,"Women's Singles Group Play Stage, Mixed Doubles Quarterfinals"
+28th_July_2021,1:30,Archery,Yumenoshima Park Archery Field,"Men's Individual 1/32 & 1/16 Eliminations, Women's Individual 1/32 & 1/16 Eliminations"
+28th_July_2021,1:30,Hockey,Oi Hockey Stadium,"Women's Pool A: Netherlands vs South Africa, Women's Pool B: New Zealand vs Spain"
+28th_July_2021,2:00,Hockey,Oi Hockey Stadium,"Women's Pool A: Great Britain vs India, Women's Pool A: Germany vs Ireland"
+28th_July_2021,2:00,Basketball,Saitama Super Arena,Men's Preliminary Round Group B: Nigeria vs Winner of Olympic Qualifying Tournament in Split(Croatia)
+28th_July_2021,2:00,Fencing,Makuhari Messe Hall,"Men's Sabre Team Table of 16, Men's Sabre Team Quarterfinals, Men's Sabre Team Classification 5-8, Men's Sabre Team Semifinals, Men's Sabre Team Placement 5-6, Men's Sabre Team Placement 7-8"
+28th_July_2021,2:00,Table Tennis,Tokyo Metropolitan Gymnasium,"Women's Singles Quarterfinals, Men's Singles Quarterfinals"
+28th_July_2021,2:30,Swimming,Tokyo Aquatics Centre,"Men's 100m Freestyle Semifinals, Women's 200m Freestyle Final, Men's 200m Butterfly Final, Women´s 200m Butterfly Semifinals, Women's 200m Freestyle Victory Ceremony, Men's 200m Breaststroke Semifinals, Men's 200m Butterfly Victory Ceremony, Women's 200m Individual Medley Final, Women's 1500m Freestyle Final, Women's 200m Individual Medley Victory Ceremony, Men's 4 x 200m Freestyle Relay Final"
+28th_July_2021,3:00,Tennis,Ariake Tennis Park,"Men's Singles Third Round, Women's Singles Quarterfinals, Men's Doubles Semifinals, Women's Doubles Quarterfinals, Mixed Doubles First Round"
+28th_July_2021,3:00,Boxing,Kokugikan Arena,"Women's Feather (54-57kg) QuarterFinal, Women's Middle (69-75kg) - Preliminaries - Round of 16, Men's Feather (52-57kg) - Preliminaries - Round of 16, Men's Light Heavy (75-81kg) - Preliminaries - Round of 16"
+28th_July_2021,4:00,Baseball,Fukushima Azuma Baseball Stadium,Baseball Opening Round
+28th_July_2021,4:00,Sailing,Enoshima Yacht Harbour,"RS:X Men, RS:X Women, Finn Men, 470 Men, 470 Women, 49er Men, 49er FX Women, Foiling Nacra 17 Mixed"
+28th_July_2021,3:30,Cycling Road,Fuji international Speedway,"Women's Individual Time Trial, Women's Individual Time Trial Victory Ceremony, Men's Individual Time Trial, Men's Individual Time Trial Victory Ceremony"
+28th_July_2021,5:00,Canoe Slalom,Kasai Canoe Slalom Centre,"Canoe (C1) Women Heats, Kayak (K1) Men Heats"
+28th_July_2021,5:40,Basketball,Saitama Super Arena,Men's Preliminary Round Group A: United States vs Islamic Rep. of Iran
+28th_July_2021,5:50,Weightlifting,Tokyo International Forum,Men's 73 kg Group B
+28th_July_2021,6:00,Volleyball,Ariake Arena,"Women's Preliminary Round - Group B: Hungary vs United States, Women's Preliminary Round - Group A: Canada vs South Africa"
+28th_July_2021,6:15,Handball,Yoyogi National Stadium,"Men's Preliminary Round Group B: Japan vs Egypt, Men's Preliminary Round Group A: Norway vs Argentina"
+28th_July_2021,6:20,Volleyball,Ariake Arena,"Men's Preliminary Round - Pool B: Argentina vs France, Men's Preliminary Round - Pool A: Poland vs Venezuela"
+28th_July_2021,7:00,Table Tennis,Tokyo Metropolitan Gymnasium,"Women's Singles Quarterfinals, Men's Singles Quarterfinals"
+28th_July_2021,7:00,Beach Volleyball,Shiokaze Park,Men's or Women's Preliminaries (3 matches)
+28th_July_2021,7:00,Diving,Tokyo Aquatics Centre,Men's Synchronised 3m Springboard Final
+28th_July_2021,8:00,Archery,Yumenoshima Park Archery Field,"Men's Individual 1/32 & 1/16 Eliminations, Women's Individual 1/32 & 1/16 Eliminations"
+28th_July_2021,8:30,Rugby,Tokyo Stadium,"Men's Placing 7-8, Men's Placing 5-6, Men's Bronze Medal Match, Men's Gold Medal Match"
+28th_July_2021,9:00,3x3 Basketball,Aomi Urban Sports Park,"Women's Semifinals (2 games), Men's Semifinals (2 games)"
+28th_July_2021,9:00,Football,Miyagi Stadium,Men's Group D: Germany vs Côte d'Ivoire
+28th_July_2021,9:00,Football,Saitama Stadium,"Men's Group D: Saudi Arabia vs Brazil, Men's Group C: Spain vs Argentina"
+28th_July_2021,9:00,Boxing,Kokugikan Arena,"Women's Feather (54-57kg) QuarterFinal, Women's Middle (69-75kg) - Preliminaries - Round of 16, Men's Feather (52-57kg) - Preliminaries - Round of 16, Men's Light Heavy (75-81kg) - Preliminaries - Round of 16"
+28th_July_2021,9:20,Basketball,Saitama Super Arena,Men's Preliminary Round Group B: Winner of Olympic Qualifying Tournament in Belgrade(Serbia) vs Australia
+28th_July_2021,9:30,Equestrian,Equestrian Park,Dressage Individual Grand Prix Freestyle
+28th_July_2021,9:30,Football,International Stadium Yokohama," Men's Group B: Republic of Korea vs Honduras, Men's Group A: France vs Japan"
+28th_July_2021,9:30,Football,Sapporo Dome,"Men's Group B: Romania vs New Zealand, Men's Group A: South Africa vs Mexico"
+28th_July_2021,10:00,Badminton,Musashino Forest Sport Plaza,Men's Singles Group Play Stage
+28th_July_2021,10:20,Volleyball,Ariake Arena,"Women's Preliminary Round - Group B: China vs Japan, Women's Preliminary Round - Group A: Netherlands vs Spain"
+28th_July_2021,10:30,Fencing,Makuhari Messe Hall,"Men's Sabre Team Bronze Medal Match, Men's Sabre Team Gold Medal Match"
+28th_July_2021,10:30,Hockey,Oi Hockey Stadium,"Women's Pool B: Japan vs Australia, Men's Pool A: Japan vs Spain"
+28th_July_2021,11:00,Swimming,Tokyo Aquatics Centre,"Women's 100m Freestyle - Heats, Men's 200m Backstroke - Heats, Women's 200m Breaststroke - Heats~, Men's 200m Individual Medley - Heats, Women's 4 x 200m Freestyle Relay - Heats"
+28th_July_2021,11:00,Hockey,Oi Hockey Stadium,"Women's Pool B: Argentina vs China, Men's Pool A: Australia vs New Zealand"
+28th_July_2021,11:30,Handball,Yoyogi National Stadium,"Men's Preliminary Round Group A: Brazil vs Spain, Men's Preliminary Round Group A: France vs Germany"
+28th_July_2021,11:15,Artistic Gymnastics,Ariake Gymnastics Centre,Men's All-Around Final
+28th_July_2021,11:40,Volleyball,Ariake Arena,"Men's Preliminary Round - Pool A: Japan vs Italy, Men's Preliminary Round - Pool B: Brazil vs ROC"
+28th_July_2021,11:50,Weightlifting,Tokyo International Forum,Men's 73 kg Group A
+28th_July_2021,12:00,Table Tennis,Tokyo Metropolitan Gymnasium,"Women's Singles Quarterfinals, Men's Singles Quarterfinals"
+28th_July_2021,12:00,Beach Volleyball,Shiokaze Park,Men's or Women's Preliminaries (3 matches)
+28th_July_2021,12:45,3x3 Basketball,Aomi Urban Sports Park,"Women's Bronze Medal Game, Men's Bronze Medal Game, Women's Gold Medal Game, Men's Gold Medal Game"
+28th_July_2021,13:00,Basketball,Saitama Super Arena,Men's Preliminary Round Group A: Winner of Olympic Qualifying Tournament in Victoria(Canada) vs France
+29th_July_2021,xx,Surfing,Tsurigasaki Surfing Beach,Competition TBD
+29th_July_2021,23:30,Golf,Kasumigaseki Country Club,Men's Individual Stroke Play Round 1
+29th_July_2021,0:30,Rowing,Sea Forest Waterway,"Men's Single Sculls Final F, Women's Single Sculls Final F, Men's Single Sculls Final E, Women's Single Sculls Final E, Men's Pair Final A, Women's Pair Final A, Men's Pair Victory Ceremony, Lightweight Men's Double Sculls Final A, Women's Pair Victory Ceremony, Lightweight, Women's Double Sculls Final A, Lightweight Men's Double Sculls Victory Ceremony, Men's Pairs Final B, Lightweight Women's Double Sculls Victory Ceremony, Women's Pairs Final B, Lightweight Men's Double Sculls Final B, Lightweight Women's Double Sculls Final B, Women's Single Sculls Final D, Men's Single Sculls Final D"
+29th_July_2021,1:00,Rugby,Tokyo Stadium,Women's Pool Round (6 matches)
+29th_July_2021,1:00,Volleyball,Ariake Arena,"Women's Preliminary Round - Pool B: Italy vs Argentina, Women's Preliminary Round - Pool A: Republic of Korea vs Dominican Rep."
+29th_July_2021,1:00,Beach Volleyball,Shiokaze Park,Men's or Women's Preliminaries (3 matches)
+29th_July_2021,1:00,Handball,Yoyogi National Stadium,"Women's Preliminary Round Group A: Netherlands vs Angola, Women's Preliminary Round Group B: Spain vs Brazil"
+29th_July_2021,1:00,Fencing,Makuhari Messe Hall,"Women's Foil Team Table of 16, Women's Foil Team Quarterfinals, Women's Foil Team Classification 5-8, Women's Foil Team Semifinals, Women's Foil Team Placement 5-6, Women's Foil Team Placement 7-8"
+29th_July_2021,1:00,Badminton,Musashino Forest Sport Plaza,"Mixed Doubles Semifinals, Men's Doubles Quarterfinals, Women's Singles Round of 16"
+29th_July_2021,1:00,Shooting,Asaka Shooting Range,25m Pistol Women's Precision Stage
+29th_July_2021,1:00,Shooting,Asaka Shooting Range,"Trap Women's Qualification - Day 2, Trap Men's Qualification - Day 2, Trap Women's Finals, Trap Men's Finals"
+29th_July_2021,1:30,Archery,Yumenoshima Park Archery Field,"Men's Individual 1/32 & 1/16 Eliminations, Women's Individual 1/32 & 1/16 Eliminations"
+29th_July_2021,1:30,Hockey,Oi Hockey Stadium,"Men's Pool A: India vs Argentina, Men's Pool B: South Africa vs Germany"
+29th_July_2021,2:00,Basketball,Saitama Super Arena,Women's Preliminary Round Group A: Canada vs Republic of Korea
+29th_July_2021,2:00,Cycling BMX Racing,Ariake Urban Sports Park,"Men's Quarterfinals, Women's Quarterfinals"
+29th_July_2021,2:00,Hockey,Oi Hockey Stadium,"Men's Pool B: Belgium vs Canada, Men's Pool B: Netherlands vs Great Britain"
+29th_July_2021,2:00,Water Polo,Tatsumi Water Polo Centre,"Men's Preliminary Round - Group A: Hungary vs South Africa, Men's Preliminary Round - Group B: Spain vs Kazakhstan"
+29th_July_2021,2:30,Swimming,Tokyo Aquatics Centre,"Men's 800m Freestyle Final, Men's 200m Breaststroke Final, Women's 100m Freestyle Semifinals, Men's 200m Backstroke Semifinals, Men's 800m Freestyle Victory Ceremony, Women's 200m Butterfly Final, Men's 100m Freestyle Final, Men's 200m Breaststroke Victory Ceremony, Women's 200m Breaststroke Semifinals, Men's 200m Individual Medley Semifinals, Women's 200m Butterfly Victory Ceremony, Women's 4 x 200m Freestyle Relay Final"
+29th_July_2021,3:00,Table Tennis,Tokyo Metropolitan Gymnasium,Women's Singles Semifinals
+29th_July_2021,3:00,Tennis,Ariake Tennis Park,"Men's Singles Quarterfinals, Women's Singles Semifinals, Women's Doubles Semifinals, Mixed Doubles Quarterfinals"
+29th_July_2021,3:00,Judo,Nippon Budokan,"Women -70 kg Elimination Rounds, Women -70 kg Quarterfinals, Men -90 kg Elimination Rounds, Men -90 kg Quarterfinals"
+29th_July_2021,3:00,Boxing,Kokugikan Arena,"Men's Middle (69-75kg) - Preliminaries - Round of 16, Men's Super Heavy (+91kg) - Preliminaries - Round of 16, Women's Fly (48-51kg) - Preliminaries - Round of 16"
+29th_July_2021,4:00,Sailing,Enoshima Yacht Harbour,"RS:X Men, RS:X Women, Laser Men, Laser Radial Women, Finn Men, 470 Men, 470 Women"
+29th_July_2021,5:40,Basketball,Saitama Super Arena,Men's Preliminary Round Group C: Winner of Olympic Qualifying Tournament in Kaunas(Lithuania) vs Japan
+29th_July_2021,6:00,Canoe Slalom,Kasai Canoe Slalom Centre,"Canoe (C1) Women Semi-final, Canoe (C1) Women Final"
+29th_July_2021,6:00,Water Polo,Tatsumi Water Polo Centre,"Men's Preliminary Round - Group A: United States vs Italy, Men's Preliminary Round - Group B: Croatia vs Montenegro"
+29th_July_2021,6:15,Handball,Yoyogi National Stadium,"Women's Preliminary Round Group A: Japan vs Republic of Korea, Women's Preliminary Round Group A: Montenegro vs Norway"
+29th_July_2021,6:20,Volleyball,Ariake Arena,"Women's Preliminary Round - Pool A: Serbia vs Kenya, Women's Preliminary Round - Pool B: China vs ROC"
+29th_July_2021,7:00,Table Tennis,Tokyo Metropolitan Gymnasium,Men's Singles Semifinals
+29th_July_2021,7:00,Beach Volleyball,Shiokaze Park,Men's or Women's Preliminaries (3 matches)
+29th_July_2021,8:00,Archery,Yumenoshima Park Archery Field,"Men's Individual 1/32 & 1/16 Eliminations, Women's Individual 1/32 & 1/16 Eliminations"
+29th_July_2021,8:30,Rugby,Tokyo Stadium,Women's Pool Round (6 matches)
+29th_July_2021,9:00,Badminton,Musashino Forest Sport Plaza,"Men's Singles Round of 16, Women's Doubles Quarterfinals"
+29th_July_2021,9:00,Judo,Nippon Budokan,"Women -70 kg Repechage, Women -70 kg Semifinals, Men -90 kg Repechage, Men -90 kg Semifinals, Women -70 kg Contests for Bronze Medal, Women -70 kg Final, Men -90 kg Contests for Bronze Medal, Men -90 kg Final"
+29th_July_2021,9:00,Boxing,Kokugikan Arena,"Men's Middle (69-75kg) - Preliminaries - Round of 16, Men's Super Heavy (+91kg) - Preliminaries - Round of 16, Women's Fly (48-51kg) - Preliminaries - Round of 16"
+29th_July_2021,9:20,Basketball,Saitama Super Arena,Women's Preliminary Round Group A: Spain vs Serbia
+29th_July_2021,10:20,Water Polo,Tatsumi Water Polo Centre,"Men's Preliminary Round - Group A: Greece vs Japan, Men's Preliminary Round - Group B: Serbia vs Australia"
+29th_July_2021,10:30,Fencing,Makuhari Messe Hall,"Women's Foil Team Bronze Medal Match, Women's Foil Team Gold Medal Match"
+29th_July_2021,10:30,Hockey,Oi Hockey Stadium,"Women's Pool B: Spain vs China, Women's Pool B: Japan vs Argentina"
+29th_July_2021,11:00,Baseball,Yokohama Baseball Stadium,Baseball Opening Round
+29th_July_2021,11:00,Swimming,Tokyo Aquatics Centre,"Women's 800m Freestyle - Heats, Men's 100m Butterfly - Heats, Women's 200m Backstroke - Heats, Mixed 4 x 100m Medley Relay - Heats"
+29th_July_2021,11:00,Hockey,Oi Hockey Stadium,"Women's Pool A: Great Britain vs Netherlands, Women's Pool B: New Zealand vs Australia"
+29th_July_2021,11:30,Handball,Yoyogi National Stadium,"Women's Preliminary Round Group B: Hungary vs ROC, Women's Preliminary Round Group B: Sweden vs France"
+29th_July_2021,11:40,Volleyball,Ariake Arena,"Women's Preliminary Round - Pool A: Japan vs Brazil, Women's Preliminary Round - Pool B: United States vs Turkey"
+29th_July_2021,11:50,Artistic Gymnastics,Ariake Gymnastics Centre,Women's All-Around Final
+29th_July_2021,12:00,Beach Volleyball,Shiokaze Park,Men's or Women's Preliminaries (3 matches)
+29th_July_2021,12:00,Table Tennis,Tokyo Metropolitan Gymnasium,"Women's Singles Bronze Medal Match, Women's Singles Gold Medal Match"
+29th_July_2021,13:00,Basketball,Saitama Super Arena,Men's Preliminary Round Group C: Spain vs Argentina
+30th_July_2021,xx,Surfing,Tsurigasaki Surfing Beach,Competition TBD
+30th_July_2021,23:30,Golf,Kasumigaseki Country Club,Men's Individual Stroke Play Round 2
+30th_July_2021,0:30,Equestrian,Equestrian Park,Eventing Dressage Team and Individual Day 1 - Session 1
+30th_July_2021,0:45,Rowing,Sea Forest Waterway,"Women's Single Sculls Final C, Men's Single Sculls Final C, Women's Single Sculls Final B, Men's Single Sculls Final B, Women's Single Sculls Final A, Men's Single Sculls Final A, Women's Single Sculls Victory Ceremony, Women's Eight Final A, Men's Single Sculls Victory Ceremony, Men's Eight Final A"
+30th_July_2021,1:00,Rugby,Tokyo Stadium,Women's Pool Round (6 matches)
+30th_July_2021,1:00,Volleyball,Ariake Arena,"Men's Preliminary Round - Pool A: Canada vs Venezuela, Men's Preliminary Round - Pool B: Brazil vs United States"
+30th_July_2021,1:00,Athletics,Olympic Stadium,"Men's 3000m Steeplechase Round 1, Men's High Jump Qualifying Round, Men's Discus Throw Qualifying Round, Women's 800m Round 1, Men's 400m Hurdles Round 1, Women's 100m Round 1"
+30th_July_2021,1:00,Handball,Yoyogi National Stadium,"Men's Preliminary Round Group A: Argentina vs Brazil, Men's Preliminary Round Group B: Bahrain vs Japan"
+30th_July_2021,1:00,Beach volleyball,Shiokaze Park,Men's or Women's Preliminaries (3 matches)
+30th_July_2021,1:00,Badminton,Musashino Forest Sport Plaza,"Women's Singles Quarterfinals, Mixed Doubles Bronze Medal Match"
+30th_July_2021,1:00,Shooting,Asaka Shooting Range,"25m Pistol Women's Qualification, 25m Pistol Women's Finals"
+30th_July_2021,1:30,Hockey,Oi Hockey Stadium,"Women's Pool A: South Africa vs Germany, Women's Pool A: Ireland vs India"
+30th_July_2021,1:30,Archery,Yumenoshima Park Archery Field,Women's Individual 1/8 Eliminations
+30th_July_2021,2:00,Basketball,Saitama Super Arena,Women's Preliminary Round Group C: Belgium vs Puerto Rico
+30th_July_2021,2:00,Hockey,Oi Hockey Stadium,"Men's Pool A: Australia vs Spain, Men's Pool B: Canada vs South Africa"
+30th_July_2021,2:00,Fencing,Makuhari Messe Hall,"Men's Epée Team Table of 16, Men's Epée Team Quarterfinals, Men's Epée Team Classification 5-8, Men's Epée Team Semifinals, Men's Epée Team Placement 5-6, Men's Epée Team Placement 7-8"
+30th_July_2021,2:00,Cycling BMX Racing,Ariake Urban Sports Park,"Men's Semifinals, Women's Semifinals, Men's Final, Women's Final"
+30th_July_2021,2:30,Swimming,Tokyo Aquatics Centre,"Men's 100m Butterfly Semifinals, Women's 200m Breaststroke Final, Men's 200m Backstroke Final, Women's 100m Freestyle Final, Women's 200m Breaststroke Victory Ceremony, Men's 200m Individual Medley Final, Men's 200m Backstroke Victory Ceremony, Women's 200m Backstroke Semifinals"
+30th_July_2021,3:00,Boxing,Kokugikan Arena,"Women's Light (57-60kg) - Preliminaries - Round of 16, Women's Welter (64-69kg) Quarterfinals, Men's Welter (63-69kg) Quarterfinals, Men's Light Heavy (75-81kg) Quarterfinals, Men's Heavy (81-91kg) Quarterfinals"
+30th_July_2021,2:00,Judo,Nippon Budokan,"Women +78 kg Elimination Rounds, Women +78 kg Quarterfinals, Men +100 kg Elimination Rounds, Men +100 kg Quarterfinals"
+30th_July_2021,4:00,Baseball,Yokohama Baseball Stadium,Baseball Opening Round
+30th_July_2021,4:00,Tennis,Ariake Tennis Park,"Men's Singles Semifinals, Men's Doubles Gold Medal Match, Men's Doubles Bronze Medal Match, Mixed Doubles Semifinals"
+30th_July_2021,4:00,Sailing,Enoshima Yacht Harbour,"Laser Men, Laser Radial Women, 470 Men, 470 Women, 49er Men, 49er FX Women"
+30th_July_2021,5:00,Trampoline Gymnastics,Ariake Gymnastics Centre,"Women's Qualification, Women's Final"
+30th_July_2021,5:40,Basketball,Saitama Super Arena,Women's Preliminary Round Group B: United States vs Japan
+30th_July_2021,6:00,Canoe Slalom,Kasai Canoe Slalom Centre,"Kayak (K1) Men Semi-final, Kayak (K1) Men Final"
+30th_July_2021,6:00,Water Polo,Tatsumi Water Polo Centre,"Women's Preliminary Round - Group A: South Africa vs Netherlands, Women's Preliminary Round - Group B: United States vs ROC"
+30th_July_2021,6:15,Handball,Yoyogi National Stadium,"Men's Preliminary Round Group A: France vs Spain, Men's Preliminary Round Group B: Sweden vs Egypt"
+30th_July_2021,6:20,Volleyball,Ariake Arena,"Men's Preliminary Round - Pool A: Japan vs Poland, Men's Preliminary Round - Pool B: Argentina vs Tunisia"
+30th_July_2021,6:45,Archery,Yumenoshima Park Archery Field,"Women's Individual Quarterfinals, Women's Individual Semifinals, Women's Individual Bronze Medal Match, Women's Individual Gold Medal Match"
+30th_July_2021,7:00,Diving,Tokyo Aquatics Centre,Women's 3m Springboard Preliminary
+30th_July_2021,7:00,Beach volleyball,Shiokaze Park,Men's or Women's Preliminaries (3 matches)
+30th_July_2021,7:30,Badminton,Musashino Forest Sport Plaza,"Mixed Doubles Gold Medal Match, Mixed Doubles Victory Ceremony, Women's Singles Quarterfinals, Men's Doubles Semifinals"
+30th_July_2021,8:30,Rugby.,Tokyo Stadium,"Women's Placing 9-12 (2 matches), Women's Quarter-finals (4 matches)"
+30th_July_2021,9:00,Boxing,Kokugikan Arena,"Women's Light (57-60kg) - Preliminaries - Round of 16, Women's Welter (64-69kg) Quarterfinals, Men's Welter (63-69kg) Quarterfinals, Men's Light Heavy (75-81kg) Quarterfinals, Men's Heavy (81-91kg) Quarterfinals"
+30th_July_2021,9:00,Football,Miyagi Stadium,Women's Quarterfinal (4 matches)
+30th_July_2021,9:00,Judo,Nippon Budokan,"Women +78 kg Repechage, Women +78 kg Semifinals, Men +100 kg Repechage, Men +100 kg Semifinals, Women +78 kg Contests for Bronze Medal, Women +78 kg Final, Men +100 kg Contests for Bronze Medal, Men +100 kg Final"
+30th_July_2021,9:20,Basketball,Saitama Super Arena,Women's Preliminary Round Group B: France vs Nigeria
+30th_July_2021,9:30,Equestrian,Equestrian Park,Eventing Dressage Team and Individual Day 1 - Session 2
+30th_July_2021,10:20,Water Polo,Tatsumi Water Polo Centre,"Women's Preliminary Round - Group B: Japan vs Hungary, Women's Preliminary Round - Group A: Spain vs Australia"
+30th_July_2021,10:30,Fencing,Makuhari Messe Hall,"Men's Epée Team Bronze Medal Match, Men's Epée Team Gold Medal Match"
+30th_July_2021,10:30,Hockey,Oi Hockey Stadium,"Men's Pool A: Japan vs India, Men's Pool B: Germany vs Netherlands"
+30th_July_2021,11:00,Baseball,Yokohama Baseball Stadium,Baseball Opening Round
+30th_July_2021,11:00,Swimming,Tokyo Aquatics Centre,"Men's 50m Freestyle - Heats, Women's 50m Freestyle - Heats, Men's 1500m Freestyle - Heats, Women's 4 x 100m Medley Relay - Heats, Men's 4 x 100m Medley Relay - Heats"
+30th_July_2021,11:00,Athletics,Olympic Stadium,"Women's 5000m Round 1, Women's Triple Jump Qualifying Round, Women's Shot Put Qualifying Round, Mixed 4 x 400m Relay Round 1, Men's 10000m Final"
+30th_July_2021,11:00,Hockey,Oi Hockey Stadium,"Men's Pool A: Argentina vs New Zealand, Men's Pool B: Belgium vs Great Britain"
+30th_July_2021,11:30,Handball,Yoyogi National Stadium,"Men's Preliminary Round Group B: Portugal vs Denmark, Men's Preliminary Round Group A: Germany vs Norway"
+30th_July_2021,11:40,Volleyball,Ariake Arena,"Men's Preliminary Round - Pool A: Italy vs Islamic Rep. of Iran, Men's Preliminary Round - Pool B: ROC vs France"
+30th_July_2021,12:00,Beach volleyball,Shiokaze Park,Men's or Women's Preliminaries (3 matches)
+30th_July_2021,12:00,Table Tennis,Tokyo Metropolitan Gymnasium,"Men's Singles Bronze Medal Match, Men's Singles Gold Medal Match"
+30th_July_2021,13:00,Basketball,Saitama Super Arena,Women's Preliminary Round Group C: China vs Australia
+31st_July_2021,xx,Surfing,Tsurigasaki Surfing Beach,Competition TBD
+31st_July_2021,23:30,Triathlon,Odaiba Marine Park,Mixed Relay
+31st_July_2021,23:30,Golf,Kasumigaseki Country Club,Men's Individual Stroke Play Round 3
+31st_July_2021,0:30,Equestrian,Equestrian Park,Eventing Dressage Team and Individual Day 2 - Session 3
+31st_July_2021,1:00,Athletics,Olympic Stadium,"Women's 400m Hurdles Round 1, Women's Discus Throw Qualifying Round, Men's Pole Vault Qualifying Round, Men's 800m Round, Women's 100m Hurdles Qualifying Round, Men's 100m Preliminary Round"
+31st_July_2021,1:00,Shooting,Asaka Shooting Range,"Trap Mixed Team Qualification, Trap Mixed Team Finals"
+31st_July_2021,1:00,Volleyball,Ariake Arena,"Women's Preliminary Round - Pool A: Dominican Rep. vs Kenya, Women's Preliminary Round - Pool B: United States vs ROC"
+31st_July_2021,1:00,Handball,Yoyogi National Stadium,"Women's Preliminary Round Group A: Angola vs Japan, Women's Preliminary Round Group A: Montenegro vs Republic of Korea"
+31st_July_2021,1:00,Beach Volley,Shiokaze Park,Men's or Women's Preliminaries (3 matches)
+31st_July_2021,1:00,Badminton,Musashino Forest Sport Plaza,"Men's Singles Quarterfinals, Women's Doubles Semifinals"
+31st_July_2021,1:00,Rugby,Tokyo Stadium,"Women's Placing 11-12, Women's Placing 9-10, Women's Placing 5-8 (2 matches), Women's Semi-finals (2 matches)"
+31st_July_2021,1:30,Archery,Yumenoshima Park Archery Field,Men's Individual 1/8 Eliminations
+31st_July_2021,1:30,Hockey,Oi Hockey Stadium,"Women's Pool B: China vs New Zealand, Women's Pool B: Argentina vs Australia"
+31st_July_2021,2:00,Basketball,Saitama Super Arena,Men's Preliminary Round Group A: Islamic Rep. of Iran vs France
+31st_July_2021,2:00,Hockey,Oi Hockey Stadium,"Women's Pool B: Japan vs Spain, Women's Pool A: India vs South Africa"
+31st_July_2021,2:00,Water Polo,Tatsumi Water Polo Centre,"Men's Preliminary Round - Group B: Montenegro vs Kazakhstan, Men's Preliminary Round - Group B: Australia vs Spain"
+31st_July_2021,2:00,Fencing,Makuhari Messe Hall,"Women's Sabre Team Table of 16, Women's Sabre Team Quarterfinals, Women's Sabre Team Classification 5-8, Women's Sabre Team Semifinals, Women's Sabre Team Placement 5-6, Women's Sabre Team Placement 7-8"
+31st_July_2021,2:10,Cycling BMX Freestyle,Ariake Urban Sports Park,"Women's Park Seeding, Men's Park Seeding"
+31st_July_2021,2:30,Swimming,Tokyo Aquatics Centre,"Men's 100m Butterfly Final, Women's 200m Backstroke Final, Women's 800m Freestyle Final, Men's 100m Butterfly Victory Ceremony, Men's 50m Freestyle Semifinals, Women's 200m Backstroke Victory Ceremony, Women's 50m Freestyle Semifinals, Mixed 4 x 100m Medley Relay Final"
+31st_July_2021,3:00,Boxing,Kokugikan Arena,"Men's Fly (48-52kg) - Preliminaries - Round of 16, Men's Light (57-63kg) - Preliminaries - Round of 16, Women's Middle (69-75kg) QuarterFinals, Women's Feather (54-57kg) SemiFinal"
+31st_July_2021,3:00,Judo,Nippon Budokan,"Mixed Team Elimination rounds, Mixed Team Quarterfinals, Mixed Team Repechage, Mixed Team Semifinals"
+31st_July_2021,3:50,Weightlifting,Tokyo International Forum,Men's 81 kg Group B and Men's 96 kg Group B
+31st_July_2021,4:00,Baseball,Yokohama Baseball Stadium,Baseball Opening Round
+31st_July_2021,4:00,Tennis,Ariake Tennis Park,"Men's Singles Bronze Medal Match, Women's Singles Bronze Medal Match, Women's Singles Gold Medal Match, Women's Doubles Bronze Medal Match, Mixed Doubles Bronze Medal Match"
+31st_July_2021,4:00,Shooting,Asaka Shooting Range,"50m Rifle 3 Positions Women's Qualification, 50m Rifle 3 Positions Women's Finals"
+31st_July_2021,4:00,Sailing,Enoshima Yacht Harbour,"Finn Men, 49er Men, 49er FX Women, Foiling Nacra 17 Mixed, RS:X Women - Medal Race, RS:X Men - Medal Race"
+31st_July_2021,5:00,Trampoline Gymnastics,Ariake Gymnastics Centre,"Men's Qualification, Men's Final"
+31st_July_2021,5:40,Basketball,Saitama Super Arena,Men's Preliminary Round Group B: Winner of Olympic Qualifying Tournament in Belgrade(Serbia) vs Nigeria
+31st_July_2021,6:00,Water Polo,Tatsumi Water Polo Centre,"Men's Preliminary Round - Group A: United States vs Hungary, Men's Preliminary Round - Group B: Croatia vs Serbia"
+31st_July_2021,6:15,Handball,Yoyogi National Stadium,"Women's Preliminary Round Group B: ROC vs France, Women's Preliminary Round Group B: Brazil vs Sweden"
+31st_July_2021,6:20,Volleyball,Ariake Arena,"Women's Preliminary Round - Pool B: Argentina vs Turkey, Women's Preliminary Round - Pool A: Serbia vs Brazil"
+31st_July_2021,6:45,Archery,Yumenoshima Park Archery Field,"Men's Individual Quarterfinals, Men's Individual Semifinals, Men's Individual Bronze Medal Match, Men's Individual Gold Medal Match"
+31st_July_2021,7:00,Diving,Tokyo Aquatics Centre,Women's 3m Springboard Semifinal
+31st_July_2021,7:00,Beach Volley,Shiokaze Park,"Men's or Women's Preliminaries (2 matches), Men's or Women's Lucky Loser (1 match)"
+31st_July_2021,7:50,Weightlifting,Tokyo International Forum,Men's 81 kg Group A
+31st_July_2021,8:30,Rugby,Tokyo Stadium,"Women's Placing 7-8, Women's Placing 5-6, Women's Bronze Medal Match, Women's Gold Medal Match"
+31st_July_2021,9:00,Boxing,Kokugikan Arena,"Men's Fly (48-52kg) - Preliminaries - Round of 16, Men's Light (57-63kg) - Preliminaries - Round of 16, Women's Middle (69-75kg) QuarterFinals, Women's Feather (54-57kg) SemiFinal"
+31st_July_2021,9:00,Judo,Nippon Budokan,"Mixed Team Match for Bronze Medal, Mixed Team Final"
+31st_July_2021,9:00,Football,Miyagi Stadium,Men's Quarterfinal (4 matches)
+31st_July_2021,9:20,Basketball,Saitama Super Arena,Men's Preliminary Round Group B: Australia vs Winner of Olympic Qualifying Tournament in Split(Croatia)
+31st_July_2021,10:00,Badminton,Musashino Forest Sport Plaza,"Women's Singles Semifinals, Men's Doubles Bronze Medal Match, Men's Doubles Gold Medal Match"
+31st_July_2021,10:20,Water Polo,Tatsumi Water Polo Centre,"Men's Preliminary Round - Group A: Italy vs Japan, Men's Preliminary Round - Group A: South Africa vs Greece"
+31st_July_2021,10:30,Fencing,Makuhari Messe Hall,"Women's Sabre Team Bronze Medal Match, Women's Sabre Team Gold Medal Match"
+31st_July_2021,10:30,Hockey,Oi Hockey Stadium,"Women's Pool A: Germany vs Netherlands, Women's Pool A: Ireland vs Great Britain"
+31st_July_2021,11:00,Athletics,Olympic Stadium,"Men's 10000m Victory Ceremony, Men's Long Jump Qualifying Round, Women's 100m Semifinals, Men's 100m Round 1, Men's Discus Throw Final, Women's 800m Semifinals, Mixed 4 x 400m Relay Final, Women's 100m Final"
+31st_July_2021,11:00,Baseball,Yokohama Baseball Stadium,Baseball Opening Round
+31st_July_2021,11:30,Handball,Yoyogi National Stadium,"Women's Preliminary Round Group B: Hungary vs Spain, Women's Preliminary Round Group A: Norway vs Netherlands"
+31st_July_2021,11:40,Volleyball,Ariake Arena,"Women's Preliminary Round - Pool A: Japan vs Republic of Korea, Women's Preliminary Round - Pool B: China vs Italy"
+31st_July_2021,11:50,Weightlifting,Tokyo International Forum,Men's 96 kg Group A
+31st_July_2021,12:00,Beach Volley,Shiokaze Park,Men's or Women's Lucky Loser (3 matches)
+31st_July_2021,13:00,Basketball,Saitama Super Arena,Men's Preliminary Round Group A: United States vs Winner of Olympic Qualifying Tournament in Victoria(Canada)
+1st_August_2021,xx,Surfing,Tsurigasaki Surfing Beach,Competition TBD
+1st_August_2021,23:30,Golf,Kasumigaseki Country Club,Men's Individual Stroke Play Round 4
+1st_August_2021,23:45,Equestrian,Sea Forest Cross-Country Course,Eventing Cross Country Team and Individual
+1st_August_2021,0:30,Shooting,Asaka Shooting Range,25m Rapid Fire Pistol Men's Qualification - Stage 1
+1st_August_2021,1:00,Beach Volleyball,Shiokaze Park,Men's or Women's Round of 16 (8 matches)
+1st_August_2021,1:00,Volleyball,Ariake Arena,"Men's Preliminary Round - Pool A: Poland vs Canada, Men's Preliminary Round - Pool B: Brazil vs France"
+1st_August_2021,1:00,Handball,Yoyogi National Stadium,"Men's Preliminary Round Group B: Portugal vs Japan, Men's Preliminary Round Group B: Egypt vs Bahrain"
+1st_August_2021,1:00,Fencing,Makuhari Messe Hall,"Men's Foil Team Table of 16, Men's Foil Team Quarterfinals, Men's Foil Team Classification 5-8, Men's Foil Team Semifinals, Men's Foil Team Placement 5-6, Men's Foil Team Placement 7-8"
+1st_August_2021,1:10,Athletics,Olympic Stadium,"Women's Hammer Throw Qualifying Round, Women's 3000m Steeplechase Round 1, Women's Long Jump Qualifying Round, Men's Discus Throw Victory Ceremony, Women's Shot Put Final, Men's 400m Round 1"
+1st_August_2021,1:30,Hockey,Oi Hockey Stadium,Men's Quarterfinals (2 matches)
+1st_August_2021,2:00,Basketball,Saitama Super Arena,Women's Preliminary Round Group A: Canada vs Spain
+1st_August_2021,2:00,Table Tennis,Tokyo Metropolitan Gymnasium,"Men's Team Round of 16, Women's Team Round of 16"
+1st_August_2021,2:10,Cycling BMX Freestyle,Ariake Urban Sports Park,"Women's Park Final, Men's Park Final"
+1st_August_2021,2:30,Swimming,Tokyo Aquatics Centre,"Men's 50m Freestyle Final, Women's 50m Freestyle Final, Men's 1500m Freestyle Final, Men's 50m Freestyle Victory Ceremony, Women's 4 x 100m Medley Relay Final, Women's 50m Freestyle Victory Ceremony, Men's 4 x 100m Medley Relay Final"
+1st_August_2021,3:00,Boxing,Kokugikan Arena,"Women's Fly (48-51kg) Quarterfinals, Men's Feather (52-57kg) Quarterfinals, Men's Welter (63-69kg) Semifinal, Men's Middle (69-75kg) Quarterfinals, Men's Light Heavy (75-81kg) Semifinal, Men's Super Heavy (+91kg) Quarterfinals"
+1st_August_2021,3:00,Wrestling,Makuhari Messe Hall,"Men's Greco-Roman 60 kg 1/8 Finals, Women's Freestyle 76 kg 1/8 Finals, Men's Greco-Roman 130 kg 1/8 Finals, Men's Greco-Roman 60 kg 1/4 Finals, Women's Freestyle 76 kg 1/4 Finals, Men's Greco-Roman 130 kg 1/4 Finals"
+1st_August_2021,4:00,Baseball,Yokohama Baseball Stadium,Baseball Knockout stage (#1)
+1st_August_2021,4:00,Tennis,Ariake Tennis Park,"Men's Singles Gold Medal Match, Men's Singles Victory Ceremony, Women's Doubles Gold Medal Match, Women's Doubles Victory Ceremony, Mixed Doubles Gold Medal Match"
+1st_August_2021,4:00,Sailing,Enoshima Yacht Harbour,"Finn Men, 470 Men, 470 Women, Foiling Nacra 17 Mixed, Laser Men - Medal Race, Laser Radial Women - Medal Race"
+1st_August_2021,5:00,Badminton,Musashino Forest Sport Plaza,Men's Singles Semifinals
+1st_August_2021,5:40,Basketball,Saitama Super Arena,Men's Preliminary Round Group C: Argentina vs Japan
+1st_August_2021,5:50,Weightlifting,Tokyo International Forum,Women's 76 kg Group B
+1st_August_2021,6:00,Water Polo,Tatsumi Water Polo Centre,"Women's Preliminary Round - Group B: Hungary vs China, Women's Preliminary Round - Group A: Netherlands vs Canada"
+1st_August_2021,6:15,Handball,Yoyogi National Stadium,"Men's Preliminary Round Group A: Spain vs Argentina, Men's Preliminary Round Group A: Norway vs France"
+1st_August_2021,6:20,Volleyball,Ariake Arena,"Men's Preliminary Round - Pool B: ROC vs Tunisia, Men's Preliminary Round - Pool A: Italy vs Venezuela"
+1st_August_2021,7:00,Diving,Tokyo Aquatics Centre,Women's 3m Springboard Final
+1st_August_2021,9:00,Artistic Gymnastics,Ariake Gymnastics Centre,"Men's Floor Exercise Final, Men's Floor Exercise Victory Ceremony, Women's Vault Final, Women's Vault Victory Ceremony, Men's Pommel Horse Final, Men's Pommel Horse Victory Ceremony, Women's Uneven Bars Final"
+1st_August_2021,9:00,Boxing,Kokugikan Arena,"Women's Fly (48-51kg) Quarterfinals, Men's Feather (52-57kg) Quarterfinals, Men's Welter (63-69kg) Semifinal, Men's Middle (69-75kg) Quarterfinals, Men's Light Heavy (75-81kg) Semifinal, Men´s Super Heavy (+91kg) Quarterfinals"
+1st_August_2021,9:20,Basketball,Saitama Super Arena,Men's Preliminary Round Group C: Spain vs Winner of Olympic Qualifying Tournament in Kaunas (Lithuania)
+1st_August_2021,10:15,Wrestling,Makuhari Messe Hall,"Men's Greco-Roman 60 kg Semifinals, Men's Greco-Roman 130 kg Semifinals, Women's Freestyle 76 kg Semifinals"
+1st_August_2021,10:20,Water Polo,Tatsumi Water Polo Centre,"Women's Preliminary Round - Group B: ROC vs Japan, Women's Preliminary Round - Group A: Australia vs South Africa"
+1st_August_2021,10:30,Fencing,Makuhari Messe Hall,"Men's Foil Team Bronze Medal Match, Men's Foil Team Gold Medal Match"
+1st_August_2021,10:30,Hockey,Oi Hockey Stadium,Men's Quarterfinals (2 matches)
+1st_August_2021,11:00,Athletics,Olympic Stadium,"Women's 100m Victory Ceremony, Men's High Jump Final, Men's 100m Semifinals, Women's 100m Hurdles Semifinals, Women's Shot Put Victory Ceremony, Women's Triple Jump Final, Men's 800m Semifinals, Men's 400m Hurdles Semifinals, Men's High Jump Victory Ceremony, Men's 100m Final"
+1st_August_2021,11:00,Baseball,Yokohama Baseball Stadium,Baseball Knockout stage (#2)
+1st_August_2021,11:30,Handball,Yoyogi National Stadium,"Men's Preliminary Round Group A: Germany vs Brazil, Men's Preliminary Round Group B: Denmark vs Sweden"
+1st_August_2021,11:40,Volleyball,Ariake Arena,"Men's Preliminary Round - Pool A: Japan vs Islamic Rep. of Iran, Men's Preliminary Round - Pool B: United States vs Argentina"
+1st_August_2021,11:50,Weightlifting,Tokyo International Forum,Women's 76 kg Group A
+1st_August_2021,12:30,Badminton,Musashino Forest Sport Plaza,"Women's Singles Bronze Medal Match, Women's Singles Gold Medal Match"
+1st_August_2021,13:00,Basketball,Saitama Super Arena,"Women's Preliminary Round Group A, Republic of Korea vs Serbia"
+2nd_August_2021,0:30,Shooting,Asaka Shooting Range,"25m Rapid Fire Pistol Men's Qualification - Stage 250m Rifle 3 Position, Men's Qualification, 25m Rapid Fire Pistol Men's Finals, 25m Rapid Fire Pistol Men's Victory Ceremony, 50m Rifle 3 Positions Men's Finals"
+2nd_August_2021,1:00,Athletics,Olympic Stadium,"Men's Hammer Throw Qualifying Round, Women's 1500m Round 1, Women's Triple Jump Victory Ceremony, Men's Long Jump Final, Women's 200m Round 1, Women's 100m Hurdles Final"
+2nd_August_2021,1:00,Volleyball,Ariake Arena,"Women's Preliminary Round - Pool A: Serbia vs Republic of Korea, Women's Preliminary Round - Pool B: United States vs Italy"
+2nd_August_2021,1:00,Handball,Yoyogi National Stadium,"Women's Preliminary Round Group A: Republic of Korea vs Angola, Women's Preliminary Round Group B: France vs Brazil"
+2nd_August_2021,1:00,Beach Volley,Shiokaze Park,Men's or Women's Round of 16 (8 matches)
+2nd_August_2021,1:30,Canoe Sprint,Sea Forest Waterway,"Women's Kayak Single 200m Heats, Men's Canoe Double 1000m Heats, Men's Kayak Single 1000m Heats, Women's Kayak Double 500m Heats, Women's Kayak Single 200m Quarterfinals, Men's Canoe Double 1000m Quarterfinals, Men's Kayak Single 1000m Quarterfinals, Women's Kayak Double 500m Quarterfinals"
+2nd_August_2021,1:30,Hockey,Oi Hockey Stadium,Women's Quarterfinals (2 matches)
+2nd_August_2021,2:00,Table Tennis,Tokyo Metropolitan Gymnasium,"Men's Team Round of 16, Women's Team Round of 16"
+2nd_August_2021,2:00,Water Polo,Tatsumi Water Polo Centre,"Men's Preliminary Round - Group A: Hungary vs Italy, Men's Preliminary Round - Group A: Greece vs United States"
+2nd_August_2021,2:00,Basketball,Saitama Super Arena,Women's Preliminary Round Group B: Nigeria vs Japan
+2nd_August_2021,3:00,Wrestling,Makuhari Messe Hall,"Men's Greco-Roman 60 kg Repechage, Women's Freestyle 76 kg Repechage, Men's Greco-Roman 130 kg Repechage, Men's Greco-Roman 77 kg 1/8 Finals, Women's Freestyle 68 kg 1/8 FinalsMen's Greco-Roman 97 kg 1/8 Finals, Men's Greco-Roman 77 kg 1/4 Finals, Women's Freestyle 68 kg 1/4 Finals, Men's Greco-Roman 97 kg 1/4 Finals"
+2nd_August_2021,3:50,Weightlifting,Tokyo International Forum,Women's 87 kg Group B and Women's +87 kg Group B
+2nd_August_2021,4:00,Baseball,Yokohama Baseball Stadium,Baseball Knockout stage (#3)
+2nd_August_2021,4:00,Sailing,Enoshima Yacht Harbour,"470 Men, 470 Women, 49er FX Women - Medal Race, 49er Men - Medal Race"
+2nd_August_2021,5:00,Badminton,Musashino Forest Sport Plaza,"Women's Doubles Bronze Medal Match, Women's Doubles Gold Medal Match"
+2nd_August_2021,5:40,Basketball,Saitama Super Arena,Women's Preliminary Round Group B: France vs United States
+2nd_August_2021,6:00,Water Polo,Tatsumi Water Polo Centre,"Men's Preliminary Round - Group B: Serbia vs Montenegro, Men's Preliminary Round - Group B: Spain vs Croatia"
+2nd_August_2021,6:15,Handball,Yoyogi National Stadium,"Women's Preliminary Round Group B: Spain vs ROC, Women's Preliminary Round Group B: Hungary vs Sweden"
+2nd_August_2021,6:20,Volleyball,Ariake Arena,"Women's Preliminary Round - Pool B: ROC vs Turkey, Women's Preliminary Round - Pool B: China vs Argentina"
+2nd_August_2021,6:30,Table Tennis,Tokyo Metropolitan Gymnasium,"Men's Team Quarterfinals, Women's Team Quarterfinals"
+2nd_August_2021,7:00,Diving,Tokyo Aquatics Centre,Men's 3m Springboard Preliminary
+2nd_August_2021,7:30,Cycling Track,Izu Velodrome,"Women's Team Sprint Qualifying, Women's Team Pursuit Qualifying, Women's Team Sprint First round, Men's Team Pursuit Qualifying, Women's Team Sprint Finals"
+2nd_August_2021,7:50,Weightlifting,Tokyo International Forum,Women's 87 kg Group A
+2nd_August_2021,9:00,Artistic Gymnastics,Ariake Gymnastics Centre,"Men's Rings Final, Men's Rings Victory Ceremony, Women's Floor Exercise Final, Women's Floor Exercise Victory Ceremony, Men's Vault Final"
+2nd_August_2021,9:00,Football,Ibaraki Kashima Stadium,Women's Semifinal (2 matches)
+2nd_August_2021,9:00,Equestrian,Equestrian Park,"Eventing Jumping Team Final and Individual Qualifier, Eventing Jumping Individual Final"
+2nd_August_2021,9:20,Basketball,Saitama Super Arena,Women's Preliminary Round Group C: China vs Belgium
+2nd_August_2021,10:15,Wrestling,Makuhari Messe Hall,"Men's Greco-Roman 77 kg Semifinals, Men's Greco-Roman 97 kg Semifinals, Women's Freestyle 68 kg Semifinals, Men's Greco-Roman 60 kg Bronze Medal Matches, Men's Greco-Roman 60 kg Final, Men's Greco-Roman 130 kg Bronze Medal Matches, Men's Greco-Roman 130 kg Final, Men's Greco-Roman 60 kg Victory Ceremony, Women's Freestyle 76 kg Bronze Medal Matches, Women's Freestyle 76 kg Final"
+2nd_August_2021,10:20,Water Polo,Tatsumi Water Polo Centre,"Men's Preliminary Round - Group A: Japan vs South Africa, Men's Preliminary Round - Group B: Australia vs Kazakhstan"
+2nd_August_2021,10:30,Handball,Yoyogi National Stadium,Women's Quarterfinals (2 matches)
+2nd_August_2021,11:00,Athletics,Olympic Stadium,"Men's 100m Victory Ceremony, Men's Long Jump Victory Ceremony, Women's Pole Vault Qualifying Round, Women's 200m Semifinals, Women's 100m Hurdles Victory Ceremony, Women's Discus Throw Final, Men's 400m Semifinals, Women's 400m Hurdles Semifinals, Men's 3000m Steeplechase Final, Women's 5000m Final"
+2nd_August_2021,11:00,Baseball,Yokohama Baseball Stadium,Baseball Knockout stage(#3)
+2nd_August_2021,11:30,Artistic Swimming,Tokyo Aquatics Centre,Duet Free Routine Preliminary
+2nd_August_2021,11:30,Handball,Yoyogi National Stadium,"Women's Preliminary Round Group A: Netherlands vs Montenegro, Women's Preliminary Round Group A: Norway vs Japan"
+2nd_August_2021,11:30,Table Tennis,Tokyo Metropolitan Gymnasium,"Men's Team Quarterfinals, Women's Team Quarterfinals"
+2nd_August_2021,11:40,Volleyball,Ariake Arena,"Women's Preliminary Round - Pool A: Japan vs Dominican Rep., Women's Preliminary Round - Pool A: Brazil vs Kenya"
+2nd_August_2021,11:50,Weightlifting,Tokyo International Forum,Women's +87 kg Group A
+2nd_August_2021,12:00,Badminton,Musashino Forest Sport Plaza,"Men's Singles Bronze Medal Match, Men's Singles Gold Medal Match"
+2nd_August_2021,13:00,Basketball,Saitama Super Arena,Women's Preliminary Round Group C: Australia vs Puerto Rico
+3rd_August_2021,1:00,Athletics,Olympic Stadium,"Men's Triple Jump Qualifying Round, Men's 1500m Round 1, Women's Javelin Throw Qualifying Round, Women's 400m Round 1, Women's Discus Throw Victory Ceremony, Men's 3000m Steeplechase Victory Ceremony, Women's Long Jump Final, Men's 200m Round 1, Men's 400m Hurdles Final"
+3rd_August_2021,1:00,Volleyball,Ariake Arena,Men's Quarterfinal
+3rd_August_2021,1:00,Beach Volleyball,Shiokaze Park,Women's Quarterfinals (2 matches)
+3rd_August_2021,1:30,Canoe Sprint,Sea Forest Waterway,"Women's Kayak Single 200m Semifinals, Men's Canoe Double 1000m Semifinals, Men's Kayak Single 1000m Semifinals, Women's Kayak Double 500m Semifinals, Women's Kayak Single 200m Finals, Men's Canoe Double 1000m Finals, Men's Kayak Single 1000m Finals, Women's Kayak Double 500m Finals"
+3rd_August_2021,1:30,Handball,Yoyogi National Stadium,Men's Quarterfinal
+3rd_August_2021,2:00,Basketball,Saitama Super Arena,Men's Quarterfinal
+3rd_August_2021,2:00,Tennis,Ariake Tennis Park,"Men's Team Quarterfinals, Women's Team Quarterfinals"
+3rd_August_2021,2:00,Diving,Tokyo Aquatics Centre,Men's 3m Springboard Semifinal
+3rd_August_2021,2:30,Hockey,Oi Hockey Stadium,Men's Semifinal
+3rd_August_2021,3:00,Boxing,Kokugikan Arena,"Men's Fly (48-52kg) Quarterfinals, Men's Feather (52-57kg) Semifinal, Men's Light (57-63kg) Quarterfinals, Men's Heavy (81-91kg) Semifinal, Women's Light (57-60kg) Quarterfinals, Women's Feather (54-57kg) Final"
+3rd_August_2021,3:00,Wrestling,Makuhari Messe Hall,"Men's Greco-Roman 77 kg Repechage, Women's Freestyle 68 kg Repechage, Men's Greco-Roman 97 kg Repechage, Men's Greco-Roman 67 kg 1/8 Finals, Women's Freestyle 62 kg 1/8 Finals, Men's Greco-Roman 87 kg 1/8 Finals, Men's Greco-Roman 67 kg 1/4 FinalsWomen's Freestyle 62 kg 1/4 Finals, Men's Greco-Roman 87 kg 1/4 Finals"
+3rd_August_2021,5:00,Volleyball,Ariake Arena,Men's Quarterfinal
+3rd_August_2021,5:15,Handball,Yoyogi National Stadium,Men's Quarterfinal
+3rd_August_2021,5:40,Basketball,Saitama Super Arena,Men's Quarterfinal
+3rd_August_2021,5:50,Weightlifting,Tokyo International Forum,Men's 109 kg Group B
+3rd_August_2021,6:00,Water Polo,Tatsumi Water Polo Centre,Women's Quarterfinals (2 matches)
+3rd_August_2021,6:30,Sailing,Enoshima Yacht Harbour,"Finn Men - Medal Race, Foiling Nacra 17 Mixed - Medal Race"
+3rd_August_2021,7:00,Diving,Tokyo Aquatics Centre,Men's 3m Springboard Final
+3rd_August_2021,7:30,Cycling Track,Izu Velodrome,"Women's Team Pursuit First round, Men's Team Sprint Qualifying, Men's Team Pursuit First round, Men's Team Sprint First round, Women's Team Pursuit Finals, Men's Team Sprint Finals"
+3rd_August_2021,9:00,Artistic Gymnastics,Ariake Gymnastics Centre,"Men's Parallel Bars Final, Men's Parallel Bars Victory Ceremony, Women's Balance Beam Final, Women's Balance Beam Victory Ceremony, Men's Horizontal Bar Final"
+3rd_August_2021,9:00,Handball,Yoyogi National Stadium,Men's Quarterfinal
+3rd_August_2021,9:00,Boxing,Kokugikan Arena,"Women's Light (57-60kg) Quarterfinals, Men's Fly (48-52kg) Quarterfinals, Men's Feather (52-57kg) Semifinal, Men's Light (57-63kg) Quarterfinals, Men's Heavy (81-91kg) Semifinal, Men's Welter (63-69kg) Final"
+3rd_August_2021,9:00,Football,Ibaraki Kashima Stadium,Men's Semifinal (2 matches)
+3rd_August_2021,9:00,Sport Climbing,Aomi Urban Sports Park,"Men's Combined Qualification - Speed, Men's Combined Qualification - Bouldering, Men's Combined Qualification - Lead"
+3rd_August_2021,9:00,Volleyball,Ariake Arena,Men's Quarterfinal
+3rd_August_2021,9:20,Basketball,Saitama Super Arena,Men's Quarterfinal
+3rd_August_2021,10:15,Wrestling.,Makuhari Messe Hall,"Men's Greco-Roman 67 kg SemifinalsMen's Greco-Roman 87 kg SemifinalsWomen's Freestyle 62 kg SemifinalsMen's Greco-Roman 77 kg Bronze Medal Matches, Men's Greco-Roman 77 kg Final, Men's Greco-Roman 97 kg Bronze Medal Matches, Men's Greco-Roman 97 kg Final, Men's Greco-Roman 77 kg Victory Ceremony, Women's Freestyle 68 kg Bronze Medal Matches, Women's Freestyle 68 kg Final"
+3rd_August_2021,10:20,Water Polo,Tatsumi Water Polo Centre,Women's Quarterfinals (2 matches)
+3rd_August_2021,11:00,Athletics,Olympic Stadium,"Women's Long Jump Victory Ceremony, Men's 110m Hurdles Round 1, Men's Shot Put Qualifying Round, Men's Pole Vault Final, Men's 400m Hurdles Victory Ceremony, Men's 5000m Round 1, Women's Hammer Throw Final, Men's 200m Semifinals, Women's 800m Final, Women's 200m Final"
+3rd_August_2021,11:00,Hockey,Oi Hockey Stadium,Men's Semifinal
+3rd_August_2021,11:00,Baseball,Yokohama Baseball Stadium,Baseball Knockout stage (#5)
+3rd_August_2021,11:00,Equestrian,Equestrian Park,Jumping Individual Qualifier
+3rd_August_2021,11:30,Artistic Swimming,Tokyo Aquatics Centre,Duet Technical Routine
+3rd_August_2021,11:30,Tennis,Ariake Tennis Park,Women's Team Semifinals
+3rd_August_2021,11:50,Weightlifting,Tokyo International Forum,Men's 109 kg Group A
+3rd_August_2021,12:45,Handball,Yoyogi National Stadium,Men's Quarterfinal
+3rd_August_2021,13:00,Basketball,Saitama Super Arena,Men's Quarterfinal
+3rd_August_2021,13:00,Beach Volleyball,Shiokaze Park,Women's Quarterfinals (2 matches)
+3rd_August_2021,13:30,Volleyball,Ariake Arena,Men's Quarterfinal
+4th_August_2021,22:30,Marathon Swimming,Odaiba Marine Park,Women's 10km
+4th_August_2021,23:30,Golf,Kasumigaseki Country Club,Women's Individual Stroke Play Round 1
+4th_August_2021,1:00,Athletics,Olympic Stadium,"Men's Decathlon 100m, Men's Javelin Throw Qualifying Round, Women's Heptathlon 100m Hurdles, Men's Decathlon Long JumpMen's Pole Vault Victory Ceremony, Women's Heptathlon High Jump, Women's Hammer Throw Victory Ceremony, Women´s 800m Victory Ceremony, Men's 110m Hurdles Semifinals, Women's 400m Hurdles Final, Men's Decathlon Shot Put, Women's 400m Hurdles Victory Ceremony"
+4th_August_2021,1:00,Skateboarding.,Ariake Urban Sports Park,"Women's Park Prelims Heats, Women's Park Final"
+4th_August_2021,1:00,Beach Volleyball,Shiokaze Park,Men's Quarterfinals (2 matches)
+4th_August_2021,1:00,Volleyball,Ariake Arena,Women's Quarterfinal (4 matches)
+4th_August_2021,1:30,Canoe Sprint,Sea Forest Waterway,"Men's Kayak Single 200m Heats, Women's Canoe Single 200m Heats, Women's Kayak Single 500m Heats, Men's Kayak Double 1000m Heats, Men's Kayak Single 200m Quarterfinals, Women's Canoe Single 200m Quarterfinals, Women's Kayak Single 500m Quarterfinals, Men's Kayak Double 1000m Quarterfinals"
+4th_August_2021,1:30,Handball,Yoyogi National Stadium,Women's Quarterfinal (4 matches)
+4th_August_2021,2:00,Basketball,Saitama Super Arena,Women's Quarterfinal
+4th_August_2021,2:00,Table Tennis,Tokyo Metropolitan Gymnasium,Women's Team Semifinals
+4th_August_2021,2:30,Hockey,Oi Hockey Stadium,Women's Semifinal
+4th_August_2021,3:00,Wrestling,Makuhari Messe Hall,"Men's Greco-Roman 67 kg Repechage, Women's Freestyle 62 kg Repechage, Men's Greco-Roman 87 kg Repechage, Men's Freestyle 57 kg 1/8 Finals, Women's Freestyle 57 kg 1/8 Finals, Men's Freestyle 86 kg 1/8 Finals, Men's Freestyle 57 kg 1/4 Finals, Women's Freestyle 57 kg 1/4 Finals, Men's Freestyle 86 kg 1/4 Finals"
+4th_August_2021,4:00,Baseball,Yokohama Baseball Stadium,Baseball Knockout stage (#6)
+4th_August_2021,5:40,Basketball,Saitama Super Arena,Women's Quarterfinal
+4th_August_2021,5:50,Weightlifting,Tokyo International Forum,Men's +109 kg Group B
+4th_August_2021,6:00,Boxing,Kokugikan Arena,"Women's Fly (48-51kg) Semifinals, Women's Welter (64-69kg) Semifinals, Men's Super Heavy (+91kg) Semifinals, Men's Light Heavy (75-81kg) Final"
+4th_August_2021,6:00,Water Polo,Tatsumi Water Polo Centre,Men's Quarterfinals (2 matches)
+4th_August_2021,6:30,Sailing,Enoshima Yacht Harbour,"470 Men - Medal Race, 470 Women - Medal Race"
+4th_August_2021,6:30,Table Tennis,Tokyo Metropolitan Gymnasium,Men's Team Semifinals
+4th_August_2021,7:00,Diving,Tokyo Aquatics Centre,Women's 10m Platform Preliminary
+4th_August_2021,7:30,Cycling Track,Izu Velodrome,"Men's Sprint Qualifying, Women's Keirin First round, Men's Sprint 1/32 Finals, Women's Keirin Repechages, Men's Sprint 1/32 Finals Repechages, Men's Team Pursuit Finals, Men's Sprint 1/16 Finals, Men's Team Pursuit Victory Ceremony, Men's Sprint 1/16 Finals Repechages"
+4th_August_2021,9:00,Sport Climbing,Aomi Urban Sports Park,"Women's Combined Qualification - Speed, Women's Combined Qualification - Bouldering, Women's Combined Qualification - Lead"
+4th_August_2021,9:20,Basketball,Saitama Super Arena,Women's Quarterfinal
+4th_August_2021,10:20,Water Polo,Tatsumi Water Polo Centre,Men's Quarterfinals (2 matches)
+4th_August_2021,10:30,Athletics,Olympic Stadium,"Men's Decathlon High Jump, Women's 1500m Semifinals, Women's Heptathlon Shot Put, Women's 400m Semifinals, Women's 200m Victory Ceremony, Women's 3000m Steeplechase Final, Men's Hammer Throw Final, Women's Heptathlon 200m, Women's 3000m Steeplechase Victory Ceremony, Men's 800m Final, Men's Decathlon 400m, Men's 200m Final"
+4th_August_2021,10:15,Wrestling,Makuhari Messe Hall,"Men's: Freestyle 57 kg Semifinals, Men´s Freestyle 86 kg Semifinals, Women's Freestyle 57 kg Semifinals, Men's Greco-Roman 67 kg Bronze Medal Matches, Men's Greco-Roman 67 kg Final, Men's Greco-Roman 87 kg Bronze Medal Matches, Men´s Greco-Roman 87 kg Final, Men's Greco-Roman 67 kg Victory Ceremony, Women's Freestyle 62 kg Bronze Medal Matches, Women's Freestyle 62 kg Final"
+4th_August_2021,11:00,Baseball,Yokohama Baseball Stadium,Baseball Knockout stage (#7)
+4th_August_2021,11:00,Equestrian,Equestrian Park,Jumping Individual Final
+4th_August_2021,11:00,Hockey,Oi Hockey Stadium,Women's Semifinal
+4th_August_2021,11:30,Table Tennis,Tokyo Metropolitan Gymnasium,Men's Team Semifinals
+4th_August_2021,11:30,Artistic Swimming,Tokyo Aquatics Centre,Duet Free Routine Final
+4th_August_2021,11:50,Weightlifting,Tokyo International Forum,Men's +109 kg Group A
+4th_August_2021,13:00,Basketball,Saitama Super Arena,Women's Quarterfinal
+4th_August_2021,13:00,Beach Volleyball,Shiokaze Park,Men's Quarterfinals (2 matches)
+5th_August_2021,22:30,Marathon Swimming,Odaiba Marine Park,Men's 10km
+5th_August_2021,23:30,Golf,Kasumigaseki Country Club,Women's Individual Stroke Play Round 2
+5th_August_2021,1:00,Athletics,Olympic Stadium,"Men's Decathlon 110m Hurdles, Women's High Jump Qualifying Round, Men's Hammer Throw Victory Ceremony, Women's Heptathlon Long Jump, Men's Decathlon Discus Throw, Women's 4 x 100m Relay Round 1, Men's 800m Victory Ceremony, Men's 200m Victory Ceremony, Men's Triple Jump Final, Men's Shot Put Final, Men's 4 x 100m Relay Round 1, Men's 110m Hurdles Final, Men's Decathlon Pole Vault, Women's Heptathlon Javelin Throw"
+5th_August_2021,1:00,Skateboarding,Ariake Urban Sports Park,"Men's Park Prelims Heats, Men's Park Final"
+5th_August_2021,1:00,Beach Volleyball,Shiokaze Park,Men's or Women's Semifinals (2 matches)
+5th_August_2021,1:30,Canoe Sprint,Sea Forest Waterway,"Men's Kayak Single 200m Semifinals, Women's Canoe Single 200m Semifinals, Women's Kayak Single 500m Semifinals, Men's Kayak Double 1000m Semifinals, Men's Kayak Single 200m Finals, Women's Canoe Single 200m Finals, Women's Kayak Single 500m Finals, Men's Kayak Double 1000m Finals"
+5th_August_2021,2:00,Karate,Nippon Budokan,"Women's Kata Elimination Round, Women's Kata Ranking Round, Men's Kumite -67 kg Elimination Round"
+5th_August_2021,2:00,Diving,Tokyo Aquatics Centre,Women's 10m Platform Semifinal
+5th_August_2021,2:30,Hockey,Oi Hockey Stadium,Men's Bronze Medal Match
+5th_August_2021,3:00,Table Tennis,Tokyo Metropolitan Gymnasium,Women's Team Bronze Medal Team Match
+5th_August_2021,3:00,Wrestling,Makuhari Messe Hall,"Men's Freestyle 57 kg Repechage, Women's Freestyle 57 kg Repechage, Men's Freestyle 86 kg Repechage, Men's Freestyle 74 kg 1/8 Finals, Women's Freestyle 53 kg 1/8 Finals, Men's Freestyle 125 kg 1/8 Finals, Men's Freestyle 74 kg 1/4 Finals, Women's Freestyle 53 kg 1/4 Finals, Men's Freestyle 125 kg 1/4 Finals"
+5th_August_2021,5:00,Modern Pentathlon,Musashino Forest Sport Plaza,"Women's Fencing Ranking Round, Men's Fencing Ranking Round"
+5th_August_2021,5:00,volleyball,Ariake Arena,Men's Semifinal
+5th_August_2021,5:15,Basketball,Saitama Super Arena,Men's Semifinal
+5th_August_2021,6:00,Boxing.,Kokugikan Arena,"Women's Light (57-60kg) Semifinals, Men's Fly (48-52kg) Semifinals, Men's Middle (69-75kg) Semifinals, Men's Feather (52-57kg) Final"
+5th_August_2021,6:00,Water Polo,Tatsumi Water Polo Centre,"Women's Classification match (5th-8th places), Women's Semifinal"
+5th_August_2021,7:00,Diving,Tokyo Aquatics Centre,Women's 10m Platform Final
+5th_August_2021,7:30,Cycling Track,Izu Velodrome,"Men's Omnium Scratch Race 1/4Men's Sprint 1/8 FinalsWomen's Keirin QuarterfinalsMen's Sprint 1/8 Finals RepechagesMen's Omnium Tempo Race 2/4, Men's Sprint Quarterfinals, Women's Keirin Semifinals, Men's Omnium Elimination Race 3/4, Women's Keirin Final 7-12, Women's Keirin Final 1-6, Men's Omnium Points Race 4/4, Men's Sprint Race for 5th-8th Places"
+5th_August_2021,8:30,Athletics,Sapporo Odori Park,"Men's 20km Race Walk Final, Men's 20km Race Walk Venue Ceremony"
+5th_August_2021,9:00,Football,Ibaraki Kashima Stadium,Women's Bronze Medal Match
+5th_August_2021,9:00,Handball,Yoyogi National Stadium,Men's Semifinal
+5th_August_2021,9:00,Karate,Nippon Budokan,"Women's Kumite -55 kg Elimination Round, Women's Kata Bronze Medal Bouts, Women's Kata Final Bout, Men's Kumite -67 kg Semifinals, Women's Kumite -55 kg Semifinals, Men's Kumite -67 kg Final, Women's Kumite -55 kg Final"
+5th_August_2021,9:30,Sport Climbing,Aomi Urban Sports Park,"Men's Combined Final - Speed, Men's Combined Final - Bouldering, Men's Combined Final - Lead"
+5th_August_2021,10:15,Wrestling,Makuhari Messe Hall,"Men's Freestyle 74 kg Semifinals, Men's Freestyle 125 kg Semifinals, Women's Freestyle 53 kg Semifinal, Men's Freestyle 57 kg Bronze Medal Matches, Men's Freestyle 57 kg Final, Men's Freestyle 86 kg Bronze Medal Matches, Men's Freestyle 86 kg Final, Women's Freestyle 57 kg Bronze Medal Matches, Women's Freestyle 57 kg Final"
+5th_August_2021,10:20,Water Polo,Tatsumi Water Polo Centre,"Women's Classification match (5th-8th places), Women's Semifinal"
+5th_August_2021,11:00,Athletics,Olympic Stadium,"Men's Shot Put Victory Ceremony, Men's Triple Jump Victory Ceremony, Men's Decathlon Javelin Throw, Women's Pole Vault Final, Women's 4 x 400m Relay Round 1, Men's 1500m Semifinals, Men's 110m Hurdles Victory Ceremony, Men's 400m Final, Women´s Heptathlon 800m, Men's Decathlon 1500m"
+5th_August_2021,11:00,Hockey,Oi Hockey Stadium,Men's Gold Medal Match
+5th_August_2021,11:00,Baseball,Yokohama Baseball Stadium,Baseball Semifinal(#8)
+5th_August_2021,11:30,Table Tennis,Tokyo Metropolitan Gymnasium,Women's Team Gold Medal Team Match
+5th_August_2021,12:00,Basketball,Saitama Super Arena,Men's Semifinal
+5th_August_2021,13:00,Beach Volleyball,Shiokaze Park,Men's or Women's Semifinals (2 matches)
+5th_August_2021,13:00,Handball,Yoyogi National Stadium,Men's Semifinal
+5th_August_2021,13:00,Volleyball,Ariake Arena,Men's Semifinal
+6th_August_2021,21:30,Athletics,Sapporo Odori Park,Men's 50km Race Walk Final
+6th_August_2021,23:30,Golf,Kasumigaseki Country Club,Women's Individual Stroke Play Round 3
+6th_August_2021,1:30,Canoe Sprint,Sea Forest Waterway,"Women's Canoe Double 500m Heats, Men's Canoe Single 1000m Heats, Women's Kayak Four 500m Heats, Men's Kayak Four 500m Heats, Women's Canoe Double 500m Quarterfinals, Men's Canoe Single 1000m Quarterfinals"
+6th_August_2021,2:00,Beach Volleyball,Shiokaze Park,"Women's Bronze Medal Match, Women's Gold Medal Match"
+6th_August_2021,2:00,Karate,Nippon Budokan,"Men's Kata Elimination Round, Men's Kata Ranking Round, Women's Kumite -61 kg Elimination Round"
+6th_August_2021,2:20,Rhythmic Gymnastics,Ariake Gymnastics Centre,Individual All-Around Qualification
+6th_August_2021,2:30,Hockey,Oi Hockey Stadium,Women's Bronze Medal Match
+6th_August_2021,3:00,Football,Olympic Stadium,Women's Gold Medal Match
+6th_August_2021,3:00,Wrestling,Makuhari Messe Hall,"Men's Freestyle 74 kg Repechage, Women's Freestyle 53 kg Repechage, Men's Freestyle 125 kg Repechage, Men's Freestyle 65 kg 1/8 Finals, Women's Freestyle 50 kg 1/8 Finals, Men's Freestyle 97 kg 1/8 Finals, Men's Freestyle 65 kg 1/4 Finals, Women's Freestyle 50 kg 1/4 Finals, Men's Freestyle 97 kg 1/4 Finals"
+6th_August_2021,3:00,Table Tennis,Tokyo Metropolitan Gymnasium,Men's Team Bronze Medal Team Match
+6th_August_2021,5:00,Volleyball,Ariake Arena,Women's Semifinal
+6th_August_2021,5:40,Basketball,Saitama Super Arena,Women's Semifinal
+6th_August_2021,6:00,Boxing,Kokugikan Arena,"Women's Middle (69-75kg) Semifinals, Men's Light (57-63kg) Semifinals, Men's Heavy (81-91kg) Final"
+6th_August_2021,6:00,Water Polo,Tatsumi Water Polo Centre,"Men's Classification match (5th-8th places), Men's Semifinal"
+6th_August_2021,6:30,Modern Pentathlon,Tokyo Stadium,"Women's Swimming, Women's Fencing Bonus Round, Women's Riding Show Jumping, Women's Laser Run"
+6th_August_2021,6:50,Rhythmic Gymnastics,Ariake Gymnastics Centre,Individual All-Around Qualification
+6th_August_2021,7:00,Diving,Tokyo Aquatics Centre,Men's 10m Platform Preliminary
+6th_August_2021,7:30,Cycling Track,Izu Velodrome,"Women's Sprint Qualifying, Men's Sprint Semifinals, Women's Sprint 1/32 Finals, Women's Sprint 1/32 Finals Repechages, Women's Madison Final, Men's Sprint Finals, Women's Sprint 1/16 Finals, Women's Sprint 1/16 Finals Repechages"
+6th_August_2021,8:30,Athletics,Sapporo Odori Park,Women's 20km Race Walk Final
+6th_August_2021,9:00,Handball,Yoyogi National Stadium,Women's Semifinal
+6th_August_2021,9:00,Karate,Nippon Budokan,"Men's Kumite -75 kg Elimination Round, Men's Kata Bronze Medal Bouts, Men's Kata Final Bout, Women's Kumite -61 kg Semifinals, Men's Kumite -75 kg Semifinals, Women's Kumite -61 kg Final, Men's Kumite -75 kg Final"
+6th_August_2021,9:30,Sport Climbing,Aomi Urban Sports Park,"Women's Combined Final - Speed, Women's Combined Final - Bouldering, Women's Combined Final - Lead"
+6th_August_2021,10:15,Wrestling,Makuhari Messe Hall,"Men's Freestyle 65 kg Semifinals, Men's Freestyle 97 kg Semifinals, Women's Freestyle 50 kg Semifinals, Men's Freestyle 74 kg Bronze Medal Matches, Men's Freestyle 74 kg Final, Men's Freestyle 125 kg Bronze Medal Matches, Men's Freestyle 125 kg Final, Men's Freestyle 74 kg Victory Ceremony, Women's Freestyle 53 kg Bronze Medal Matches, Women's Freestyle 53 kg Final"
+6th_August_2021,10:20,Water Polo,Tatsumi Water Polo Centre,"Men's Classification match (5th-8th places), Men's Semifinal"
+6th_August_2021,11:00,Equestrian,Equestrian Park,Jumping Team Qualifier
+6th_August_2021,11:00,Hockey,Oi Hockey Stadium,Women's Gold Medal Match
+6th_August_2021,11:30,Artistic Swimming,Tokyo Aquatics Centre,Team Technical Routine
+6th_August_2021,11:30,Table Tennis,Tokyo Metropolitan Gymnasium,Men's Team Gold Medal Team Match
+6th_August_2021,11:50,Athletics,Olympic Stadium,"Men's 4 x 400m Relay Round 1, Women's Javelin Throw Final ,Men's 5000m Final, Women's 400m Final, Women's 1500m Final, Women's 4 x 100m Relay Final, Men's 4 x 100m Relay Final"
+6th_August_2021,12:00,Basketball,Saitama Super Arena,Women's Semifinal
+6th_August_2021,12:00,Football,Saitama Stadium,Men's Bronze Medal Match
+6th_August_2021,13:00,Handball,Yoyogi National Stadium,Women's Semifinal
+6th_August_2021,13:00,Volleyball,Ariake Arena,Women's Semifinal
+7th_August_2021,23:00,Athletics,Sapporo Odori Park,Women's Marathon Final
+7th_August_2021,23:30,Golf,Kasumigaseki Country Club,Women's Individual Stroke Play Round 4
+7th_August_2021,1:30,Canoe Sprint,Sea Forest Waterway,"Women's Canoe Double 500m Semifinals, Men's Canoe Single 1000m Semifinals, Women's Kayak Four 500m Semifinals, Men's Kayak Four 500m Semifinals, Women's Canoe Double 500m Finals, Men's Canoe Single 1000m Finals, Women's Canoe Double 500m Victory Ceremony, Women's Kayak Four 500m Final, Men's Canoe Single 1000m Victory Ceremony, Men's Kayak Four 500m Final"
+7th_August_2021,1:30,Water Polo,Tatsumi Water Polo Centre,"Women's classification match (7th-8th places), Women's classification match (5th-6th places)"
+7th_August_2021,2:00,Beach Volleybal,Shiokaze Park,"Men's Bronze Medal Match, Men's Gold Medal Match"
+7th_August_2021,2:00,Rhythmic Gymnastics,Ariake Gymnastics Centre,Group All-Around Qualification
+7th_August_2021,2:00,Diving,Tokyo Aquatics Centre,Men's 10m Platform Semifinal
+7th_August_2021,3:30,Basketball,Saitama Super Arena,Men's Gold Medal Game
+7th_August_2021,4:00,Baseball,Yokohama Baseball Stadium,Baseball Bronze Medal Game (#9)
+7th_August_2021,5:30,Volleyball,Ariake Arena,Men's Bronze Medal Match
+7th_August_2021,5:40,Water Polo,Tatsumi Water Polo Centre,Women's Bronze Medal Match
+7th_August_2021,6:00,Boxing,Kokugikan Arena,"Men's Fly (48-52kg) Final, Women's Fly (48-51kg) Final, Men's Fly (48-52kg) Victory Ceremony, Men's Middle (69-75kg) Final, Women's Fly (48-51kg) Victory Ceremony, Women's Welter (64-69kg) Final"
+7th_August_2021,6:00,Karate,Nippon Budokan,"Women's Kumite +61 kg Elimination Round, Men's Kumite +75 kg Elimination Round, Women's Kumite +61 kg Semifinals, Men's Kumite +75 kg Semifinals, Women's Kumite +61 kg Final, Men's Kumite +75 kg Final"
+7th_August_2021,6:30,Modern Pentathlon,Tokyo Stadium,"Men's Swimming, Men's Fencing Bonus Round, Men's Riding Show Jumping, Men's Laser Run"
+7th_August_2021,7:00,Diving,Tokyo Aquatics Centre,Men's 10m Platform Final
+7th_August_2021,7:20,Rhythmic Gymnastics,Ariake Gymnastics Centre,Individual All-Around Final
+7th_August_2021,7:30,Cycling Track,Izu Velodrome,"Women's Sprint 1/8 Finals, Men's Keirin First Round, Women's Sprint 1/8 Finals Repechages, Men's Keirin Repechages, Women's Sprint Quarterfinals, Men's Madison Final"
+7th_August_2021,8:00,Basketball,Saitama Super Arena,Women's Bronze Medal Game
+7th_August_2021,8:30,Water Polo,Tatsumi Water Polo Centre,Women's Gold Medal Match
+7th_August_2021,9:00,Handball,Yoyogi National Stadium,Men's Bronze Medal Match
+7th_August_2021,10:45,Wrestling,Makuhari Messe Hall,"Men's Freestyle 65 kg Repechage, Women's Freestyle 50 kg Repechage, Men's Freestyle 97 kg Repechage, Men's Freestyle 65 kg Bronze Medal Matches, Men's Freestyle 65 kg Final, Men's Freestyle 97 kg Bronze Medal Matches, Men's Freestyle 97 kg Final, Men's Freestyle 65 kg Victory Ceremony, Women's Freestyle 50 kg Bronze Medal Matches, Women's Freestyle 50 kg Final"
+7th_August_2021,11:00,Athletics,Olympic Stadium,"Women's High Jump Final, Women's 10000m Final, Men's Javelin Throw Final, Women's Javelin Throw Victory Ceremony, Men's 1500m Final, Women's 10000m Victory Ceremony, Men's 1500m Victory Ceremony, Women's 4 x 400m Relay Final, Men's Javelin Throw Victory Ceremony, Men's 4 x 400m Relay Final"
+7th_August_2021,11:00,Equestrian,Equestrian Park,Jumping Team Final
+7th_August_2021,11:00,Baseball,Yokohama Baseball Stadium,Baseball Gold Medal Game (#10)
+7th_August_2021,11:30,Artistic Swimming,Tokyo Aquatics Centre,Team Free Routine
+7th_August_2021,12:00,Basketball,Saitama Super Arena,Men's Bronze Medal Game
+7th_August_2021,12:30,Football,Olympic Stadium,Men's Gold Medal Match
+7th_August_2021,13:00,Handball,Yoyogi National Stadium,Men's Gold Medal Match
+7th_August_2021,13:15,Volleyball,Ariake Arena,Men's Gold Medal Match
+8th_August_2021,23:00,Athletics,Sapporo Odori Park,Men's Marathon Final
+8th_August_2021,1:00,Volleyball,Ariake Arena,Women's Bronze Medal Match
+8th_August_2021,1:30,Water Polo,Tatsumi Water Polo Centre,"Men's classification match (7th-8th places), Men's classification match (5th-6th places)"
+8th_August_2021,2:00,Cycling Track,Izu Velodrome,"Women's Omnium Scratch Race 1/4, Women's Sprint Semifinals, Men's Keirin Quarterfinals, Women's Omnium Tempo Race 2/4, Women's Sprint Race for 5th-8th Places, Men's Keirin Semifinals, Women's Sprint Finals, Women's Omnium Elimination Race 3/4, Men's Keirin Final 7-12Men's Keirin Final 1-6, Men's Keirin Victory Ceremony, Women's Omnium Points Race 4/4"
+8th_August_2021,3:00,Handball,Yoyogi National Stadium,Women's Bronze Medal Match
+8th_August_2021,3:00,Rhythmic Gymnastics,Ariake Gymnastics Centre,Group All-Around Final
+8th_August_2021,3:30,Basketball,Saitama Super Arena,Women's Gold Medal Game
+8th_August_2021,5:30,Volleyball,Ariake Arena,Women's Gold Medal Match
+8th_August_2021,5:40,Water Polo,Tatsumi Water Polo Centre,Men's Bronze Medal Match
+8th_August_2021,6:00,Boxing.,Kokugikan Arena,"Women's Light (57-60kg) Final, Men's Light (57-63kg) Final, Women's Light (57-60kg) Victory Ceremony, Women's Middle (69-75kg) Final, Men's Light (57-63kg) Victory Ceremony, Men's Super Heavy (+91kg) Final"
+8th_August_2021,7:00,Handball,Yoyogi National Stadium,Women's Gold Medal Match
+8th_August_2021,8:30,Water Polo,Tatsumi Water Polo Centre,Men's Gold Medal Match
+8th_August_2021,12:00,Closing Ceremony,Olympic Stadium,-

@@ -1,6 +1,6 @@
 -- Preppin Data
--- 2021 Week 26
---https://preppindata.blogspot.com/2021/06/2021-week-26-rolling-weekly-revenue.html
+-- 2021 Week 28
+-- https://preppindata.blogspot.com/2021/07/2021-week-28-its-coming-rome.html
 
 -- SQL flavor: PostgreSQL
 
