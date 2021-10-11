@@ -5,7 +5,8 @@
 -- SQL flavor: PostgreSQL
 
 -- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
-
+-- Date parsing with to_date
+-- Aggregations
 
 -- STEP 1
 -- Form Flight name
@@ -47,8 +48,6 @@ FROM
 	--Mimic the SUMIFS and AverageIFS functions by aggregating the previous requirements fields by each Flight and Class
 	--Round all data to zero decimal places
 
-DROP TABLE IF EXISTS t_classified;
-CREATE TEMPORARY TABLE t_classified AS; 
 SELECT
 	flight_name,
 	"Class",

@@ -12,7 +12,7 @@
 -- Unpivot the menu table to have it in tabular form
 
 DROP TABLE IF EXISTS temp_menu;
-CREATE TEMPORARY TABLE temp_menu AS 
+CREATE TEMPORARY TABLE temp_menu AS
 WITH Unpivoted AS (
 		SELECT
 			unnest(array['Pizza', 'Pasta', 'House_plate']) As meal_type,
