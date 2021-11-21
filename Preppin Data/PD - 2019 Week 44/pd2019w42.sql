@@ -5,6 +5,8 @@
 -- SQL flavor: PostgreSQL
 
 -- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
+-- Union to unpivot
+-- Joins, aggregations and ranks
 
 -- Unpivot the sales
 
