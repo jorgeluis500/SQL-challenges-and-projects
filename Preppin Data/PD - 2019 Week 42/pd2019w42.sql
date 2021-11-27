@@ -8,7 +8,6 @@
 -- Split strings with split_part
 -- Subbstring match
 -- Trim text
--- 
 
 -- STEP 1 
 -- Split location into Cities and Countries
