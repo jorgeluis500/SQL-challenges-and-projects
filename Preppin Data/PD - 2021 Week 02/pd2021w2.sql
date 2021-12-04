@@ -31,7 +31,7 @@ FROM
 	pd2021w02_bike_sales
 ;
 
-SELECT * FROM t_cleaning ; -- Test
+--SELECT * FROM t_cleaning ; -- Test
 
 -- STEP 2 - TABLE 1
 -- Aggregate Value per Bike, Order Value and Quantity by Brand and Bike Type to form:
