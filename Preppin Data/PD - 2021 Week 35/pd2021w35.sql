@@ -18,9 +18,7 @@ FROM pd2021w35_pictures_csv;
 */
 
 -- STEP 1
--- Split Widths & Lengths
-
--- For pictures
+-- Split Widths & Lengths for pictures
 
 WITH pictures_splits AS (
 	SELECT
@@ -44,7 +42,8 @@ SELECT
 FROM pictures_splits
 ;
 
--- For frames
+-- Split Widths & Lengths for frames
+-- Convert them to cm
 
 WITH frames_split AS (
 	SELECT
@@ -60,10 +59,18 @@ WITH frames_split AS (
 	FROM
 		pd2021w35_frames_csv
 )
-SELECT 
-*,
-(regexp_matches(frame_length,'(\d+)'))[1] AS frame_length_number ,
-(regexp_matches(frame_width,'(\d+)'))[1] AS frame_width_number
-FROM frames_split
+, numbers AS (
+	SELECT 
+		*,
+		CAST( (regexp_matches(frame_length,'(\d+)'))[1] AS INT) AS frame_length_number,
+		CAST( (regexp_matches(frame_width,'(\d+)'))[1] AS INT) AS frame_width_number
+	FROM frames_split
+)
+SELECT
+	*,
+	frame_length_number * (CASE WHEN regexp_match("Size", 'cm') = '{cm}' THEN 1 ELSE 2.54 END ) AS frame_length_number_cm,
+	frame_width_number * (CASE WHEN regexp_match("Size", 'cm') = '{cm}' THEN 1 ELSE 2.54 END ) AS frame_width_number_cm
+FROM numbers
 ;
+	;
 
