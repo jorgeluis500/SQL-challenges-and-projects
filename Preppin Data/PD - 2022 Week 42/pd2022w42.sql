@@ -6,6 +6,7 @@
 -- Scaffolding with recursive query
 -- CROSS JOIN 
 -- Extract day of week from a date
+-- Fill down with sequence logic made of window functions in CTEs
 
 --Step 1 
 -- Create the min and max dates for the scaffolding
