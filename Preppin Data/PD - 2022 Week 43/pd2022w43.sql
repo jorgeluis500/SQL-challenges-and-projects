@@ -3,6 +3,8 @@
 -- https://preppindata.blogspot.com/2022/10/2022-week-43-missing-training-data-20.html
 
 -- SQL flavor: PostgreSQL
+
+-- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
 -- Scaffolding with recursive query
 -- CROSS JOIN 
 -- Extract day of week from a date
@@ -124,7 +126,7 @@ FROM t_all_data_min_date
 --SELECT * FROM t_all_data; -- Test
 
 -- STEP 6
--- Fill down logic, this time with the new table where the zeros have been added for the previous null dates
+-- Fill down logic, this time with the new table where the min date and zeros have been added for the previous null dates
 
 -- Step 6a
 -- Flag the carried overs and exclude the weekends

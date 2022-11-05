@@ -3,6 +3,8 @@
 -- https://preppindata.blogspot.com/2022/10/2022-week-42-missing-training-data.html
 
 -- SQL flavor: PostgreSQL
+
+-- TECHNIQUES LEARNED, FUNCTIONS USED, ETC.
 -- Scaffolding with recursive query
 -- CROSS JOIN 
 -- Extract day of week from a date
